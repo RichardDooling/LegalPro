@@ -237,6 +237,8 @@ not to take the client. 
 [mockingbird_movie]: http://en.wikipedia.org/wiki/To_Kill_a_Mockingbird_(film) "Wikipedia: To Kill A Mockingbird (the film)"
 
 
+[Preamble & Scope]: http://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/model_rules_of_professional_conduct_preamble_scope.html	"Model Rules: Preamble & Scope"
+
 <!-- BEGIN COMMENT -->
 
 <!--
