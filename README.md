@@ -6,7 +6,7 @@ and this is a public repository of the files I use to teach the Legal Profession
 * [My University of Nebraska College of Law page](http://law.unl.edu/richard-dooling#about).
 * [My Wikipedia page](http://en.wikipedia.org/wiki/Richard_Dooling).
 * [One sorely neglected blog](http://dooling.com).
-* [Twitter \@RichardDooling](http://twitter.com/richarddooling).
+* [Twitter @RichardDooling](http://twitter.com/richarddooling).
 
 Our text for the course is [Traversing the Ethical Minefield: Problems, Law, and Professional Responsibility, Third Edition (Aspen Casebook Series) Hardcover – December 20, 2012](
 http://www.amazon.com/Traversing-Ethical-Minefield-Professional-Responsibility/dp/1454808144) by Susan Martyn & Edward Fox. So the folders are named according to each chapter in that text.
