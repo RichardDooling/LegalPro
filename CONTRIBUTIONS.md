@@ -1,6 +1,4 @@
-## Entertainment Law
-
-### Lawyers For The Talent
+## Legal Pro
 
 ###### By Richard Dooling
 
