@@ -63,7 +63,7 @@ so don't be shy about nominating some for inclusion.
 
 #### Typos, Glitches
 
-If you spot a typo or formatting glitch please [submit an issue.](https://github.com/RichardDooling/Legal_Pro/issues). 
+If you spot a typo or formatting glitch please [submit an issue](https://github.com/RichardDooling/LegalPro/issues).
 
 On the [LegalPro repository page](https://github.com/RichardDooling/LegalPro), on the right, click on the "Issues" link and describe the problem. If need be, copy in text illustrating the problem.
 
