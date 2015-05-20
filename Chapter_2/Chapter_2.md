@@ -23,6 +23,49 @@ The courts govern lawyers, not legislatures.
 Nebraska has an integrated or “unified” bar. In other words, you must join the bar and pay dues if you want to practice law in Nebraska.
 Even if you are “inactive,” dues often must be paid.
 
+### Lawyers Are Super Fiduciaries!
+
+Real estate agents, stock brokers, trustees, executors . . . those are fiduciaries. Lawyers are SUPER fiduciaries. 
+
+#### Fiduciary 
+
+When one person reposes confidence, faith, and reliance in another whose aid, advice, or protection is sought in some matter. 
+
+The relation existing when good conscience requires one to act at all times for the sole benefit and interests of another with loyalty to those interests.
+
+Examples: executors or administrators and legatees or heirs; conservators and wards, trustees, or beneficiaries; partners, joint adventurers, corporate directors or officers and stockholders; majority and minority stockholders; factors, agents, or brokers and principals; attorneys and clients; promoters and stock subscribers; mutual savings banks or investment corporations and their depositors or investors; receivers, trustees in bankruptcy, or assignees in insolvency and creditors.
+
+When clients have problems with "regular" fiduciaries, they come to us for advice and protection and trust and discretion.
+
+We have to be scrupulously loyal. Your instincts, no matter how good, are not enough. The only way I know of to protect yourself and to protect your client is to OBEY the Model Rules. 
+
+But instincts are important, so we talk about things like having a SPIDER SENSE when YOU FEEL FUNNY about something your client is asking you to do, or even funnier when somebody is asking you to keep a secret from your client, or divulge your client’s business and so on. That's when you consult the Model Rules.
+
+#### The Model Rules
+
+Model Rules of Professional Conduct 1983. 
+
+Bob Kutak and the Kutak Commission gave us the first and best WORKING version of the Model Rules.
+
+I say WORKING version, because lawyers who went to school in the 70s or early 80s learned about the MODEL CODE of Professional Responsibility, a whirligig contraption containing Nine “Canons,” along with “Disciplinary Rules,” and  “Ethical Considerations.” 
+
+This was the ABA’s first effort at setting national standards for lawyer conduct. But Code was not popular because of the confusion over all the moving parts.
+
+And when you finish reading it, you still don’t know 
+whether contingency fees have to be in writing and 
+whether we can allow our client to take the stand when we know they are going to lie.
+
+What The Kutak commission did was make a Restatement out of the Model Rules basically. Much simpler: Rules and Comments, with the comments being the best part.
+
+And how are the Model Rules holding up in the face of globalization and technology?
+A set of rules that were drafted for the most part back in 1983, when personal computers were just becoming available and the Internet did not exist, are now being applied to a world where lawyers talk to smartphones and meet clients on Twitter. 
+
+Overall they’ve held up pretty well. A Rule that began by prohibiting IN-PERSON and LIVE TELEPHONE SOLICITATION now also covers REAL-TIME ELECTRONIC CONTACT in what used to be called a chatroom.
+
+Friending a person on Facebook can be an IMPROPER COMMUNICATION WITH A PERSON REPRESENTED BY COUNSEL, every bit as much as a lawyer calling them on the phone. 
+
+Probably would have worked even better if the ABA had taken the Kutak Commission’s original proposals for exceptions to the confidentiality rules.
+
 ### Model Rule 8.1
 
 #### Bar Admission & Disciplinary Matters
