@@ -64,6 +64,8 @@ Confidentiality is a 24/7 open all night BROAD duty to keep your mouth shut abou
 
 > The rule of client-lawyer confidentiality applies in situations other than those where evidence is sought from the lawyer through compulsion of law. 
 
+* [Model Rule 1.6 Comment 3.][aba1.6-3]
+
 ### Exception for "generally known" information?
 
 Many lawyers think that client information is NOT confidential if it is part of a public record somewhere. The Model Rules contain NO such exception.
@@ -104,6 +106,64 @@ but it's quite narrow:
 consult the Rule 1.6 confidentiality exceptions that apply in your jurisdiction, 
 then get some good advice about how to proceed.
 
+### Metadata & Misdirected Information
+
+The ABA's [Legal Technology Resource Center][ltrc] ("LTRC") has [collected ethics opinions on metadata from around the US.](http://www.americanbar.org/groups/departments_offices/legal_technology_resources/resources/charts_fyis/metadatachart.html)
+
+The LTRC defines metadata this way:
+
+> Metadata is loosely defined as "data about data." More specifically, the term refers to the embedded stratum of data in electronics file that may include such information as who authored a document, when it was created, what software was used, any comments embedded within the content, and even a record of changes made to the document.
+
+> While metadata is often harmless, it can potentially include sensitive, confidential, or privileged information. As such, it presents a serious concern for attorneys charged with maintaining confidentiality -- both their own and their clients. Professional responsibility committees at several bar associations around the country have weighed in on attorneys' ethical responsibilities regarding metadata, but the opinions vary significantly. 
+
+Under [Model Rule 4.4(b)][aba4.4] (Respect For Rights Of Third Persons):
+
+> A lawyer who receives a document or electronically stored information relating to the representation of the lawyer's client and knows or reasonably should know that the document or electronically stored information was inadvertently sent shall promptly notify the sender.  
+
+For many years, lawyers did not know whether by its terms Rule 4.4 applied to metadata contained in documents sent by attorneys. Now Ethics 20/20 updates to Rule 4.4 specifically reference metadata:
+
+> For purposes of this Rule, ‘‘document or electronically stored information’’ includes, in addition to paper documents, email and other forms of electronically stored information, including embedded data (commonly referred to as “metadata”), that is subject to being read or put into readable form.  Metadata in electronic documents creates an obligation under this Rule only if the receiving lawyer knows or reasonably should know that the metadata was inadvertently sent to the receiving lawyer. 
+
+Clear as mud that one. Are we supposed to call the other side and ask: "Was the metadata you sent with your documents advertently or inadvertently sent?"
+
+#### Metadata Ethics Opinions Around the U.S.
+
+Each jurisdiction is addressing the issue in turn, so the [LTRC][ltrc] ("LTRC") has [collected ethics opinions on metadata from around the US.](http://www.americanbar.org/groups/departments_offices/legal_technology_resources/resources/charts_fyis/metadatachart.html) and even made a map and nice table giving easy access to state bar opinions on the subject.
+
+### Confidentiality & Encryption
+
+###### Lawyers May Need to Encrypt E-Mail In Especially Risky or Sensitive Scenarios
+
+Having read reports about email accounts being hacked and the National Security Agency obtaining email communications without a search warrant, [inquiring] lawyers are concerned about whether it is proper for them to continue using email to communicate confidential information. 
+
+The panel said that although it “has not addressed the propriety of communicating confidential information by email, many other ethics committees have [concluded that] except in special circumstances, the use of email, including unencrypted email, is a proper method of communicating confidential information.”
+
+The committee agreed with those authorities.
+
+"Considering the present state of technology and email usage, a lawyer may generally communicate confidential information by email," it said. "Some circumstances, may, however, cause a lawyer to have a duty to advise a client regarding risks incident to the sending or receiving of emails arising from those circumstances and to consider whether it is prudent to use encrypted email or another form of communication."
+
+As for what circumstances may justify a departure from the general rule, the committee said lawyers should consider using encryption when:
+
+* communicating about “highly sensitive or confidential” matters;
+* “sending an email to or from an account that the email sender or recipient shares with others”;
+* “sending an email to a client when it is possible that a third person (such as a spouse in a divorce case) knows the password to the email account, or to an individual client at that client's work email account, especially if the email relates to [an] employment dispute”;
+* “sending an email from a public computer or a borrowed computer or where the lawyer knows that the emails the lawyer sends are being read on a public or borrowed computer or on an unsecure network”;
+* “sending an email if the lawyer knows that the email recipient is accessing the email on devices that are potentially accessible to third persons or are not protected by a password”; or
+* “sending an email if the lawyer is concerned that the NSA or other law enforcement agency may read the communication, with or without a warrant.”
+
+[Bloomberg BNA on Confidentiality: Lawyers May Need to Encrypt E-Mail In Especially Risky or Sensitive Scenarios.](http://lawyersmanual.bna.com/mopw2/3300/split_display.adp?fedfid=68911229&vname=mopcnotallissues&jd=a0g6d0j1v6&split=0)
+
+[The Professional Ethics Committee For The State Bar Of Texas Opinion No. 648
+April 2015.](http://www.legalethicstexas.com/getattachment/9936985b-f798-41c6-bc9f-97d4e0bff9de/Opinion-648.aspx)
+
+##### JPMorgan's Lawyers Interview Employees About Madoff Fraud
+
+* [The Hurdles in Getting Past a Wall of Silence](http://dealbook.nytimes.com/2014/03/06/the-hurdles-in-getting-past-a-wall-of-silence/?_php=true&_type=blogs&emc=edit_tnt_20140307&nlid=61515033&tntemail0=y&_r=0) 
+
+> After Mr. Madoff’s Ponzi scheme collapsed in December 2008, JPMorgan’s lawyers conducted an internal investigation of how he had used the bank to further his scheme. In 2012, the Office of the Comptroller of the Currency, the bank’s primary regulator, started its own investigation of possible wrongdoing related to his accounts.
+
+> Unless JPMorgan was willing to waive confidentiality, the only way to obtain the materials was to show that the clients — JPMorgan employees — sought legal advice to further a crime or fraud. Known as the crime-fraud exception, it allows a court to compel a lawyer to produce information about a client that would otherwise not be available. 
+
 ## Attorney-Client Privilege
 
 This is a NARROW evidentiary rule compared to the BROAD ethical duty of confidentially.
@@ -141,43 +201,24 @@ from discovery by opposing counsel.
 ##### Ordinary vs. Opinon Work Product
 
 - *Hickman v. Taylor* – “ordinary work” work product may be obtained in discovery upon a showing of “substantial need.”
-- [RLGL &sect;89](http://tinyurl.com/kq6nkqj): "Opinion work product is immune from discovery . . . unless . . . extraordinary circumstances justify disclosure.
+- [RLGL &sect;89](http://tinyurl.com/kq6nkqj): "Opinion work product is immune from discovery &hellip; unless &hellip; extraordinary circumstances justify disclosure.
 
-### Confidentiality & Encryption
+## In Sum!
 
-###### Lawyers May Need to Encrypt E-Mail In Especially Risky or Sensitive Scenarios
+* Attorney-client privilege 
+    - (the law of evidence);
+* Work product immunity 
+    - (the law of civil procedure and discovery rules);
+* Professional duty of confidentiality 
+    - (the law of agency: trustees, agents, and other fiduciaries).
 
-Having read reports about email accounts being hacked and the National Security Agency obtaining email communications without a search warrant, [inquiring] lawyers are concerned about whether it is proper for them to continue using email to communicate confidential information. 
+### Recommended Reading & Viewing
 
-The panel said that although it “has not addressed the propriety of communicating confidential information by email, many other ethics committees have [concluded that] except in special circumstances, the use of email, including unencrypted email, is a proper method of communicating confidential information.”
+* JK Rowling's [lawyer opens big mouth][rowling] to reveal that she is the author of a pseudonymous book.
+* [Jointly Represented Clients Can't Stop Another From Seeing What Lawyer Told Them](http://lawyersmanual.bna.com/mopw2/3300/split_display.adp?fedfid=62647428&vname=mopcnotallissues&jd=a0g1z7z4c7&split=0) (A client suing a former lawyer for malpractice is entitled to discover communications between the lawyer and jointly represented co-clients who chose not to sue).
+* John T. Noonan, Jr., [*The Lawyer Who Overindentifies With His Client,*][noonan] 76 Notre Dame L. Rev. 827 (2001).
 
-The committee agreed with those authorities.
-
-"Considering the present state of technology and email usage, a lawyer may generally communicate confidential information by email," it said. "Some circumstances, may, however, cause a lawyer to have a duty to advise a client regarding risks incident to the sending or receiving of emails arising from those circumstances and to consider whether it is prudent to use encrypted email or another form of communication."
-
-As for what circumstances may justify a departure from the general rule, the committee said lawyers should consider using encryption when:
-
-* communicating about “highly sensitive or confidential” matters;
-* “sending an email to or from an account that the email sender or recipient shares with others”;
-* “sending an email to a client when it is possible that a third person (such as a spouse in a divorce case) knows the password to the email account, or to an individual client at that client's work email account, especially if the email relates to [an] employment dispute”;
-* “sending an email from a public computer or a borrowed computer or where the lawyer knows that the emails the lawyer sends are being read on a public or borrowed computer or on an unsecure network”;
-* “sending an email if the lawyer knows that the email recipient is accessing the email on devices that are potentially accessible to third persons or are not protected by a password”; or
-* “sending an email if the lawyer is concerned that the NSA or other law enforcement agency may read the communication, with or without a warrant.”
-
-[Bloomberg BNA on Confidentiality: Lawyers May Need to Encrypt E-Mail In Especially Risky or Sensitive Scenarios.](http://lawyersmanual.bna.com/mopw2/3300/split_display.adp?fedfid=68911229&vname=mopcnotallissues&jd=a0g6d0j1v6&split=0)
-
-[The Professional Ethics Committee For The State Bar Of Texas Opinion No. 648
-April 2015.](http://www.legalethicstexas.com/getattachment/9936985b-f798-41c6-bc9f-97d4e0bff9de/Opinion-648.aspx)
-
-##### JPMorgan's Lawyers Interview Employees About Madoff Fraud
-
-* [The Hurdles in Getting Past a Wall of Silence](http://dealbook.nytimes.com/2014/03/06/the-hurdles-in-getting-past-a-wall-of-silence/?_php=true&_type=blogs&emc=edit_tnt_20140307&nlid=61515033&tntemail0=y&_r=0) 
-
-> After Mr. Madoff’s Ponzi scheme collapsed in December 2008, JPMorgan’s lawyers conducted an internal investigation of how he had used the bank to further his scheme. In 2012, the Office of the Comptroller of the Currency, the bank’s primary regulator, started its own investigation of possible wrongdoing related to his accounts.
-
-> Unless JPMorgan was willing to waive confidentiality, the only way to obtain the materials was to show that the clients — JPMorgan employees — sought legal advice to further a crime or fraud. Known as the crime-fraud exception, it allows a court to compel a lawyer to produce information about a client that would otherwise not be available. 
-
-##### Lawyer To The Client, Not The Situation
+#### Lawyer To The Client, Not The Situation
 
 As Judge Noonan puts it: We are lawyers to clients, not lawyers to the situation.
 
@@ -185,34 +226,29 @@ As Judge Noonan puts it: We are lawyers to clients, not lawyers to the situation
 
 * John T. Noonan, Jr., [*The Lawyer Who Overindentifies With His Client,*][noonan] 76 Notre Dame L. Rev. 827 (2001).
 
-### Recommended Reading & Viewing
-
-* JK Rowling's [lawyer opens big mouth][rowling] to reveal that she is the author of a pseudonymous book.
-* John T. Noonan, Jr., [*The Lawyer Who Overindentifies With His Client,*][noonan] 76 Notre Dame L. Rev. 827 (2001).
-* [Jointly Represented Clients Can't Stop Another From Seeing What Lawyer Told Them](http://lawyersmanual.bna.com/mopw2/3300/split_display.adp?fedfid=62647428&vname=mopcnotallissues&jd=a0g1z7z4c7&split=0) (A client suing a former lawyer for malpractice is entitled to discover communications between the lawyer and jointly represented co-clients who chose not to sue).
-
 [aba1.4]: http://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_1_4_communications.html "ABA Model Rule 1.4: Communication"
 
-[aba1.13]:		http://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_1_13_organization_as_client.html	"Model Rule 1.13: Organization As Client"
+[aba1.13]: http://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_1_13_organization_as_client.html	"Model Rule 1.13: Organization As Client"
 
 [aba1.6]: http://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_1_6_confidentiality_of_information.html	"ABA Model Rule 1.6: Confidentiality"
 
 [aba1.8]: http://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_1_8_current_clients_specific_rules.html "ABA Model Rule 1.8: Current Clients: Specific Rules"
 
-
 [RLGL-59]: https://1.next.westlaw.com/Document/Ieee1a5c4dc6111e28a48c0d45341c37f/View/FullText.html?originationContext=documenttoc&transitionType=CategoryPageItem&contextData=(sc.Default)	"RLGL 59: What is Confidential Information?"
 
-[RLGL-60]: https://1.next.westlaw.com/Document/Ieee1a5c7dc6111e28a48c0d45341c37f/View/FullText.html?originationContext=documenttoc&transitionType=CategoryPageItem&contextData=(sc.Default)	"RLGL 60: Lawyers Duty to Safeguard Confidential Information"
+[RLGL-60]: https://1.next.westlaw.com/Document/Ieee1a5c7dc6111e28a48c0d45341c37f/View/FullText.html?originationContext=documenttoc&transitionType=CategoryPageItem&contextData=(sc.Default) "RLGL 60: Lawyers Duty to Safeguard Confidential Information"
 
-[aba1.6-3]: http://tinyurl.com/n6zwcf2	"All information related to the representation whatever its source."	
+[aba1.6-3]: http://tinyurl.com/n6zwcf2 "All information related to the representation whatever its source."	
 
-[ne1.6]: http://supremecourt.ne.gov/supreme-court-rules/1832/%C2%A7-3-5016-confidentiality-information	"Nebraska Rule 1.6: Confidentiality"
+[ne1.6]: http://supremecourt.ne.gov/supreme-court-rules/1832/%C2%A7-3-5016-confidentiality-information "Nebraska Rule 1.6: Confidentiality"
 
 [aba4.4]: http://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_4_4_respect_for_rights_of_third_persons.html	"ABA Model Rule 4.4: Respect For Rights Of Third Person"
 
-[rowling]: http://lawyerwatch.wordpress.com/2013/07/19/harry-potter-and-the-breach-of-confidence/	"JK Rowling lawyer breaches duty of confidentiality"
+[rowling]: http://lawyerwatch.wordpress.com/2013/07/19/harry-potter-and-the-breach-of-confidence/ "JK Rowling lawyer breaches duty of confidentiality"
 
-[noonan]: http://tinyurl.com/kkqcae6	"Noonan: Lawyer Who Overindentifies With Client"
+[noonan]: http://tinyurl.com/kkqcae6 "Noonan: Lawyer Who Overindentifies With Client"
+
+[ltrc]: http://www.americanbar.org/groups/departments_offices/legal_technology_resources.html "Legal Technology Resource Center"
 
 <!-- BEGIN COMMENT -->
 
