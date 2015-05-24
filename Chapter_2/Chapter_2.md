@@ -10,9 +10,9 @@ document: Chapter_2.md
 
 ## Notes, Slide Text, Optional Readings 
 
-### Who Regulates Lawyers?
+## Who Regulates Lawyers?
 
-The state’s highest court. Not Congress. Not the legisature. Not the ABA. The Supreme Court of each State. 
+The state's highest court. Not Congress. Not the legisature. Not the ABA. The Supreme Court of each State. 
 
 By and large, lawyers must abide by most of the same laws that govern everybody else. But a statute purporting to explicitly regulate the legal profession would violate the Separation of Powers doctrine. 
 
@@ -23,11 +23,11 @@ The courts govern lawyers, not legislatures.
 Nebraska has an integrated or “unified” bar. In other words, you must join the bar and pay dues if you want to practice law in Nebraska.
 Even if you are “inactive,” dues often must be paid.
 
-### Lawyers Are Super Fiduciaries!
+## Lawyers Are Super Fiduciaries!
 
 Real estate agents, stock brokers, trustees, executors . . . those are fiduciaries. Lawyers are SUPER fiduciaries. 
 
-#### Fiduciary 
+### Fiduciary 
 
 When one person reposes confidence, faith, and reliance in another whose aid, advice, or protection is sought in some matter. 
 
@@ -41,7 +41,69 @@ We have to be scrupulously loyal. Your instincts, no matter how good, are not en
 
 But instincts are important, so we talk about things like having a SPIDER SENSE when YOU FEEL FUNNY about something your client is asking you to do, or even funnier when somebody is asking you to keep a secret from your client, or divulge your client’s business and so on. That's when you consult the Model Rules.
 
-#### The Model Rules
+### The ABA Model Rules 
+
+Model Rules of Professional Conduct
+
+Lawyers owe common law duties to clients, 
+and clients can sue for breach of those duties, we lawyers also have Ethical Rules, the most recent iteration of those are the ABA’s Model Rules of Professional Conduct. 
+
+#### History 
+
+Just a 60-second history lesson.
+
+* 1908 - ABA Canons of Professional Ethics
+* 1969 - ABA Model Code of Professional Responsibility
+* 1983 – ABA Model Rules of Professional Conduct. 
+* 2003 – ABA Model Rules of Professional Conduct. Extensive revisions. Ethics 2000.
+* 2012 - ABA Model Rules of Professional Conduct. Ethics 20/20 Commission
+
+Lawyers who graduated graduated from law school before 1970 
+(literally a dying breed), 
+probably learned about the ABA’s Canons of Professional Ethics. 
+The Canons were not rules, 
+but general exhortations about what lawyers SHOULD and SHOULD NOT DO. 
+
+A lawyer “will find his highest honor 
+in a deserved reputation for fidelity to private trust 
+and to public duty, as an honest man 
+and as a patriotic and loyal citizen.” 
+
+True, but what to do if you find out your client is running a money laundering operation? Very little by way of specific rules. 
+
+Lawyers who attended law school in the 70s or early 80s 
+probably learned about the MODEL CODE of Professional Responsibility. 
+The Model Code was a whirligig contraption containing Nine “Canons,” 
+along with “Disciplinary Rules,” and “Ethical Considerations.” 
+This was the ABA’s first effort at setting national standards for lawyer conduct. But Code was not popular because of the confusion over all the moving parts.
+
+After the mid-1980s, lawyers learned about the Model Rules of Professional Conduct. 
+
+These came in a popular “Restatement” format. Definite rules followed by “Comments”, with the COMMENTS being the best part.
+
+And indeed the ABA still uses the Model Rules, but those rules were extensively rewritten by the ABA’s Ethics 2000 commission. Too many lawyers were involved in the Enron and Tyco and other corporate scandals, and the ABA decided to get serious about regulating lawyers, because they were afraid Congress might do it instead. 
+
+It’s usually a CRISIS that prompts change, especially Watergate and the Enron debacles, lawyers intimately involved in both scandales. 
+
+Egil “Bud” Krogh Jr., a deputy assistant to the president.
+
+On June 26, 1973, the growing Watergate scandal was already a year old, and John W. Dean III, President Richard M. Nixon’s former White House counsel, was in his second day of testimony before the Senate Watergate Committee when Herman Talmadge, a Democrat from Georgia, directed his attention to exhibit 34-47.
+
+“It is a list of all the people that you thought had violated the law and what the laws may be that they violated—is that correct?” the Georgia senator inquired.
+“That is correct,” Dean responded. “My first reaction was: There certainly are an awful lot of lawyers involved here. So I put a little asterisk beside each lawyer.”
+“Any significance to the stars?” asked Talmadge, referring to the asterisks.
+“That was just a reaction of mine,” answered Dean. “How in God’s name could so many lawyers get involved in something like this?”
+
+Each state adopts its own version of the Model Rules. 
+The Nebraska Supreme Court adopted its version of the Model Rules on September 1st, 2005.
+
+In the second half of the 20th Century, changes in the Model Rules happened primarily in response to Scandals like Watergate, the Savings & Loan Crisis, BCCI,  crisis
+
+What’s prompting the MOST RECENT changes to the RULES, less than TEN YEARS AFTER the last crisis?
+
+TECHNOLOGY
+
+### The Model Rules
 
 Model Rules of Professional Conduct 1983. 
 
@@ -80,17 +142,22 @@ An applicant for admission to the bar (or a lawyer in connection with a bar admi
 
 #### Reporting Professional Misconduct
 
-* A lawyer who knows that another lawyer has committed a violation of the Rules . . . *that raises a substantial question as to that lawyer's honesty, trustworthiness or fitness as a lawyer* . . . shall inform the appropriate professional authority.
-* Same for judges . . . 
-* This Rule *does not require disclosure of information otherwise protected by Rule 1.6 or information gained by a lawyer or judge while participating in an approved lawyers assistance program.*
+* A lawyer who knows that another lawyer has committed a violation of the Rules &hellip; **that raises a substantial question as to that lawyer's honesty, trustworthiness or fitness as a lawyer** &hellip; shall inform the appropriate professional authority.
+* Same for judges &hellip; 
+* This Rule **does not require disclosure of information otherwise protected by Rule 1.6 or information gained by a lawyer or judge while participating in an approved lawyers assistance program.**
 
-Does the term “substantial” as in raises a substantial question as to that lawyer’s honesty . . . refer to the SERIOUSNESS of the possible offense or the AMOUNT of evidence you need?  
+Does the term “substantial” as in raises a substantial question as to that lawyer’s honesty &hellip; refer to the SERIOUSNESS of the possible offense or the AMOUNT of evidence you need? 
 
-Rule 8.3 Comment 3 “. . . the term ‘substantial’ refers to the seriousness of the possible offense and not the quantum of evidence of which the lawyer is aware.”
+Rule 8.3 Comment 3 “the term ‘substantial’ refers to the seriousness of the possible offense and not the quantum of evidence of which the lawyer is aware.”
 
 #### Duty to Report vs. Duty of Confidentiality
 
-Model Rules [8.1][aba8.1]: (Bar Admission & Disciplinary Matters) and [8.3][aba8.3]: (Reporting Professional Misconduct) are good examples of Rules that REQUIRE a lawyer to INFORM, REPORT, or DISCLOSE information. Whenever a Rule requires disclosure of information it will also indicate whether the duty to report or disclose information TRUMPS the lawyer's duty of confidentiality to her client, or IS TRUMPED by that duty. 
+Model Rules [8.1][aba8.1]: (Bar Admission & Disciplinary Matters) 
+and [8.3][aba8.3]: (Reporting Professional Misconduct) 
+are good examples of Rules 
+that REQUIRE a lawyer to INFORM, REPORT, or DISCLOSE information. 
+Whenever a Rule requires disclosure of information 
+it will also indicate whether the duty to report or disclose information TRUMPS the lawyer's duty of confidentiality to her client, or IS TRUMPED by that duty. 
 
 For example, Model Rules 8.1 and 8.3 both *do not require disclosure of information protected by Rule 1.6 (Confidentiality)*. How does that work? 
 
@@ -255,7 +322,7 @@ You are opposite a lawyer in negotiations (report to firm, or report to discipli
 
 Model Rule 1.0 Terminology: "Knowingly," "known," or "knows" denotes actual knowledge of the fact in question.  A person's knowledge may be inferred from circumstances.
 
-“Most cases and ethics opinions conclude that 'knowledge' is determined by an objective standard.”  
+“Most cases and ethics opinions conclude that 'knowledge' is determined by an objective standard.” 
 
 Evidence must be such that a REASONABLE LAWYER UNDER THE CIRCUMSTANCES would have formed a FIRM OPINION that it was more likely than not that the conduct occurred.
 
@@ -319,13 +386,13 @@ Comment 2:  Policies and practices designed to . . .
 The first three are ripe for your technical expertise.  Conflict of Interest Checking software and systems. Case or Docket management software 
 Accounting software (Quickbooks and the like)
 
-#### Violations Of Others  
+#### Violations Of Others 
 
 A lawyer shall be responsible for another lawyer's violation of the Rules of Professional Conduct IF:
 
-the lawyer orders or . . . ratifies the conduct involved; or the lawyer is a partner or . . . has direct supervisory authority over the other lawyer, and knows of the conduct at a time when its consequences can be avoided or mitigated but fails to take reasonable remedial action.  
+> The lawyer orders or &hellip; ratifies the conduct involved; or the lawyer is a partner or &hellip; has direct supervisory authority over the other lawyer, and knows of the conduct at a time when its consequences can be avoided or mitigated but fails to take reasonable remedial action. 
 
-### Model Rule 8.4  
+### Model Rule 8.4 
 
 ###### Misconduct
 

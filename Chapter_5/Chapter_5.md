@@ -16,11 +16,22 @@ document: Chapter_5.md
 
 ###### On Globalization & Technology
 
-In 2009, then ABA President Carolyn B. Lamm created the [ABA Commission on Ethics 20/20][aba-2020] to perform a thorough review of the ABA Model Rules of Professional Conduct and the U.S. system of lawyer regulation in the context of advances in technology and global legal practice developments.
+In 2009, then ABA President Carolyn B. Lamm 
+created the [ABA Commission on Ethics 20/20][aba-2020] 
+to perform a thorough review 
+of the ABA Model Rules of Professional Conduct 
+and the U.S. system of lawyer regulation 
+in the context of advances in technology 
+and global legal practice developments.
 
-Why is technology going so fast? Why is it so hard to keep up with Westlaw, Lexis, Linked-In, Facebook, Twitter, presentation software and technologies, litigation support software, docketing programs, conflict of interest software?
+Why is technology going so fast? 
+Why is it so hard to keep up with Westlaw, Lexis, Linked-In, Facebook, Twitter, presentation software and technologies, litigation support software, docketing programs, conflict of interest software?
 
-Answer: [Moore's Law][moore]. You need only read the first few sentences to apprehend that technology grows at an EXPONENTIAL rate. We lawyer/humans do NOT grow exponentially, so we have to work extra hard to keep up with technology.
+Answer: [Moore's Law][moore]. 
+At bottom Moore's Law is Gordon Moore's insight 
+that technology grows at an EXPONENTIAL rate. 
+We lawyer/humans do NOT grow exponentially, 
+so we have to work extra hard to keep up with technology.
 
 ### Model Rule 1.1
 
@@ -190,6 +201,37 @@ Per se rules: Denial of counsel during a critical state of the proceeding led to
 > For a nonclient to succeed in a negligence action against an attorney, he must prove that the primary purpose and intent of the attorney-client relationship itself was to benefit or influence the third party.
 
 *Pelham v. Grieheimer* (Ill. Sct. 1982)
+
+#### Model Rule 4.1(a)
+
+###### Truthfulness In Statements To Others
+
+* [*ABA/BNA Lawyers' Manual On Professional Conduct, Truthfulness In Statements To Others*](http://lawyersmanual.bna.com/mopw2/3300/split_display.adp?fedfid=29758452&vname=mopcref71&fcn=1&wsn=500023789&fn=29758452&split=0)
+
+> Rule 4.1(a) prohibits a lawyer 
+> from knowingly making a false statement of material fact or law 
+> to a third person in the course of representing a client. 
+> A comment to the rule defines “false” statements to include 
+> not only affirmative misstatements 
+> but also “partially true but misleading statements,” 
+> as well as “omissions that are the equivalent of affirmative false statements.”
+
+> Rule 4.1(b) requires a lawyer to disclose information 
+> if silence on the lawyer's part 
+> would amount to assisting a client in a crime or fraud, 
+> but only if the information comes within one of the exceptions 
+> to the rule on confidentiality.
+
+> A lawyer's duty of truthfulness to others is also addressed by:
+
+>   - Rule 3.3 (candor toward tribunals), 
+>   - Rule 3.5(c)(3) (misrepresentation to jurors), 
+>   - Rule 7.1 (false communications in advertising), 
+>   - Rule 8.1 (statements to bar and disciplinary authorities), 
+>   - Rule 8.2(a) (statements about judicial and legal officials), 
+>   - 8.4(c) (misrepresentation generally).
+
+> Tort law, especially the law of negligent misrepresentation, also imposes disclosure duties on lawyers.
 
 ### Misrepresentation
 

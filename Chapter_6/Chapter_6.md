@@ -17,7 +17,7 @@ document: slide notes
 - [Model Rule 1.6: Confidentiality][aba1.6]
 - [Nebraska Rule of Professional Conduct 1.6: Confidentiality][ne1.6]
 - [Model Rule 1.8(b): Conflicts: Specific Rules][aba1.8]
-* [Model Rule 1.13: "Organization as Client"][aba1.13]
+- [Model Rule 1.13: "Organization as Client"][aba1.13]
 - [Model Rule 4.4: Respect for Rights of Third Persons][aba4.4]
 
 #### Restatement of the Law Governing Lawyers
@@ -166,7 +166,7 @@ April 2015.](http://www.legalethicstexas.com/getattachment/9936985b-f798-41c6-bc
 
 ## Attorney-Client Privilege
 
-This is a NARROW evidentiary rule compared to the BROAD ethical duty of confidentially.
+This is a NARROW evidentiary rule compared to the BROAD ethical duty of confidentially. Wikipedia does a good job with [a SHORT fair summary of the privilege and its exceptions](http://en.wikipedia.org/wiki/Attorney%E2%80%93client_privilege).
 
 #### What communications are protected by the attorney-client privilege?
 
