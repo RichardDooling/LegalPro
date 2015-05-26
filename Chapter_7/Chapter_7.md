@@ -1,7 +1,7 @@
 ---
 author: Richard Dooling
 title: Legal Profession
-subtitle: Chapter 7
+subtitle: MF Chapter 7
 document: slide notes
 ---
 
@@ -92,7 +92,6 @@ Note, so far, this exception has NOT been interpreted to cover the prevention of
 * [§ 60 A Lawyer's Duty to Safeguard Confidential Client Information][RLGL-60].
 
 * [RLGL § 66: Using or Disclosing Information to Prevent Death or Serious Bodily Harm][RLGL-66]
-
 
 #### The client who is likely to endanger others
 
