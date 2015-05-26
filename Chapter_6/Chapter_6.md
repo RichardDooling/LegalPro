@@ -188,10 +188,22 @@ even if client discussed facts with attorney.
     - agents
     - representatives
 
+### Who may claim the privilege?
+
+* Lawyer (on client's behalf)
+* Client
+    - guardian
+    - conservator
+* Deceased Client
+    - personal represenative
+* Corporation, Association, Organization
+    - successor
+    - trustee
+    - similar representative
+
 ## Work Product Doctrine
 
-The work-product doctrine protects materials prepared in anticipation of litigation 
-from discovery by opposing counsel.
+The work-product doctrine protects materials prepared in anticipation of litigation from discovery by opposing counsel.
 
 #### Federal Rule of Civil Procedure 26(b)(3)
 

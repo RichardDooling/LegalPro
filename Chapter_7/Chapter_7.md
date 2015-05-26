@@ -293,6 +293,11 @@ as long as they reasonably relied on a misrepresentation of material fact.
 
 ## Confidentiality & Corporations
 
+What does the company want?
+
+* How to determine what the incorporeal entity of a corporation “wants” in a given situation?
+* Think of [Model Rule 1.13][aba1.13] as an exhaustion of internal remedies within the company to determine what IT wants.
+
 ### Model Rule 1.13(b)
 
 “If a lawyer for an organization knows that an officer &hellip; is engaged in action &hellip; that is a violation of law &hellip; likely to result in substantial injury to the organization &hellip; the lawyer shall refer the matter to higher authority in the organization &hellip; including &hellip; the highest authority &hellip;" 
@@ -308,6 +313,17 @@ The lawyer may also "reveal information relating to the representation **whether
 but only if and to the extent the lawyer 
 reasonably believes necessary to prevent 
 substantial injury to the organization.
+
+#### the business judgment rule
+
+Rule 1.13 Comment 3: 
+
+> When constituents of the organization make decisions for it, 
+> the decisions ordinarily must be accepted by the lawyer 
+> even if their utility or prudence is doubtful.
+
+Don't second guess business decisions, 
+but vigorously second guess LEGAL decisions.
 
 #### Test Question
 
@@ -328,6 +344,12 @@ Now what?
 Rule 1.6(b)(6): "a lawyer may reveal information &hellip; to comply with other law or a court order."
 
 Rule 3.4(c): "a lawyer shall not &hellip; knowingly disobey an obligation under the rules of a tribunal, except &hellip;"
+
+#### Model Rule 1.6 Comment 12
+
+> When disclosure of information relating to the representation appears to be required by other law, the lawyer must discuss the matter with the client to the extent required by Rule 1.4.
+
+> If, however, the other law supersedes this Rule and requires disclosure, paragraph (b)(6) permits the lawyer to make such disclosures as are necessary to comply with the law.
 
 ### New Rule 1.6(c)
 
@@ -494,6 +516,9 @@ And just one of many articles on social media and confidentiality.
 * [Ethical Limitations on Informal Discovery of Social Media Information](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=36+Am.+J.+Trial+Advoc.+473&appflag=67.12) by Steven C. Bennett, 36 American J. of Trial Advocacy 473 (Spring 2013).
 
 
+[aba1.6]: http://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_1_6_confidentiality_of_information.html	"ABA Model Rule 1.6: Confidentiality"
+
+[aba1.13]: http://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_1_13_organization_as_client.html	"Model Rule 1.13: Organization As Client"
 
 [tarasoff]: http://en.wikipedia.org/wiki/Tarasoff_v._Regents_of_the_University_of_California "Tarasoff v. Regents of University of California"
 
