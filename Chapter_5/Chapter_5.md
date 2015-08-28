@@ -324,6 +324,11 @@ Rest. 2nd of Torts §552(2), RLGL §56 and Greycas.
 * Lawyer knows client’s conduct constitutes a breach of fiduciary duty;
 * Breach causes harm to 3rd parties.
 
+#### Optional Readings
+
+[You’re All Out! A defense attorney uncovers a brazen scheme to manipulate evidence, and prosecutors and police finally get caught. By Dahlia Lithwick, Slate Magazine MAY 28 2015 1:38 PM.](http://www.slate.com/articles/news_and_politics/jurisprudence/2015/05/orange_county_prosecutor_misconduct_judge_goethals_takes_district_attorney.single.html)
+
+
 <!-- BEGIN COMMENT -->
 
 <!--

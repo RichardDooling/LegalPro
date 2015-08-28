@@ -99,10 +99,15 @@ What about child abuse?
 Model Rule 1.6(b)(1) and Comment 6.
 No longer a requirement that the harm must be imminent!
 
-As for child abusers, Under Rule 1.6(b)(1) the lawyer may disclose the client’s intent to commit FUTURE ABUSE, but a client’s confession to a lawyer about past conduct is CONFIDENTIAL AND PRIVILEGED and may not be disclosed.
+As for child abusers, under Rule 1.6(b)(1) 
+the lawyer may disclose the client’s intent to commit FUTURE ABUSE, 
+but a client's confession to a lawyer 
+about past conduct is CONFIDENTIAL AND PRIVILEGED 
+and may not be disclosed.
 
 These are TOUGH issues. 
-What about when the client suspects the spouse of ongoing child sexual abuse, 
+What about when the client suspects his or her spouse 
+of ongoing child sexual abuse, 
 but the client instructs the lawyer not to disclose to anyone?
 
 Certainly the lawyer needs to seek advice about how to proceed.
@@ -111,7 +116,7 @@ Certainly the lawyer needs to seek advice about how to proceed.
 
 ###### Duty To Report Child Subjected To Abuse or Neglect
 
-> When any physician, any medical institution, any nurse, any school employee, any social worker, the Inspector General &hellip; or any other person has reasonable cause to believe that a child has been subjected to child abuse or neglect &hellip; he or she shall report such incident or cause a report of child abuse or neglect to be made to the proper law enforcement agency or to the department.
+> When any physician, any medical institution, any nurse, any school employee, any social worker, the Inspector General &hellip; **or any other person** has reasonable cause to believe that a child has been subjected to child abuse or neglect &hellip; he or she shall report such incident or cause a report of child abuse or neglect to be made to the proper law enforcement agency or to the department.
 
 Some jurisdictions explicitly define persons 
 to include lawyers who must report under these statutes. 
@@ -132,7 +137,8 @@ Geese, giraffes, wolverines or any other animal.
 I mean, why do that? 
 If I'm a lawyer with a client who says, 
 "Don't you DARE tell anybody about blah blah," 
-I doubt that this reporting statute silently overrules the client's considered decision. 
+I doubt that this reporting statute 
+silently overrules the client's considered decision. 
 
 It's one thing to say a lawyer MAY report child abuse, 
 and presumably lawyers with hard evidence WOULD report. 
@@ -154,7 +160,17 @@ That said, the trend in many jurisdictions
 is to have attorneys covered 
 by these child abuse reporting statutes, 
 so this would be an excellent problem to address 
-by calling Disciplinary Counsel and asking for advice. 
+by calling Disciplinary Counsel and asking for advice.
+
+##### Priests?
+
+Should we read the mandatory reportinging statutes 
+to require that a priest who hears about child abuse 
+in the confessional should be required to report? 
+
+The U.S. Supreme Court denied cert. 
+when presented with that question recently,
+so a [Baton Rouge trial judge will decide the question](http://theadvocate.com/news/11384032-123/us-supreme-court-allows-lawsuit).
 
 #### How About Toxic Waste
 
