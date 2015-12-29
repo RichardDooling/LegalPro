@@ -17,7 +17,7 @@ document: slide notes
 
 Model Rule 1.6(a) says:
 
-A lawyer SHALL NOT reveal information &hellip; UNLESS:
+A lawyer SHALL NOT reveal information relating to the representation &hellip; UNLESS:
 
 * the client gives informed consent,
 * the disclosure is impliedly authorized OR
@@ -31,6 +31,8 @@ is impliedly authorized to disclose confidential information.
 And the client may consent to disclosure in other situations 
 in which the lawyer is NOT impliedly authorized to disclose.
 But lawyer must obtain informed consent to the disclosure. 
+
+A lawyer shall not reveal information relating to the representation of a client unless the client gives informed consent, the disclosure is impliedly authorized in order to carry out the representation or the disclosure is permitted by paragraph (b).
 
 #### Exceptions
 
@@ -112,11 +114,20 @@ but the client instructs the lawyer not to disclose to anyone?
 
 Certainly the lawyer needs to seek advice about how to proceed.
 
-##### Nebraska Revised Statute 28-711
+##### [Nebraska Revised Statute 28-711](http://nebraskalegislature.gov/laws/statutes.php?statute=28-711)
 
 ###### Duty To Report Child Subjected To Abuse or Neglect
 
-> When any physician, any medical institution, any nurse, any school employee, any social worker, the Inspector General &hellip; **or any other person** has reasonable cause to believe that a child has been subjected to child abuse or neglect &hellip; he or she shall report such incident or cause a report of child abuse or neglect to be made to the proper law enforcement agency or to the department.
+> When any physician, any medical institution, any nurse, 
+> any school employee, any social worker, the Inspector General &hellip; 
+> **or any other person** has reasonable cause 
+> to believe that a child has been subjected to child abuse or neglect &hellip; 
+> he or she shall report such incident 
+> or cause a report of child abuse or neglect to be made 
+> to the proper law enforcement agency or to the department.
+
+[Nebraska Revised Statute 28-711,
+Child subjected to abuse or neglect; report; contents; toll-free number](http://nebraskalegislature.gov/laws/statutes.php?statute=28-711)
 
 Some jurisdictions explicitly define persons 
 to include lawyers who must report under these statutes. 
@@ -136,9 +147,10 @@ Huh? It's like an animal cruelty statute that says:
 Geese, giraffes, wolverines or any other animal. 
 I mean, why do that? 
 If I'm a lawyer with a client who says, 
-"Don't you DARE tell anybody about blah blah," 
+"Don't you DARE tell anybody about the child abuse I committed," 
 I doubt that this reporting statute 
-silently overrules the client's considered decision. 
+silently overrules both your duty to keep your client's confidences 
+and the attorney-client privilege at once. 
 
 It's one thing to say a lawyer MAY report child abuse, 
 and presumably lawyers with hard evidence WOULD report. 
@@ -149,11 +161,14 @@ reported by lawyers who fear prosecution.
 
 Also by commanding lawyers to report, 
 a LOT of child abuse will be driven even further underground 
-and out of sight, 
-because soon everybody is going to know 
-that they can't speak to lawyers about child abuse 
-without having the whole world know 
-and your husband thrown in jail 
+and out of sight.
+If speaking to a lawyer about child abuse
+means your lawyer will report you, 
+sex offenders won't seek legal advice or medical help 
+for fear of being arrested and indicted. 
+Speaking to a lawyer 
+means having the whole world know 
+about a mere allegation of child abuse and your husband thrown in jail 
 while an investigation takes place. 
 
 That said, the trend in many jurisdictions 
@@ -164,7 +179,7 @@ by calling Disciplinary Counsel and asking for advice.
 
 ##### Priests?
 
-Should we read the mandatory reportinging statutes 
+Should we read the mandatory reporting statutes 
 to require that a priest who hears about child abuse 
 in the confessional should be required to report? 
 

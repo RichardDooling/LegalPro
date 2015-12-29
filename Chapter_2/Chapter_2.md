@@ -135,7 +135,7 @@ Probably would have worked even better if the ABA had taken the Kutak Commission
 An applicant for admission to the bar (or a lawyer in connection with a bar admission application or in connection with a disciplinary matter) shall not:
 
 * knowingly make a false statement of material fact; 
-* fail to disclose a fact necessary to correct a misapprehension . . . 
+* fail to disclose a fact necessary to correct a misapprehension &hellip; 
 * except that this rule *does NOT require disclosure of information otherwise protected by Rule 1.6.*
 
 ### Model Rule 8.3
@@ -183,7 +183,7 @@ The duties stated &hellip; continue to the conclusion of the proceeding, and *ap
 
 Here the lawyer's [Model Rule 3.3][aba3.3] duty of candor to the tribunal TRUMPS the lawyer's [Model Rule 1.6][aba1.6] duty of confidentiality to the client. In other words, even if the client insists that the lawyer not disclose information covered by the terms of Rule 3.3, the lawyer must do so. 
 
-Others have looked at these competing duties and seen, not conflict, but a harmonious heirarchy of duties:
+Others have looked at these competing duties and seen, not conflict, but a harmonious hierarchy of duties:
 
 > The lawyer has a specific duty to preserve the confidence of the client, but that duty is subordinate to an equally specific duty not to participate in fraud upon the court. A hierarchy of duties--not a conflict--exists.
 
@@ -351,6 +351,12 @@ IT REVERBERATES throughout the other RULES call for, say, COMPETENTLY protecting
 ABA is sending up a flare, really. NO new rule or modification of a rule can deal with that pervasive and relentless and exponential technological change 
 
 In fact, in their materials the Ethics 20/20 Commission intends to establish a site resource where lawyers can go to learn about cloud computing, secure WIFI communications, laptop encryption, biometric fingerprint readers instead of passwords and so on.
+
+Clients too are demanding that their lawyers are technologically competent, because the alternatives are too risky.
+
+> Being a Luddite can be expensive, embarrassing, and potentially disastrous for lawyers and clients. Technological incompetence can result in wasted time (and therefore increased cost to the client), loss of money and identity, ethical sanctions, and embarrassment or worse in the courtroom. Those are high prices to pay for being too proud (or lazy) to learn how the Internet, social media, and that box on your desk work.
+
+[The Consequences of Technological Incompetence](https://lawyerist.com/89959/consequences-of-technological-incompetence/?utm_source), by Sam Glover on October 14th, 2015.
 
 ###  Model Rule 1.3 
 
