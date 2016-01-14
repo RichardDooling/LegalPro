@@ -136,7 +136,7 @@ An applicant for admission to the bar (or a lawyer in connection with a bar admi
 
 * knowingly make a false statement of material fact; 
 * fail to disclose a fact necessary to correct a misapprehension &hellip; 
-* except that this rule *does NOT require disclosure of information otherwise protected by Rule 1.6.*
+* except that this rule **does NOT require disclosure of information otherwise protected by Rule 1.6.**
 
 ### Model Rule 8.3
 
@@ -159,7 +159,7 @@ that REQUIRE a lawyer to INFORM, REPORT, or DISCLOSE information.
 Whenever a Rule requires disclosure of information 
 it will also indicate whether the duty to report or disclose information TRUMPS the lawyer's duty of confidentiality to her client, or IS TRUMPED by that duty. 
 
-For example, Model Rules 8.1 and 8.3 both *do not require disclosure of information protected by Rule 1.6 (Confidentiality)*. How does that work? 
+For example, Model Rules 8.1 and 8.3 both **do not require disclosure of information protected by Rule 1.6 (Confidentiality)**. How does that work? 
 
 Suppose in looking over your client's case you discover that the lawyer who had the case before you stole money from your client, meaning, the lawyer committed professional misconduct that raises a substantial question about the lawyer's fitness to practice law. Normally, you have a duty to report this violation under [Model Rule 8.3][aba8.3]. Of course you tell your client about your discovery and urge your client to report the former lawyer's unethical behavior. But the client does not wish to disclose this information, because it's too much trouble, or perhaps because it will make her look foolish. Your [Model Rule 1.6][aba1.6] duty to protect client confidential information TRUMPS your Model Rule 8.3 duty to report misconduct, and you are not required to report the former lawyer's misconduct.
 
@@ -171,13 +171,13 @@ Compare instead what happens under [Model Rule 3.3][aba3.3], which also requires
 
 A lawyer shall not knowingly:
 
-1. . . . *fail to correct a false statement of material fact or law previously made* to the tribunal by the lawyer;
-2. *fail to disclose to the tribunal legal authority in the controlling jurisdiction* . . .  or
-3. . . . If a lawyer, the lawyer’s client, or a witness called by the lawyer, has offered material evidence and the lawyer comes to know of its falsity, the lawyer shall take reasonable remedial measures, including, if necessary, *disclosure to the tribunal*. 
+1. . . . **fail to correct a false statement of material fact or law previously made** to the tribunal by the lawyer;
+2. **fail to disclose to the tribunal legal authority in the controlling jurisdiction** . . .  or
+3. . . . If a lawyer, the lawyer’s client, or a witness called by the lawyer, has offered material evidence and the lawyer comes to know of its falsity, the lawyer shall take reasonable remedial measures, including, if necessary, **disclosure to the tribunal**. 
 
-A lawyer who represents a client in an adjudicative proceeding and who knows that a person intends to engage, is engaging or has engaged in criminal or fraudulent conduct related to the proceeding shall take reasonable remedial measures, including, if necessary, *disclosure to the tribunal*.
+A lawyer who represents a client in an adjudicative proceeding and who knows that a person intends to engage, is engaging or has engaged in criminal or fraudulent conduct related to the proceeding shall take reasonable remedial measures, including, if necessary, **disclosure to the tribunal**.
 
-The duties stated &hellip; continue to the conclusion of the proceeding, and *apply even if compliance requires disclosure of information otherwise protected by Rule 1.6.*
+The duties stated &hellip; continue to the conclusion of the proceeding, and **apply even if compliance requires disclosure of information otherwise protected by Rule 1.6.**
 
 #### "Trumps" Rule 1.6 Confidentiality
 
