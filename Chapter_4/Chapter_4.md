@@ -128,11 +128,11 @@ also swept other Penn State officials into legal proceedings.
 
 When several Penn State officials were subpoenaed to testify before the grand jury in the Jerry Sandusky case, they believed they were being represented by the University's General Counsel, Cynthia Baldwin, an ex-State Supreme Court Justice. 
 
-But Baldwin maintained that she was present only on behalf of the University.
+[But Baldwin maintained that she was present only on behalf of the University](
+http://www.pennlive.com/midstate/index.ssf/2012/02/penn_state_legal_counsel_cynth.html).
 
-<http://www.post-gazette.com/stories/local/state/penn-states-general-counsel-cited-for-missteps-644744/?p=0>
 
-Penn State University's general counsel during the grand jury investigation of Jerry Sandusky was singled out repeatedly in the report issued by Louis Freeh last week for possible missteps in her handling of the matter.
+Penn State University's general counsel during the grand jury investigation of Jerry Sandusky was singled out repeatedly in the [report issued by Louis Freeh last week] (http://www.post-gazette.com/stories/local/state/penn-states-general-counsel-cited-for-missteps-644744/) for possible missteps in her handling of the matter.
 
 According to the Freeh report, Ms. Baldwin never sought an expert to lead the university through the criminal investigation or its own internal investigation, and she, along with former President Graham Spanier, appeared to downplay to the university board of trustees the significance of the grand jury investigation.
 
