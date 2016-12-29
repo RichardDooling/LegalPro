@@ -80,7 +80,7 @@ The lawyer's instincts, no matter how good, are not enough.
 To protect herself and her client, 
 the lawyer must know and obey the Model Rules. 
 
-### The ABA Model Rules 
+## The ABA Model Rules 
 
 Model Rules of Professional Conduct.
 
@@ -89,7 +89,7 @@ and clients can sue for breach of those duties,
 but we lawyers also have Ethical Rules, 
 the most recent iteration of those are the ABA’s Model Rules of Professional Conduct. 
 
-#### History 
+### History 
 
 Just a 60-second history lesson.
 
@@ -99,7 +99,7 @@ Just a 60-second history lesson.
 * 2003 – ABA Model Rules of Professional Conduct. Extensive revisions. Ethics 2000.
 * 2012 - ABA Model Rules of Professional Conduct. Ethics 20/20 Commission
 
-##### ABA Canons, 1908
+#### ABA Canons, 1908
 
 Lawyers who graduated from law school before 1970 
 (literally a dying breed), 
@@ -117,7 +117,7 @@ True, but what to do when the lawyer finds out
 his client is running a money laundering operation? 
 Very little by way of specific rules or advice. 
 
-##### ABA Model Code, 1969
+#### ABA Model Code, 1969
 
 Lawyers who attended law school in the 70s or early 80s 
 probably learned about the MODEL CODE of Professional Responsibility. 
@@ -305,14 +305,14 @@ It’s the same with you and your client’s information. In many settings, just
 Model Rule 1.6’s prohibits revealing “information relating to the representation of a client,” and it makes no exception for information that has been previously disclosed or is publicly available. The lawyer's ethical duty of confidentiality 
 applies even to [prospective clients][aba1.18] even when no client relationship ensues.
 
-#### Confidentiality and Prospective Clients
+### Confidentiality and Prospective Clients
 
 [Rule 1.18][aba1.18] Duties To Prospective Client
 
 * A person who discusses with a lawyer the possibility of forming a client-lawyer relationship with respect to a matter is a prospective client.
 * Even when no client-lawyer relationship ensues, a lawyer who has had discussions with a prospective client shall not use or reveal information learned in the consultation
 
-#### Dead Clients & Confidentiality
+### Dead Clients & Confidentiality
 
 And if the United States Supreme Court’s opinion in *Swidler v. Berlin* is any indication, Rule 1.6 protects confidential information even after the death of the client.
 

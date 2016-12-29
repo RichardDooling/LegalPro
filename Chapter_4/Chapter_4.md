@@ -1,16 +1,15 @@
 ---
 author: Richard Dooling
-course title: Legal Profession
-document: Chapter_4.md
+title: M&F 3rd, Chapter 4
+abstract: Notes, Slide Text, Links, Optional Readings. 
 ---
 
 # M&F3rd Chapter 4
 
-## Notes, Slide Text, Optional Readings 
 
 ###### Control & Communication 
 
-### Model Rule 1.2  
+## Model Rule 1.2 
 
 ###### Scope of Representation
 
@@ -25,7 +24,7 @@ In criminal cases, client decides:
 In general, abide by client’s decisions about GOALS; 
 consult with client about the MEANS.
 
-#### Allocation of authority
+### Allocation of authority
 
 Chapter 4 begins with references to the 
 [Restatement (Third) Of Agency § 1.01 (2006)](http://tinyurl.com/mhaqbe8) 
@@ -64,7 +63,7 @@ Apparent authority:
 
 ### When Representation Goes Awry
 
-A finding of bad faith or corrupt motive is NOT necessary to constitute a professional misconduct violation &hellip;  
+A finding of bad faith or corrupt motive is NOT necessary to constitute a professional misconduct violation &hellip; 
 
 ### Advise & Consent
 
@@ -130,7 +129,6 @@ When several Penn State officials were subpoenaed to testify before the grand ju
 
 [But Baldwin maintained that she was present only on behalf of the University](
 http://www.pennlive.com/midstate/index.ssf/2012/02/penn_state_legal_counsel_cynth.html).
-
 
 Penn State University's general counsel during the grand jury investigation of Jerry Sandusky was singled out repeatedly in the [report issued by Louis Freeh last week] (http://www.post-gazette.com/stories/local/state/penn-states-general-counsel-cited-for-missteps-644744/) for possible missteps in her handling of the matter.
 
