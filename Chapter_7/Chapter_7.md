@@ -295,7 +295,7 @@ when once you have kindled it you may easily preserve it, but if you once exting
 
 A lawyer must disclose a material fact to a third person when disclosure is necessary to avoid assisting a criminal or fraudulent act by a client, unless disclosure is prohibited by Rule 1.6.
 
-Under the Model Rules,  "Fraud" or "fraudulent" denotes conduct that is fraudulent under the substantive or procedural law of the applicable jurisdiction and has a purpose to deceive. Rule 1.0(d)
+Under the Model Rules, "Fraud" or "fraudulent" denotes conduct that is fraudulent under the substantive or procedural law of the applicable jurisdiction and has a purpose to deceive. Rule 1.0(d)
 
 #### Rest. 2nd Torts § 551(2)(c)
 

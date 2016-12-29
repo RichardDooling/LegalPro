@@ -1,52 +1,93 @@
 ---
 author: Richard Dooling
-course title: Legal Profession
-document: Chapter_2.md
+title: M&F 3rd, Chapter 2
+abstract: Notes, Slide Text, Links, Optional Readings. 
 ---
 
-# M&F3rd Chapter 2
+# M&F 3rd, Chapter 2
 
 ###### Judicial and Professional Regulation of Lawyers
 
-## Notes, Slide Text, Optional Readings 
-
 ## Who Regulates Lawyers?
 
-The state's highest court. Not Congress. Not the legisature. Not the ABA. The Supreme Court of each State. 
+The state's highest court. Not Congress. 
+Not the legislature. Not the American Bar Association. 
+The Supreme Court of each State regulates lawyers. 
 
-By and large, lawyers must abide by most of the same laws that govern everybody else. But a statute purporting to explicitly regulate the legal profession would violate the Separation of Powers doctrine. 
+By and large, lawyers must abide by most of the same laws that govern everybody else. 
+But a statute purporting to explicitly regulate the legal profession would violate the Separation of Powers doctrine. 
 
-The courts govern lawyers, not legislatures. 
+Courts govern lawyers, not legislatures. 
+
+The ABA promulgates The Model Rules of Professional Conduct, 
+and then each state supreme court adopts its own version of the Model Rules,
+tweaking rules here and there to suit each state's needs.
+
+The Nebraska Supreme Court adopted its most recent version of the Model Rules on September 1st, 2005.
 
 ### Nebraska State Bar
 
-Nebraska has an integrated or “unified” bar. In other words, you must join the bar and pay dues if you want to practice law in Nebraska.
+Nebraska has an integrated or “unified” bar. 
+In other words, you must join the bar 
+and pay dues if you want to practice law in Nebraska.
 Even if you are “inactive,” dues often must be paid.
 
-## Lawyers Are Super Fiduciaries!
+## What Is A Fiduciary?
 
-Real estate agents, stock brokers, trustees, executors . . . those are fiduciaries. Lawyers are SUPER fiduciaries. 
+[Fiduciary][] comes from the Latin *fiducia*, meaning "trust." 
+And true to its Latin roots 
+[fiduciary][] means a person 
+in whom another person (the principal)
+places the utmost trust and confidence. 
+Emphasis on the utmost.
+Emphasis on trust. As Wikipedia puts it:
 
-### Fiduciary 
+> A fiduciary duty is the highest standard of care at either equity or law. 
+A [fiduciary][] is expected to be extremely loyal to the person to whom he owes the duty (the "principal"): such that there must be no conflict of duty between fiduciary and principal, and the fiduciary must not profit from his position as a fiduciary (unless the principal consents).
 
-When one person reposes confidence, faith, and reliance in another whose aid, advice, or protection is sought in some matter. 
+In the attorney-client relationship, 
+the client seeks the lawyer's aid, advice, or protection 
+and reposes confidence, faith, and trust in 
+the lawyer.
 
-The relation existing when good conscience requires one to act at all times for the sole benefit and interests of another with loyalty to those interests.
+### Some Examples of Fiduciaries
 
-Examples: executors or administrators and legatees or heirs; conservators and wards, trustees, or beneficiaries; partners, joint adventurers, corporate directors or officers and stockholders; majority and minority stockholders; factors, agents, or brokers and principals; attorneys and clients; promoters and stock subscribers; mutual savings banks or investment corporations and their depositors or investors; receivers, trustees in bankruptcy, or assignees in insolvency and creditors.
+* attorneys for clients; 
+* executors or administrators for legatees or heirs; 
+* conservators for wards, trustees, or beneficiaries; 
+* partners, joint adventurers, corporate directors or officers for stockholders;
+* majority and minority stockholders; 
+* agents, or brokers for principals; 
+* mutual savings banks or investment corporations for their depositors or investors; 
+* receivers, trustees in bankruptcy, or assignees in insolvency for creditors.
 
-When clients have problems with "regular" fiduciaries, they come to us for advice and protection and trust and discretion.
+### Lawyers Are Super Fiduciaries!
 
-We have to be scrupulously loyal. Your instincts, no matter how good, are not enough. The only way I know of to protect yourself and to protect your client is to OBEY the Model Rules. 
+Real estate agents, stock brokers, trustees, executors, and many others are fiduciaries. 
+Lawyers are SUPER fiduciaries. 
 
-But instincts are important, so we talk about things like having a SPIDER SENSE when YOU FEEL FUNNY about something your client is asking you to do, or even funnier when somebody is asking you to keep a secret from your client, or divulge your client’s business and so on. That's when you consult the Model Rules.
+When clients have problems with "regular" fiduciaries, 
+they come to lawyers for advice, protection, trust and discretion.
+Lawyer's must be scrupulously loyal, 
+but also must not counsel or assist a client ["in conduct 
+that the lawyer knows is criminal or fraudulent."][aba1.2]
+
+These profound obligations are sometimes in tension and difficult to navigate.
+Veteran lawyers often speak of having a "gut feeling" or "spider sense,"
+a queasy feeling about something the client wants to accomplish.
+Or a red alert when somebody says, "Don't tell your client, but guess what?" 
+The lawyer's instincts, no matter how good, are not enough.
+To protect herself and her client, 
+the lawyer must know and obey the Model Rules. 
 
 ### The ABA Model Rules 
 
-Model Rules of Professional Conduct
+Model Rules of Professional Conduct.
 
 Lawyers owe common law duties to clients, 
-and clients can sue for breach of those duties, we lawyers also have Ethical Rules, the most recent iteration of those are the ABA’s Model Rules of Professional Conduct. 
+and clients can sue for breach of those duties, 
+but we lawyers also have Ethical Rules, 
+the most recent iteration of those are the ABA’s Model Rules of Professional Conduct. 
 
 #### History 
 
@@ -58,75 +99,91 @@ Just a 60-second history lesson.
 * 2003 – ABA Model Rules of Professional Conduct. Extensive revisions. Ethics 2000.
 * 2012 - ABA Model Rules of Professional Conduct. Ethics 20/20 Commission
 
-Lawyers who graduated graduated from law school before 1970 
-(literally a dying breed), 
-probably learned about the ABA’s Canons of Professional Ethics. 
-The Canons were not rules, 
-but general exhortations about what lawyers SHOULD and SHOULD NOT DO. 
+##### ABA Canons, 1908
 
-A lawyer “will find his highest honor 
+Lawyers who graduated from law school before 1970 
+(literally a dying breed), 
+probably learned about the ABA's Canons of Professional Ethics. 
+The Canons were not rules, 
+but were instead general exhortations about what lawyers SHOULD and SHOULD NOT DO. 
+
+For example, Canon 1 provides: 
+"A lawyer “will find his highest honor 
 in a deserved reputation for fidelity to private trust 
 and to public duty, as an honest man 
 and as a patriotic and loyal citizen.” 
 
-True, but what to do if you find out your client is running a money laundering operation? Very little by way of specific rules. 
+True, but what to do when the lawyer finds out 
+his client is running a money laundering operation? 
+Very little by way of specific rules or advice. 
+
+##### ABA Model Code, 1969
 
 Lawyers who attended law school in the 70s or early 80s 
 probably learned about the MODEL CODE of Professional Responsibility. 
 The Model Code was a whirligig contraption containing Nine “Canons,” 
 along with “Disciplinary Rules,” and “Ethical Considerations.” 
-This was the ABA’s first effort at setting national standards for lawyer conduct. But Code was not popular because of the confusion over all the moving parts.
 
-After the mid-1980s, lawyers learned about the Model Rules of Professional Conduct. 
+This was the ABA’s first effort at setting national standards for lawyer conduct. 
+The Code was not popular because of the confusion over all the moving parts.
+Like the earlier Canons, 
+the Code also did not provide the lawyers with clear rules 
+about whether contingency fees have to be in writing, 
+or whether a lawyer may allow her client to take the stand 
+when she knows the client intends to lie to the court. 
 
-These came in a popular “Restatement” format. Definite rules followed by “Comments”, with the COMMENTS being the best part.
+##### Watergate
 
-And indeed the ABA still uses the Model Rules, but those rules were extensively rewritten by the ABA’s Ethics 2000 commission. Too many lawyers were involved in the Enron and Tyco and other corporate scandals, and the ABA decided to get serious about regulating lawyers, because they were afraid Congress might do it instead. 
+On June 26, 1973, the growing Watergate scandal was already a year old, 
+and John W. Dean III, President Richard M. Nixon’s former White House counsel, 
+was in his second day of testimony before the Senate Watergate Committee 
+when Herman Talmadge, a Democrat from Georgia, directed Dean's attention to exhibit 34-47.
 
-It’s usually a CRISIS that prompts change, especially Watergate and the Enron debacles, lawyers intimately involved in both scandales. 
+“It is a list of all the people that you thought had violated the law and what the laws may be that they violated--is that correct?” the Georgia senator inquired.
 
-Egil “Bud” Krogh Jr., a deputy assistant to the president.
-
-On June 26, 1973, the growing Watergate scandal was already a year old, and John W. Dean III, President Richard M. Nixon’s former White House counsel, was in his second day of testimony before the Senate Watergate Committee when Herman Talmadge, a Democrat from Georgia, directed his attention to exhibit 34-47.
-
-“It is a list of all the people that you thought had violated the law and what the laws may be that they violated—is that correct?” the Georgia senator inquired.
 “That is correct,” Dean responded. “My first reaction was: There certainly are an awful lot of lawyers involved here. So I put a little asterisk beside each lawyer.”
+
 “Any significance to the stars?” asked Talmadge, referring to the asterisks.
+
 “That was just a reaction of mine,” answered Dean. “How in God’s name could so many lawyers get involved in something like this?”
 
-Each state adopts its own version of the Model Rules. 
-The Nebraska Supreme Court adopted its version of the Model Rules on September 1st, 2005.
+The lawyers involved included Egil “Bud” Krogh Jr., a deputy assistant to President Nixon during the Watergate Scandal. 
 
-In the second half of the 20th Century, changes in the Model Rules happened primarily in response to Scandals like Watergate, the Savings & Loan Crisis, BCCI,  crisis
+In the second half of the 20th Century, 
+the ABA has amended the Model Rules in response to scandals like Watergate, 
+or later in the 1990s in response to financial fraud scandals like Enron, Worldcom, and Tyco.
 
-What’s prompting the MOST RECENT changes to the RULES, less than TEN YEARS AFTER the last crisis?
+##### Kutak Commission
 
-TECHNOLOGY
+In response to Watergate and other scandals, the ABA appointed Omaha lawyer, Bob Kutak, and the Kutak Commission to fix the Model Code and provide a body of rules lawyers could use to guide them, especially when they learn that their clients are up to no good.
 
-### The Model Rules
+It is no exaggeration to say that the Kutak Commission gave us the first and best working version of the Model Rules, a true handbook for the working lawyer.
+Kutak's Model Rules of Professional Conduct were much simpler
+and came in a popular “Restatement-like” format. 
+Definite rules followed by "Comments," with the comments being the best part.
 
-Model Rules of Professional Conduct 1983. 
+And indeed the ABA still uses the Model Rules, 
+but those rules were extensively rewritten by the ABA’s Ethics 2000 commission. 
+Too many lawyers were involved in the Enron and Tyco and other corporate scandals, 
+and the ABA decided to get serious about regulating lawyers, 
+because they were afraid Congress might do it instead. 
 
-Bob Kutak and the Kutak Commission gave us the first and best WORKING version of the Model Rules.
+It’s usually a CRISIS that prompts change, especially Watergate and the Enron debacles, lawyers intimately involved in both scandals. 
 
-I say WORKING version, because lawyers who went to school in the 70s or early 80s learned about the MODEL CODE of Professional Responsibility, a whirligig contraption containing Nine “Canons,” along with “Disciplinary Rules,” and  “Ethical Considerations.” 
-
-This was the ABA’s first effort at setting national standards for lawyer conduct. But Code was not popular because of the confusion over all the moving parts.
-
-And when you finish reading it, you still don’t know 
-whether contingency fees have to be in writing and 
-whether we can allow our client to take the stand when we know they are going to lie.
-
-What The Kutak commission did was make a Restatement out of the Model Rules basically. Much simpler: Rules and Comments, with the comments being the best part.
+### The Model Rules and Technology
 
 And how are the Model Rules holding up in the face of globalization and technology?
-A set of rules that were drafted for the most part back in 1983, when personal computers were just becoming available and the Internet did not exist, are now being applied to a world where lawyers talk to smartphones and meet clients on Twitter. 
+A set of rules that were drafted for the most part back in 1983, 
+when personal computers were just becoming available 
+and the Internet did not exist, 
+are now being applied in a world 
+where lawyers talk to smartphones and meet clients on Twitter. 
 
-Overall they’ve held up pretty well. A Rule that began by prohibiting IN-PERSON and LIVE TELEPHONE SOLICITATION now also covers REAL-TIME ELECTRONIC CONTACT in what used to be called a chatroom.
+Overall the Model Rules have held up pretty well. 
+A Rule that began by prohibiting "in-person" and "live telephone solicitation" 
+now also covers "real-time electronic contact" in what used to be called a chatroom.
 
-Friending a person on Facebook can be an IMPROPER COMMUNICATION WITH A PERSON REPRESENTED BY COUNSEL, every bit as much as a lawyer calling them on the phone. 
-
-Probably would have worked even better if the ABA had taken the Kutak Commission’s original proposals for exceptions to the confidentiality rules.
+Friending a person on Facebook can be an "improper communication with a person represented by counsel," every bit as much as a lawyer calling them on the phone. 
 
 ### Model Rule 8.1
 
@@ -146,18 +203,18 @@ An applicant for admission to the bar (or a lawyer in connection with a bar admi
 * Same for judges &hellip; 
 * This Rule **does not require disclosure of information otherwise protected by Rule 1.6 or information gained by a lawyer or judge while participating in an approved lawyers assistance program.**
 
-Does the term “substantial” as in raises a substantial question as to that lawyer’s honesty &hellip; refer to the SERIOUSNESS of the possible offense or the AMOUNT of evidence you need? 
+Does the term “substantial” as in raises a substantial question as to that lawyer’s honesty &hellip; refer to the seriousness of the possible offense or the amount of evidence you need? 
 
-Rule 8.3 Comment 3 “the term ‘substantial’ refers to the seriousness of the possible offense and not the quantum of evidence of which the lawyer is aware.”
+Rule 8.3 Comment 3: “the term ‘substantial’ refers to the seriousness of the possible offense and not the quantum of evidence of which the lawyer is aware.”
 
 #### Duty to Report vs. Duty of Confidentiality
 
 Model Rules [8.1][aba8.1]: (Bar Admission & Disciplinary Matters) 
 and [8.3][aba8.3]: (Reporting Professional Misconduct) 
 are good examples of Rules 
-that REQUIRE a lawyer to INFORM, REPORT, or DISCLOSE information. 
+that *require* a lawyer to inform, report, or disclose information. 
 Whenever a Rule requires disclosure of information 
-it will also indicate whether the duty to report or disclose information TRUMPS the lawyer's duty of confidentiality to her client, or IS TRUMPED by that duty. 
+it will also indicate whether the duty to report or disclose information *trumps* the lawyer's duty of confidentiality to her client, or *is trumped* by that duty. 
 
 For example, Model Rules 8.1 and 8.3 both **do not require disclosure of information protected by Rule 1.6 (Confidentiality)**. How does that work? 
 
@@ -183,7 +240,8 @@ The duties stated &hellip; continue to the conclusion of the proceeding, and **a
 
 Here the lawyer's [Model Rule 3.3][aba3.3] duty of candor to the tribunal TRUMPS the lawyer's [Model Rule 1.6][aba1.6] duty of confidentiality to the client. In other words, even if the client insists that the lawyer not disclose information covered by the terms of Rule 3.3, the lawyer must do so. 
 
-Others have looked at these competing duties and seen, not conflict, but a harmonious hierarchy of duties:
+Others have looked at these competing duties and seen, 
+not conflict, but a harmonious hierarchy of duties:
 
 > The lawyer has a specific duty to preserve the confidence of the client, but that duty is subordinate to an equally specific duty not to participate in fraud upon the court. A hierarchy of duties--not a conflict--exists.
 
@@ -191,19 +249,24 @@ Others have looked at these competing duties and seen, not conflict, but a harmo
 
 Note the imperative language here. 
 
-What kind of information is CONFIDENTIAL information under Model Rule 1.6? 
+What kind of information is confidential under [Model Rule 1.6][aba1.6]? 
 
-Think BIG and BROAD.
+Think big and broad.
 
-If you think CONFIDENTIALITY is small and narrow and is vaguely synonymous with PRIVILEGED, as in protecting PRIVILEGED communications between you and your client, then you are confusing Rule 1.6 (an ETHICAL rule) with the attorney-client privilege (a rule of EVIDENCE), which by comparison IS small and narrow, because it applies only when a court or an adverse party is trying to compel you or your client to testify about “a privileged communication made in confidence to obtain or provide legal assistance for the client.” 
+Some lawyers think the duty of confidentiality 
+means a duty to keep client confidences secret. Period.
+It means don't disclose privileged information
+and don't blab about anything the client asked the lawyer to keep secret.
+These lawyers confuse [Model Rule 1.6][aba1.6] (an ETHICAL rule) with the attorney-client privilege (a rule of EVIDENCE), which by comparison IS small and narrow, because it applies only when a court or an adverse party is trying to compel you or your client to testify about “a privileged communication made in confidence to obtain or provide legal assistance for the client.” 
 
-Or worse, perhaps you confuse Rule 1.6 (an ETHICAL rule) with the attorney work product doctrine (a DISCOVERY rule, Rule 26(b)(3) in the Federal Rule of Civil Procedure. Somebody wants documents or other tangible things. You say, “NO. That’s work product.”
+Or worse, other lawyers confuse Rule 1.6 (an *ethical* rule) with the attorney work product doctrine (a *discovery* rule, Rule 26(b)(3) in the Federal Rule of Civil Procedure. 
+Somebody wants documents or other tangible things. The lawyer objects: 
+“NO. That’s work product.”
 
-The attorney-client privilege and the work product doctrine are both narrow, specific DEFENSIVE tactics you assert in proceedings connected with LITIGATION. CL
-
-IT is a MISTAKE to think of them as similar to the comparatively huge ethical duty of confidentiality. 
-
-You must keep client information confidential whether either of you ever sets foot in a courtroom.
+The attorney-client privilege and the work product doctrine are both narrow specific defensive tactics the lawyer asserts in proceedings connected with litigation. 
+It is a mistake to think of them as similar to the comparatively huge ethical duty of confidentiality. 
+Lawyers must keep client information confidential 
+whether either of lawyer or client ever sets foot in a courtroom.
 
 The ethical duty of confidentiality embraces: ALL information relating to the representation, WHATEVER ITS SOURCE.
 
@@ -211,29 +274,40 @@ Did I make that up?
 
 No. Straight from Rule 1.6 Comment 3, found in BOTH the Nebraska and the ABA Model Rules.
 
-“The confidentiality rule applies NOT ONLY TO MATTERS COMMUNICATED IN CONFIDENCE but also to ALL INFORMATION relating to the representation WHATEVER ITS SOURCE!
+“The confidentiality rule applies NOT ONLY TO MATTERS COMMUNICATED IN CONFIDENCE but also to ALL INFORMATION relating to the representation WHATEVER ITS SOURCE!"
 
-Your client’s brother mentions to you that your client once did time in prison, your client was married twice before, your client is deeply in debt. CONFIDENTIAL!
+The client’s brother mentions to the lawyer that the client once did time in prison, 
+the client was married twice before, or the client is deeply in debt. CONFIDENTIAL!
 
-Some other people know these things about your client, they may even be in public records, court filings etc, but if YOU learned about them in the course of representation, the information is confidential.
+Other people may know these things about the lawyer's client. 
+There may be public records, court filings, or old news items 
+about the client's personal or business affairs, 
+but if the lawyer learned about these matters during representation, the information is confidential.
 
-YOU SHOULD NOT BE THE SOURCE OF INFORMATION ABOUT YOUR CLIENT THAT YOUR CLIENT MIGHT CONSIDER CONFIDENTIAL.
+YOU SHOULD NOT BE THE SOURCE OF INFORMATION ABOUT YOUR CLIENT 
+THAT YOUR CLIENT MIGHT CONSIDER CONFIDENTIAL.
 
-Is it so tough to realize how important this is? Think of your doctor. Think of your doctor at a dinner party and your name comes up. “Oh, yeah, I know Dooling. He’s a patient of mine.” 
+## Confidentiality
 
-“Oh, he is? What kind of doctor are you?”
+Clients hate it when lawyers blab. 
+If that is hard for any lawyer to understand, 
+then the lawyer should imagine his infectious disease doctor at a crowded party, 
+where the doctor overhears someone mention the lawyer's name. 
+The doctor joins the conversation and tells everyone that she knows the lawyer quite well, 
+because the lawyer is one of her patients. 
+
+"And what kind of doctor are you again?" someone asks.
 
 “I’m an infectious disease specialist.”
 
-It’s the same with you and your client’s information. In many settings, just knowing that your client needs the services of a DIVORCE LAWYER, A CRIMINAL LAWYER, OR A WATER RIGHTS LAWYER is enough to violate this duty.
+It’s the same with you and your client’s information. In many settings, just knowing that your client needs the services of a divorce lawyer, a criminal lawyer, or a water rights lawyer is enough to violate this duty. 
 
-Model Rule 1.6’s prohibits revealing “information relating to the representation of a client,” and it makes no exception for information that has been previously disclosed or is publicly available. 
-
-You ethical duty of confidentiality applies even to PROSPECTIVE CLIENTS even when no client relationship ensues.
+Model Rule 1.6’s prohibits revealing “information relating to the representation of a client,” and it makes no exception for information that has been previously disclosed or is publicly available. The lawyer's ethical duty of confidentiality 
+applies even to [prospective clients][aba1.18] even when no client relationship ensues.
 
 #### Confidentiality and Prospective Clients
 
-Rule 1.18 Duties To Prospective Client
+[Rule 1.18][aba1.18] Duties To Prospective Client
 
 * A person who discusses with a lawyer the possibility of forming a client-lawyer relationship with respect to a matter is a prospective client.
 * Even when no client-lawyer relationship ensues, a lawyer who has had discussions with a prospective client shall not use or reveal information learned in the consultation
@@ -243,8 +317,6 @@ Rule 1.18 Duties To Prospective Client
 And if the United States Supreme Court’s opinion in *Swidler v. Berlin* is any indication, Rule 1.6 protects confidential information even after the death of the client.
 
 ## Bar Admission & Discipline
-
-Now, in your text you see the question asked several times:
 
 When it comes to MISCONDUCT, is the standard for ADMISSION to the bar the same as DISCIPLINE of the bar?
 
@@ -270,7 +342,7 @@ Lawyers often handle client money? But also money troubles make you a malpractic
 
 Are bar authorities too harsh?
 
-The bankruptcy issue is a bit murkier. It is an excellent example of: doing what is LEGAL and doing what is RIGHT?
+The bankruptcy issue is a bit murkier. It is an excellent example of: doing what is LEGAL and doing what is right?
 
 Should the latter concern the bar admission authorities?
 
@@ -306,17 +378,13 @@ Answer = 3.
 
 #### How Soon & How Sure?
 
-Under the old Model Code, a lawyer had to report ANY violation of ANY Disciplinary Rule. Under the Model Rules.
-
+Under the old Model Code, a lawyer had to report any violation of any Disciplinary Rule. 
 Under the Model Rules, the reporting obligation is limited to conduct that raises “a substantial question as to that [other] lawyer’s honesty, trustworthiness or fitness as a lawyer in other respects.”
 
-Wait until after the case is finished?
+Should a lawyer Wait until after the case is finished before reporting opposing counsel's ethical violations?
+Consider three possible places and conditions. The lawyer is appearing before a tribunal and must abide by her duty of candor to the court, may also discovery abuses and such.
 
-Three possible places and conditions. 
-
-You are in front of a tribunal, candor to the court, discovery abuses and such.
-
-You are opposite a lawyer in negotiations (report to firm, or report to disciplinary commission).
+The lawyer is opposite an unethical lawyer in negotiations (report to firm, or report to disciplinary commission).
 
 #### The Lawyer "Knows" . . .
 
@@ -331,7 +399,8 @@ Evidence must be such that a REASONABLE LAWYER UNDER THE CIRCUMSTANCES would hav
 A lawyer shall provide competent representation to a client. 
 Competent representation requires the legal knowledge, skill, thoroughness and preparation reasonably necessary for the representation.
 
-After the Ethics 20/20 commission changes in August of 2012, the duty of competence now requires competence in using technology 
+After the Ethics 20/20 commission changes in August of 2012, 
+the duty of competence now requires technical competence in using computer technology 
 
 To maintain the requisite knowledge and skill, a lawyer should:
 
@@ -344,13 +413,13 @@ simply makes the reference to technology explicit.
 
 Nothing controversial.
 
-But this definition of COMPETENCE is incorporated by implicitly or by explicit reference throughout, 
+But this definition of competence is incorporated by reference (implicitly or by explicitly)
+throughout. It reverberates throughout. 
+The other Rules call for competently protecting client confidentiality, competently acting with diligence, and competently avoiding conflicts of interest. 
+ABA is sending up a flare, really. No new rule or modification of a rule can deal with that pervasive and relentless and exponential technological change.
+But lawyers must be competent in technological know-how.
 
-IT REVERBERATES throughout the other RULES call for, say, COMPETENTLY protecting client confidentiality.
-
-ABA is sending up a flare, really. NO new rule or modification of a rule can deal with that pervasive and relentless and exponential technological change 
-
-In fact, in their materials the Ethics 20/20 Commission intends to establish a site resource where lawyers can go to learn about cloud computing, secure WIFI communications, laptop encryption, biometric fingerprint readers instead of passwords and so on.
+The Ethics 20/20 Commission intends to establish a site resource where lawyers can go to learn about cloud computing, secure WIFI communications, laptop encryption, biometric fingerprint readers instead of passwords and so on.
 
 Clients too are demanding that their lawyers are technologically competent, because the alternatives are too risky.
 
@@ -363,12 +432,9 @@ Clients too are demanding that their lawyers are technologically competent, beca
 ###### Diligence
 
 A lawyer shall act with reasonable diligence and promptness in representing a client.
+Often a lawyer can simply get a great result for a client by outworking opposing counsel, by knowing more about the case and the law then anybody else in the room. 
 
-And guess what, you CAN always outwork your opponent.
-
-No matter how smart they are who how many resources they have you can always OUTWORK them.
-
-Somebody has to be the person in the room who knows the MOST about the case. That person is you.
+<!-- No matter how smart they are who how many resources they have you can always OUTWORK them.  Somebody has to be the person in the room who knows the MOST about the case. That person is you. -->
 
 ### Model Rule 5.1 
 
@@ -438,6 +504,13 @@ a partner (or manager) . . . in a law firm . . . shall make reasonable efforts t
 
 Governs partners and lawyers who individually or together with other lawyers possesses comparable managerial authority and supervise nonlawyers employed or retained by or associated with a lawyer:
 
+http://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_1_2_scope_of_representation_allocation_of_authority_between_client_lawyer.html
+
+[aba1.2]: http://tinyurl.com/8k53bvb "ABA Model Rule 1.2"
+
+[fiduciary]: https://en.wikipedia.org/wiki/Fiduciary "Fiduciary at Wikipedia"
+
+[free]: http://legal-dictionary.thefreedictionary.com/fiduciary "Fiduciary at Free Dictionary"
 
 [aba1.6]: http://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_1_6_confidentiality_of_information.html	"ABA Model Rule 1.6: Confidentiality"
 
@@ -445,6 +518,7 @@ Governs partners and lawyers who individually or together with other lawyers pos
 
 [aba8.1]: http://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_8_1_bar_admission_disciplinary_matters.html	"ABA Model Rule 8.1: Bar Admission & Disciplinary Matters"
 
+[aba1.18]: http://tinyurl.com/zjkwmdf "Model Rule 1.18"
 
 [aba8.3]: http://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_8_3_reporting_professional_misconduct.html	"ABA Model Rule 8.3: Reporting Professional Conduct"
 

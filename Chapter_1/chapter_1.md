@@ -1,26 +1,21 @@
 ---
 author: Richard Dooling
-course title: Legal Profession
-document: Chapter_1.md 
+title: M&F 3rd, Chapter 1
+abstract: Notes, Slide Text, Links, Optional Readings. 
 ---
 
-<!--TOC max4-->
-
-
-## M&F3rd Chapter 1
+# M&F 3rd, Chapter 1
 
 ###### Lawyers: Role & Regulation
 
-### Notes, Slide Text, Optional Readings
-
-#### ABA Model Rules
+## ABA Model Rules
 
 * [Preamble & Scope][] 
-* [Model Rule 1.2: "Scope of Representation & Allocation of Authority Between Client & Lawyer"][aba1.2] 
+* [Model Rule 1.2: Scope of Representation & Allocation of Authority Between Client & Lawyer][aba1.2] 
 * [Model Rule 3.1: Meritorious Claims][aba3.1]
 * [Model Rule 3.3: Candor to the Tribunal][aba3.3]
 
-##### Preamble & Scope 
+### Preamble & Scope 
 
 The Preamble tells us that the lawyer is:
 
@@ -41,7 +36,7 @@ who then "goes free,"
 only to drink, drive, and injure 
 or kill others by driving under the influence? 
 
-##### Preamble & Scope Comment 3
+#### Preamble & Scope Comment 3
 
 As we'll soon learn, 
 an attorney may be disciplined for fraud or dishonesty, 
@@ -49,7 +44,7 @@ even if the fraud was unrelated to the practice of law.
 
 > For example, a lawyer who commits fraud in the conduct of a business is subject to discipline for engaging in conduct involving dishonesty, fraud, deceit or misrepresentation. See [Model Rule 8.4.][aba8.4]
 
-##### Preamble & Scope Comment 20
+#### Preamble & Scope Comment 20
 
 A lawyer violates one or more Model Rules while representing client. 
 Is the client now entitled to file a malpractice suit 
@@ -70,11 +65,11 @@ Sounds like the answer is no, but it comes with a lawyerly caveat:
 So if the lawyer is sued for malpractice, 
 the client may introduce the Model Rules as evidence of the standard of conduct?
 
-#### Model Rule 1.2  <a name="scope"></a>
+### Model Rule 1.2  <a name="scope"></a>
 
 ###### Scope of Representation and Allocation of Authority
 
-##### Model Rule 1.2(a)
+#### Model Rule 1.2(a)
 
 * Client controls (in all cases):
     * The goals, objectives and purposes of representation.
@@ -89,19 +84,19 @@ the client may introduce the Model Rules as evidence of the standard of conduct?
 * Lawyer may be impliedly authorized to take action on behalf of client even without client's informed consent [Model Rule 1.14][aba1.14]: Client With Diminished Capacity), but this is unusual.
 * A lawyer may take such action on behalf of the client as she is impliedly authorized to carry out. 
 
-##### Model Rule 1.2(b)
+#### Model Rule 1.2(b)
 
 * A lawyer *represents* a client. 
 This does not mean 
 that the lawyer endorses 
 the client's political, economic, social or moral views or activities.
 
-##### Model Rule 1.2(c) 
+#### Model Rule 1.2(c) 
 
 * "A lawyer may limit the scope of the representation if the limitation is reasonable . . . and the client gives informed consent." 
 * The client may wish to represent himself *pro se* and only wants prelimary legal advice. Or the client may agree to have the lawyer look only at tax matters, and no estate or business planning matters. 
 
-##### Model Rule 1.2(d) - The biggie!
+#### Model Rule 1.2(d) - The biggie!
 
 * A lawyer shall not counsel a client to engage, or assist a client, in conduct that the lawyer *knows* is criminal or fraudulent (knowledge requirement).
     1. Lawyer cannot COUNSEL by giving client a how-to or tutorial in criminal or fraudulent behavior.
@@ -110,7 +105,9 @@ the client's political, economic, social or moral views or activities.
 * And may counsel or assist a client to determine the validity, scope, meaning or application of the law.
 * Consider the difference between "testing" the constitutional validity of the segregation laws under *Brown v. Board of Education* versus answering the client's detailed questions about how client might go about concealing assets from a bankruptcy judge.
 
-#### What Do You Do?
+For an excellent example of how hard (or easy) it is to know when the client is looking for help to break the law, watch this 60 Minutes Episode on money-laundering: [Anonymous, Inc. - See what happens when hidden cameras capture New York lawyers being asked to move highly questionable funds into the U.S.](http://www.cbsnews.com/news/anonymous-inc-60-minutes-steve-kroft-investigation/)
+
+## What Do You Do?
 
 In [Plato's *Gorgias*][gorgias], 
 several famous ancient Greek orators and philosophers have brought Socrates 
@@ -172,7 +169,7 @@ We don't leave that part of ourselves behind when we practice law.
 Socrates ultimately wants Gorgias to answer the ancient question: 
 Does rhetorical might make right? 
 
-#### Possible Lessons
+### Possible Lessons
 
 Socrates/Plato. Not enough to have skills without thinking about right or
 wrong?
@@ -194,7 +191,7 @@ and the client’s interests
 The time to have a moral dilemma is to when you’re deciding whether or
 not to take the client. 
 
-#### Types/Roles of Lawyers
+## Types/Roles of Lawyers
 
 -   Instrument – “Hired Guns” Tool for the clients; lawyer is limited only by law and legal system.
 -   Director – “Moral Actors” Legal expert capable of determining how to handle client’s affairs with little client input. Also often "Lawyer to the Situation," instead of Lawyer to the Client.
@@ -202,13 +199,12 @@ not to take the client. 
 -   Obey your own conscious, not your clients? 
 
 
-### Recommended Reading & Viewing
+## Recommended Reading & Viewing
 
+* [RLGL "Professional Discipline" &sect; 5][RLGL-5]
 * [Plato's *Gorgias*][gorgias_text] - Probably the oldest book we have about lawyers, though in ancient Greece they were called *orators*. We read *Gorgias* in Law and Literature, a course Professor Lawson or I teach every other year. I talk just a little about *Gorgias* in our first Legal Profession class. [Gorgias at Wikipedia][gorgias].
 * [*To Kill A Mockingbird* by Harper Lee (1960)][mockingbird] and [the 1962 movie version][mockingbird_movie], starring Gregory Peck (DVD on reserve in Schmid Law Library).
 * [Malcom Gladwell's "The Courthouse Ring: Atticus Finch and the limits of Southern liberalism,"][gladwell] *The New Yorker* (10 August 2009). Deified as the epitomy of legal rectitude for fifty years, Atticus Finch has recently come in for reexamination. He plainly violates at least one of the Model Rules, shows no compunction whatsoever about employing the she-wanted-it defense to defend his appointed client in a rape trial, and some believe accommodates racial prejudice more than he fights it. Malcom Gladwell summarizes some of the recent criticism in his article in [*The New Yorker*][gladwell]. 
-* [RLGL "Professional Discipline" &sect; 5][RLGL-5]
-
 
 [gorgias]: http://en.wikipedia.org/wiki/Gorgias_(dialogue)	"Plato's Gorgias at Wikipedia"
 

@@ -1,16 +1,14 @@
 ---
 author: Richard Dooling
-course title: Legal Profession
-document: Chapter_3.md
+title: M&F 3rd, Chapter 1
+abstract: Notes, Slide Text, Links, Optional Readings. 
 ---
 
-# M&F3rd Chapter 3
+# M&F 3rd, Chapter 3
 
 ###### Beginning the Client-Lawyer Relationship
 
-## Notes, Slide Text, Optional Readings 
-
-### In The Beginning . . .  
+## In The Beginning . . . 
 
 It’s like getting married. Be careful. Pick and choose.
 Is this the kind of person who likes to sue people?
@@ -25,9 +23,9 @@ But they have other obligations governed by court rules.
 
 Formation of the lawyer-client relationship, the place of fees in that relationship, and the various forms of the duty of confidentiality.
 
-### Access To Justice 
+## Access To Justice 
 
-Access to justice in America remains elusive for most of the poor and much of the middle class.  
+Access to justice in America remains elusive for most of the poor and much of the middle class. 
 
 This concern is not new. In 1919, Reginald Heber Smith wrote that without equal access to the law: 
 
@@ -39,13 +37,13 @@ This concern is not new. In 1919, Reginald Heber Smith wrote that without equal 
 
 > The men who own the earth make the laws to protect what they have.  Laws were never organized or enforced to do justice. Only you, the jury, can give us justice. --Clarence Darrow
 
-### Court Appointments
+## Court Appointments
 
 Courts have the power to APPOINT counsel for indigent or unpopular litigants.
 
 No constitutional provision compels an attorney to represent a client in a civil matter.  Congress has not codified compulsory service of attorneys to represent indigent litigants.  Service to the indigent is an essential characteristic of any ethical attorney because 
 
-#### Model Rule 6.1
+### Model Rule 6.1
 
 ###### Voluntary Pro Bono Publico Service
 
@@ -56,7 +54,7 @@ Every lawyer has a professional responsibility to provide legal services to thos
     * charitable, religious, civic, community, governmental and educational organizations in matters that are designed primarily to address the needs of persons of limited means; and
 * deliver legal services at no fee or substantially reduced fee to individuals, groups or organizations seeking to secure or protect civil rights.&hellip; 
 
-#### Model Rule 6.2
+### Model Rule 6.2
 
 ###### Accepting Appointments:
 
@@ -65,7 +63,7 @@ Every lawyer has a professional responsibility to provide legal services to thos
     * Unreasonable financial burden on lawyer;
     * Client is so repugnant to lawyer that lawyer probably won't be able to do a good job or get along with the client.
 
-#### Model Rule 2.1
+### Model Rule 2.1
 
 ###### Duties as Advisor to Client:
 
@@ -117,7 +115,7 @@ Lawyers must learn to be clear about who their clients are. If someone interview
 
 One way to solve the problem of nobody being able to afford a lawyer, make discrete services available. Make unbundled legal services available.
 
-A lawyer may limit the scope of the representation if the limitation is reasonable under the circumstances and the client gives informed consent.  
+A lawyer may limit the scope of the representation if the limitation is reasonable under the circumstances and the client gives informed consent. 
 
 Thus, things like Brief Ghostwriting, etc. are often permissible unless your jurisdiction requires you to enter appearance on behalf of litigant.
 
@@ -185,9 +183,9 @@ As opposed to another way to do it. Instead of perceiving it as a threat, explor
 
 ### Lawyer Autonomy 
 
-#### Model Rule 1.2(b): 
+### Model Rule 1.2(b): 
 
-> representation . . . Does not constitute an endorsement of the client’s political, economic, social or moral views or activities.”  
+> representation . . . Does not constitute an endorsement of the client’s political, economic, social or moral views or activities.” 
 
 #### Advocate 
 
@@ -201,7 +199,7 @@ Different that the role of COUNSELLOR or ADVISOR, where we are usually dealing w
 
 ### Advisor
 
-#### Model Rule 2.1 
+### Model Rule 2.1 
 
 ###### Candid advice &  professional judgment
 
@@ -271,6 +269,15 @@ The lawyer-client relationship arises when a person wants the lawyer to provide 
 * the lawyer “FAILS TO MANIFEST LACK OF CONSENT”
 
 ### Totally Optional Reading & Viewing
+
+* [A Mockery of Justice for the Poor,] (http://www.nytimes.com/2016/04/30/opinion/a-mockery-of-justice-for-the-poor.html) *The New York Times*, 29 April 2016, by John Pfaff.
+
+> In Fresno, Calif., for instance, 
+> public defenders have caseloads 
+> that are four times the recommended maximum of around 150. 
+> In Minnesota, one public defender followed by a reporter 
+> estimated that he had about 12 minutes to devote to each client that day. 
+> There is no way these lawyers can manage the cases being thrown at them. 
 
 * [Venerable Firm in Spotlight for Holocaust Assets Case Role](http://articles.latimes.com/1997-04-03/news/mn-44919_1_credit-suisse) (LATimes article on Cravath's decision to represent Credit Suisse in Holocaust assets case)
 * [Wealth Inequality In America](http://youtu.be/QPKKQnijnsM)
