@@ -504,8 +504,6 @@ a partner (or manager) . . . in a law firm . . . shall make reasonable efforts t
 
 Governs partners and lawyers who individually or together with other lawyers possesses comparable managerial authority and supervise nonlawyers employed or retained by or associated with a lawyer:
 
-http://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_1_2_scope_of_representation_allocation_of_authority_between_client_lawyer.html
-
 [aba1.2]: http://tinyurl.com/8k53bvb "ABA Model Rule 1.2"
 
 [fiduciary]: https://en.wikipedia.org/wiki/Fiduciary "Fiduciary at Wikipedia"
