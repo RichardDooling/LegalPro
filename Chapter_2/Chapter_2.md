@@ -346,7 +346,7 @@ The bankruptcy issue is a bit murkier. It is an excellent example of: doing what
 
 Should the latter concern the bar admission authorities?
 
-#### Mental Illness?  Alcohol or chemical dependency? 
+#### Mental Illness? Alcohol or chemical dependency? 
 
 A recent survey by the New York City bar association found that 50 percent of lawyers seeking counseling from its lawyer-outreach program 
 list mental health as their primary concern, up from 40 percent in 2005.
