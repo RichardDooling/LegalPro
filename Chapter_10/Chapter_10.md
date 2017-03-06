@@ -14,7 +14,7 @@ Yes, thanks! RD 22-Feb-2017
 
 -->
 
-# CHAPTER 10
+# M&F3rd, CHAPTER 10
 
 ###### Conflicts of Interest: Specific Rules
 
