@@ -2,7 +2,7 @@
 author: Richard Dooling
 title: Legal Profession
 subtitle: MF Chapter 11
-main rules: 1.9
+main rules: 1.9, 1.10, 1.11, 1.18
 doc: slide notes
 ---
 
