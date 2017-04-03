@@ -251,13 +251,13 @@ Appointed Counsel's Relationship to a Person Who Declines to be Represented, con
 
 ###### Duties To Prospective Clients
 
-a person who discusses with a lawyer the possibility of forming a client-lawyer relationship . . .
+> a person who discusses with a lawyer the possibility of forming a client-lawyer relationship . . .
 
-EVEN WHEN NO CLIENT LAWYER RELATIONSHIP ENSUES . . . a lawyer shall not USE OR REVEAL that information . . .
+> EVEN WHEN NO CLIENT LAWYER RELATIONSHIP ENSUES . . . a lawyer shall not USE OR REVEAL that information . . .
 
-a lawyer . . . shall not represent a client with adverse interests in the same . . . matter if the lawyer received information from the prospective client that could be . . . harmful to that person in the matter . . . same goes for the firm!
+> a lawyer . . . shall not represent a client with adverse interests in the same . . . matter if the lawyer received information from the prospective client that could be . . . harmful to that person in the matter . . . same goes for the firm!
 
-So this is one of those areas where it’s possible,at least in terms of email and websites to use just a little technological common sense and avoid this whole problem entirely.
+> So this is one of those areas where it’s possible,at least in terms of email and websites to use just a little technological common sense and avoid this whole problem entirely.
 
 ### RLGL §14
 
