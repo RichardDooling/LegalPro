@@ -1,10 +1,10 @@
 ---
 author: Richard Dooling
-title: M&F 3rd, Chapter 2
+title: M&F 4th, Chapter 2
 abstract: Notes, Slide Text, Links, Optional Readings. 
 ---
 
-# M&F 3rd, Chapter 2
+# M&F 4th, Chapter 2
 
 ###### Judicial and Professional Regulation of Lawyers
 
@@ -245,77 +245,6 @@ not conflict, but a harmonious hierarchy of duties:
 
 > The lawyer has a specific duty to preserve the confidence of the client, but that duty is subordinate to an equally specific duty not to participate in fraud upon the court. A hierarchy of duties--not a conflict--exists.
 
-####  Rule 1.6 - Confidentiality
-
-Note the imperative language here. 
-
-What kind of information is confidential under [Model Rule 1.6][aba1.6]? 
-
-Think big and broad.
-
-Some lawyers think the duty of confidentiality 
-means a duty to keep client confidences secret. Period.
-It means don't disclose privileged information
-and don't blab about anything the client asked the lawyer to keep secret.
-These lawyers confuse [Model Rule 1.6][aba1.6] (an ETHICAL rule) with the attorney-client privilege (a rule of EVIDENCE), which by comparison IS small and narrow, because it applies only when a court or an adverse party is trying to compel you or your client to testify about “a privileged communication made in confidence to obtain or provide legal assistance for the client.” 
-
-Or worse, other lawyers confuse Rule 1.6 (an *ethical* rule) with the attorney work product doctrine (a *discovery* rule, Rule 26(b)(3) in the Federal Rule of Civil Procedure. 
-Somebody wants documents or other tangible things. The lawyer objects: 
-“NO. That’s work product.”
-
-The attorney-client privilege and the work product doctrine are both narrow specific defensive tactics the lawyer asserts in proceedings connected with litigation. 
-It is a mistake to think of them as similar to the comparatively huge ethical duty of confidentiality. 
-Lawyers must keep client information confidential 
-whether either of lawyer or client ever sets foot in a courtroom.
-
-The ethical duty of confidentiality embraces: ALL information relating to the representation, WHATEVER ITS SOURCE.
-
-Did I make that up?
-
-No. Straight from Rule 1.6 Comment 3, found in BOTH the Nebraska and the ABA Model Rules.
-
-“The confidentiality rule applies NOT ONLY TO MATTERS COMMUNICATED IN CONFIDENCE but also to ALL INFORMATION relating to the representation WHATEVER ITS SOURCE!"
-
-The client’s brother mentions to the lawyer that the client once did time in prison, 
-the client was married twice before, or the client is deeply in debt. CONFIDENTIAL!
-
-Other people may know these things about the lawyer's client. 
-There may be public records, court filings, or old news items 
-about the client's personal or business affairs, 
-but if the lawyer learned about these matters during representation, the information is confidential.
-
-YOU SHOULD NOT BE THE SOURCE OF INFORMATION ABOUT YOUR CLIENT 
-THAT YOUR CLIENT MIGHT CONSIDER CONFIDENTIAL.
-
-## Confidentiality
-
-Clients hate it when lawyers blab. 
-If that is hard for any lawyer to understand, 
-then the lawyer should imagine his infectious disease doctor at a crowded party, 
-where the doctor overhears someone mention the lawyer's name. 
-The doctor joins the conversation and tells everyone that she knows the lawyer quite well, 
-because the lawyer is one of her patients. 
-
-"And what kind of doctor are you again?" someone asks.
-
-“I’m an infectious disease specialist.”
-
-It’s the same with you and your client’s information. In many settings, just knowing that your client needs the services of a divorce lawyer, a criminal lawyer, or a water rights lawyer is enough to violate this duty. 
-
-Model Rule 1.6’s prohibits revealing “information relating to the representation of a client,” and it makes no exception for information that has been previously disclosed or is publicly available. The lawyer's ethical duty of confidentiality 
-applies even to [prospective clients][aba1.18] even when no client relationship ensues.
-
-### Confidentiality and Prospective Clients
-
-[Rule 1.18][aba1.18] Duties To Prospective Client
-
-* A person who discusses with a lawyer the possibility of forming a client-lawyer relationship with respect to a matter is a prospective client.
-* Even when no client-lawyer relationship ensues, a lawyer who has had discussions with a prospective client shall not use or reveal information learned in the consultation
-
-### Dead Clients & Confidentiality
-
-And if the United States Supreme Court’s opinion in *Swidler v. Berlin* is any indication, Rule 1.6 protects confidential information even after the death of the client.
-
 ## Bar Admission & Discipline
 
 When it comes to MISCONDUCT, is the standard for ADMISSION to the bar the same as DISCIPLINE of the bar?
@@ -393,48 +322,6 @@ Model Rule 1.0 Terminology: "Knowingly," "known," or "knows" denotes actual know
 “Most cases and ethics opinions conclude that 'knowledge' is determined by an objective standard.” 
 
 Evidence must be such that a REASONABLE LAWYER UNDER THE CIRCUMSTANCES would have formed a FIRM OPINION that it was more likely than not that the conduct occurred.
-
-### Rule 1.1 Competence
-
-A lawyer shall provide competent representation to a client. 
-Competent representation requires the legal knowledge, skill, thoroughness and preparation reasonably necessary for the representation.
-
-After the Ethics 20/20 commission changes in August of 2012, 
-the duty of competence now requires technical competence in using computer technology 
-
-To maintain the requisite knowledge and skill, a lawyer should:
-
-* keep abreast of changes in the law and its practice,  including the benefits and risks associated with relevant technology, 
-* engage in continuing study and education and 
-* comply with all continuing legal education requirements to which the lawyer is subject. 
-
-Changes to Model Rule 1.1 Comment 8 because of technology and outsourcing of technology. Again the language added by the Ethics 20/20 Commission the comments 
-simply makes the reference to technology explicit.
-
-Nothing controversial.
-
-But this definition of competence is incorporated by reference (implicitly or by explicitly)
-throughout. It reverberates throughout. 
-The other Rules call for competently protecting client confidentiality, competently acting with diligence, and competently avoiding conflicts of interest. 
-ABA is sending up a flare, really. No new rule or modification of a rule can deal with that pervasive and relentless and exponential technological change.
-But lawyers must be competent in technological know-how.
-
-The Ethics 20/20 Commission intends to establish a site resource where lawyers can go to learn about cloud computing, secure WIFI communications, laptop encryption, biometric fingerprint readers instead of passwords and so on.
-
-Clients too are demanding that their lawyers are technologically competent, because the alternatives are too risky.
-
-> Being a Luddite can be expensive, embarrassing, and potentially disastrous for lawyers and clients. Technological incompetence can result in wasted time (and therefore increased cost to the client), loss of money and identity, ethical sanctions, and embarrassment or worse in the courtroom. Those are high prices to pay for being too proud (or lazy) to learn how the Internet, social media, and that box on your desk work.
-
-[The Consequences of Technological Incompetence](https://lawyerist.com/89959/consequences-of-technological-incompetence/?utm_source), by Sam Glover on October 14th, 2015.
-
-###  Model Rule 1.3 
-
-###### Diligence
-
-A lawyer shall act with reasonable diligence and promptness in representing a client.
-Often a lawyer can simply get a great result for a client by outworking opposing counsel, by knowing more about the case and the law then anybody else in the room. 
-
-<!-- No matter how smart they are who how many resources they have you can always OUTWORK them.  Somebody has to be the person in the room who knows the MOST about the case. That person is you. -->
 
 ### Model Rule 5.1 
 

@@ -4,11 +4,51 @@ title: M&F 3rd, Chapter 4
 abstract: Notes, Slide Text, Links, Optional Readings. 
 ---
 
-# M&F3rd Chapter 4
-
+# M&F4th Chapter 4
 
 ###### Control & Communication 
 
+### Rule 1.1 Competence
+
+A lawyer shall provide competent representation to a client. 
+Competent representation requires the legal knowledge, skill, thoroughness and preparation reasonably necessary for the representation.
+
+After the Ethics 20/20 commission changes in August of 2012, 
+the duty of competence now requires technical competence in using computer technology 
+
+To maintain the requisite knowledge and skill, a lawyer should:
+
+* keep abreast of changes in the law and its practice,  including the benefits and risks associated with relevant technology, 
+* engage in continuing study and education and 
+* comply with all continuing legal education requirements to which the lawyer is subject. 
+
+Changes to Model Rule 1.1 Comment 8 because of technology and outsourcing of technology. Again the language added by the Ethics 20/20 Commission the comments 
+simply makes the reference to technology explicit.
+
+Nothing controversial.
+
+But this definition of competence is incorporated by reference (implicitly or by explicitly)
+throughout. It reverberates throughout. 
+The other Rules call for competently protecting client confidentiality, competently acting with diligence, and competently avoiding conflicts of interest. 
+ABA is sending up a flare, really. No new rule or modification of a rule can deal with that pervasive and relentless and exponential technological change.
+But lawyers must be competent in technological know-how.
+
+The Ethics 20/20 Commission intends to establish a site resource where lawyers can go to learn about cloud computing, secure WIFI communications, laptop encryption, biometric fingerprint readers instead of passwords and so on.
+
+Clients too are demanding that their lawyers are technologically competent, because the alternatives are too risky.
+
+> Being a Luddite can be expensive, embarrassing, and potentially disastrous for lawyers and clients. Technological incompetence can result in wasted time (and therefore increased cost to the client), loss of money and identity, ethical sanctions, and embarrassment or worse in the courtroom. Those are high prices to pay for being too proud (or lazy) to learn how the Internet, social media, and that box on your desk work.
+
+[The Consequences of Technological Incompetence](https://lawyerist.com/89959/consequences-of-technological-incompetence/?utm_source), by Sam Glover on October 14th, 2015.
+
+###  Model Rule 1.3 
+
+###### Diligence
+
+A lawyer shall act with reasonable diligence and promptness in representing a client.
+Often a lawyer can simply get a great result for a client by outworking opposing counsel, by knowing more about the case and the law then anybody else in the room. 
+
+<!-- No matter how smart they are who how many resources they have you can always OUTWORK them.  Somebody has to be the person in the room who knows the MOST about the case. That person is you. -->
 ## Model Rule 1.2 
 
 ###### Scope of Representation

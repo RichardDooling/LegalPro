@@ -1,10 +1,10 @@
 ---
 author: Richard Dooling
-title: M&F 3rd, Chapter 1
+title: M&F 4th, Chapter 3
 abstract: Notes, Slide Text, Links, Optional Readings. 
 ---
 
-# M&F 3rd, Chapter 3
+# M&F 4th, Chapter 3
 
 ###### Beginning the Client-Lawyer Relationship
 
@@ -17,11 +17,9 @@ Is this the kind of person who likes to sue people?
 
 Once representation begins, a lawyer assumes duties not easily shed and cases sometimes assume a life of their own.
 
-Lawyers are like other service providers. Rights and obligations governed by torts, contract, agency.
+Lawyers are like other service providers. Rights and obligations governed by torts, contract, agency. But they have other obligations governed by court rules.
 
-But they have other obligations governed by court rules.
-
-Formation of the lawyer-client relationship, the place of fees in that relationship, and the various forms of the duty of confidentiality.
+The lawyer-client relationship is complicated because of fees and various duties, especially the duties of loyalty and confidentiality.
 
 ## Access To Justice 
 
@@ -63,16 +61,6 @@ Every lawyer has a professional responsibility to provide legal services to thos
     * Unreasonable financial burden on lawyer;
     * Client is so repugnant to lawyer that lawyer probably won't be able to do a good job or get along with the client.
 
-### Model Rule 2.1
-
-###### Duties as Advisor to Client:
-
-* Lawyer shall:
-    * Exercise independent professional judgment and render candid advice; 
-* Lawyer May:
-    * Refer not only to LAW, but other considerations, including (1) moral (2) economic (3) ethical (4) social and (5) political factors.
-* May include information from non-lawyer professionals. 
-* If the matter involves litigation, lawyer SHOULD also inform client of alternative dispute resolution, but so far NOT REQUIRED. Still a very good idea, depending on the circumstances. 
 
 #### Accidental Clients
 
@@ -183,6 +171,47 @@ As opposed to another way to do it. Instead of perceiving it as a threat, explor
 
 ### Lawyer Autonomy 
 
+### Model Rule 1.2 
+
+###### Scope of Representation and Allocation of Authority
+
+#### Model Rule 1.2(a)
+
+* Client controls (in all cases):
+    * The goals, objectives and purposes of representation.
+    * Settlement decisions.
+* Client controls (in criminal cases):
+    * What plea is entered.
+    * Whether to waive jury trial.
+    * Whether client will testify. 
+* Lawyer Controls:
+    * The means to achieve the client's goals.
+    * But lawyer must consult with the client about the MEANS or HOW TO achieve those goals. [Model Rule 1.4][aba1.4]: Duty To Consult/Communicate with Client.
+* Lawyer may be impliedly authorized to take action on behalf of client even without client's informed consent [Model Rule 1.14][aba1.14]: Client With Diminished Capacity), but this is unusual.
+* A lawyer may take such action on behalf of the client as she is impliedly authorized to carry out. 
+
+#### Model Rule 1.2(b)
+
+* A lawyer *represents* a client. 
+This does not mean 
+that the lawyer endorses 
+the client's political, economic, social or moral views or activities.
+
+#### Model Rule 1.2(c) 
+
+* "A lawyer may limit the scope of the representation if the limitation is reasonable . . . and the client gives informed consent." 
+* The client may wish to represent himself *pro se* and only wants prelimary legal advice. Or the client may agree to have the lawyer look only at tax matters, and no estate or business planning matters. 
+
+#### Model Rule 1.2(d) - The biggie!
+
+* A lawyer shall not counsel a client to engage, or assist a client, in conduct that the lawyer *knows* is criminal or fraudulent (knowledge requirement).
+    1. Lawyer cannot COUNSEL by giving client a how-to or tutorial in criminal or fraudulent behavior.
+    2. Lawyer cannot ASSIST client (e.g. by submitting documents to obtain a settlement on an insurance claim the lawyer knows is fraudulent).
+* But a lawyer may discuss the legal consequences of any proposed course of conduct with a client;
+* And may counsel or assist a client to determine the validity, scope, meaning or application of the law.
+* Consider the difference between "testing" the constitutional validity of the segregation laws under *Brown v. Board of Education* versus answering the client's detailed questions about how client might go about concealing assets from a bankruptcy judge.
+
+For an excellent example of how hard (or easy) it is to know when the client is looking for help to break the law, watch this 60 Minutes Episode on money-laundering: [Anonymous, Inc. - See what happens when hidden cameras capture New York lawyers being asked to move highly questionable funds into the U.S.](http://www.cbsnews.com/news/anonymous-inc-60-minutes-steve-kroft-investigation/)
 ### Model Rule 1.2(b): 
 
 > representation . . . Does not constitute an endorsement of the client’s political, economic, social or moral views or activities.” 
@@ -202,6 +231,17 @@ Different that the role of COUNSELLOR or ADVISOR, where we are usually dealing w
 ### Model Rule 2.1 
 
 ###### Candid advice &  professional judgment
+
+### Model Rule 2.1
+
+###### Duties as Advisor to Client:
+
+* Lawyer shall:
+    * Exercise independent professional judgment and render candid advice; 
+* Lawyer May:
+    * Refer not only to LAW, but other considerations, including (1) moral (2) economic (3) ethical (4) social and (5) political factors.
+* May include information from non-lawyer professionals. 
+* If the matter involves litigation, lawyer SHOULD also inform client of alternative dispute resolution, but so far NOT REQUIRED. Still a very good idea, depending on the circumstances. 
 
 Comment 3:  “. . .  may include . . . more . . . than strictly legal considerations.”
 

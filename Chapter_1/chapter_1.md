@@ -1,19 +1,13 @@
 ---
 author: Richard Dooling
-title: M&F 3rd, Chapter 1
+title: M&F 4th, Chapter 1
 abstract: Notes, Slide Text, Links, Optional Readings. 
 ---
 
-# M&F 3rd, Chapter 1
+# M&F 4th, Chapter 1
 
 ###### Lawyers: Role & Regulation
 
-## ABA Model Rules
-
-* [Preamble & Scope][] 
-* [Model Rule 1.2: Scope of Representation & Allocation of Authority Between Client & Lawyer][aba1.2] 
-* [Model Rule 3.1: Meritorious Claims][aba3.1]
-* [Model Rule 3.3: Candor to the Tribunal][aba3.3]
 
 ### Preamble & Scope 
 
@@ -64,48 +58,6 @@ Sounds like the answer is no, but it comes with a lawyerly caveat:
 
 So if the lawyer is sued for malpractice, 
 the client may introduce the Model Rules as evidence of the standard of conduct?
-
-### Model Rule 1.2  <a name="scope"></a>
-
-###### Scope of Representation and Allocation of Authority
-
-#### Model Rule 1.2(a)
-
-* Client controls (in all cases):
-    * The goals, objectives and purposes of representation.
-    * Settlement decisions.
-* Client controls (in criminal cases):
-    * What plea is entered.
-    * Whether to waive jury trial.
-    * Whether client will testify. 
-* Lawyer Controls:
-    * The means to achieve the client's goals.
-    * But lawyer must consult with the client about the MEANS or HOW TO achieve those goals. [Model Rule 1.4][aba1.4]: Duty To Consult/Communicate with Client.
-* Lawyer may be impliedly authorized to take action on behalf of client even without client's informed consent [Model Rule 1.14][aba1.14]: Client With Diminished Capacity), but this is unusual.
-* A lawyer may take such action on behalf of the client as she is impliedly authorized to carry out. 
-
-#### Model Rule 1.2(b)
-
-* A lawyer *represents* a client. 
-This does not mean 
-that the lawyer endorses 
-the client's political, economic, social or moral views or activities.
-
-#### Model Rule 1.2(c) 
-
-* "A lawyer may limit the scope of the representation if the limitation is reasonable . . . and the client gives informed consent." 
-* The client may wish to represent himself *pro se* and only wants prelimary legal advice. Or the client may agree to have the lawyer look only at tax matters, and no estate or business planning matters. 
-
-#### Model Rule 1.2(d) - The biggie!
-
-* A lawyer shall not counsel a client to engage, or assist a client, in conduct that the lawyer *knows* is criminal or fraudulent (knowledge requirement).
-    1. Lawyer cannot COUNSEL by giving client a how-to or tutorial in criminal or fraudulent behavior.
-    2. Lawyer cannot ASSIST client (e.g. by submitting documents to obtain a settlement on an insurance claim the lawyer knows is fraudulent).
-* But a lawyer may discuss the legal consequences of any proposed course of conduct with a client;
-* And may counsel or assist a client to determine the validity, scope, meaning or application of the law.
-* Consider the difference between "testing" the constitutional validity of the segregation laws under *Brown v. Board of Education* versus answering the client's detailed questions about how client might go about concealing assets from a bankruptcy judge.
-
-For an excellent example of how hard (or easy) it is to know when the client is looking for help to break the law, watch this 60 Minutes Episode on money-laundering: [Anonymous, Inc. - See what happens when hidden cameras capture New York lawyers being asked to move highly questionable funds into the U.S.](http://www.cbsnews.com/news/anonymous-inc-60-minutes-steve-kroft-investigation/)
 
 ## What Do You Do?
 
@@ -171,16 +123,12 @@ Does rhetorical might make right?
 
 ### Possible Lessons
 
-Socrates/Plato. Not enough to have skills without thinking about right or
-wrong?
+Socrates plainly feels that it's not enough to have technical skills.
+One also must consider whether one is using those skills to commit a wrong.
 
-Freedman and Smith: Is there a single point of view that can be
+Freedman and Smith: 
+Is there a single point of view that can be
 identified as “the moral” one?
-
-Two parts of client/attorney relationship
-
--   Client autonomy,  client has a right to decide own interests.
--   Lawyer’s zeal, in maintaining and defending client’s rights/interests
 
 Rhode: Lawyers should assess their obligations in light of all societal
 interests at issue in particular practice contexts. 
@@ -188,16 +136,14 @@ interests at issue in particular practice contexts. 
 ABA: Have to balance lawyer’s interests with the bar’s image, “justice”
 and the client’s interests
 
-The time to have a moral dilemma is to when you’re deciding whether or
-not to take the client. 
+Dooling: The time to have a moral dilemma is when the lawyer is deciding whether to take the case. 
 
 ## Types/Roles of Lawyers
 
 -   Instrument – “Hired Guns” Tool for the clients; lawyer is limited only by law and legal system.
 -   Director – “Moral Actors” Legal expert capable of determining how to handle client’s affairs with little client input. Also often "Lawyer to the Situation," instead of Lawyer to the Client.
--   Collaborator – Client is best able to make decisions for self but needs perspective of lawyers to know both their own interests and the effect of those decisions on others
--   Obey your own conscious, not your clients? 
-
+-   Collaborator/Translator – Client is best able to make decisions for herself, but needs the perspective of lawyers to know both her own interests and the effect of her decisions on others
+-   Obey your own conscience, not your client's? 
 
 ## Recommended Reading & Viewing
 
@@ -238,8 +184,17 @@ not to take the client. 
 
 <!--
 
+## ABA Model Rules
 
+* [Preamble & Scope][] 
+* [Model Rule 1.2: Scope of Representation & Allocation of Authority Between Client & Lawyer][aba1.2] 
+* [Model Rule 3.1: Meritorious Claims][aba3.1]
+* [Model Rule 3.3: Candor to the Tribunal][aba3.3]
 
+Two parts of client/attorney relationship
+
+-   Client autonomy,  client has a right to decide own interests.
+-   Lawyer’s zeal, in maintaining and defending client’s rights/interests
 -->
 
 <!-- END COMMENT -->

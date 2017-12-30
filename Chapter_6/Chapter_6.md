@@ -25,6 +25,80 @@ document: slide notes
 - [Section 59: Definition of Confidential Information][RLGL-59]
 - [Section 60: Lawyers Duty to Safeguard Confidential Information][RLGL-60]
 
+<!-- Copied in from Chapter 2 for MF 4th, needs work  -->
+
+####  Rule 1.6 - Confidentiality
+
+Note the imperative language here. 
+
+What kind of information is confidential under [Model Rule 1.6][aba1.6]? 
+
+Think big and broad.
+
+Some lawyers think the duty of confidentiality 
+means a duty to keep client confidences secret. Period.
+It means don't disclose privileged information
+and don't blab about anything the client asked the lawyer to keep secret.
+These lawyers confuse [Model Rule 1.6][aba1.6] (an ETHICAL rule) with the attorney-client privilege (a rule of EVIDENCE), which by comparison IS small and narrow, because it applies only when a court or an adverse party is trying to compel you or your client to testify about “a privileged communication made in confidence to obtain or provide legal assistance for the client.” 
+
+Or worse, other lawyers confuse Rule 1.6 (an *ethical* rule) with the attorney work product doctrine (a *discovery* rule, Rule 26(b)(3) in the Federal Rule of Civil Procedure. 
+Somebody wants documents or other tangible things. The lawyer objects: 
+“NO. That’s work product.”
+
+The attorney-client privilege and the work product doctrine are both narrow specific defensive tactics the lawyer asserts in proceedings connected with litigation. 
+It is a mistake to think of them as similar to the comparatively huge ethical duty of confidentiality. 
+Lawyers must keep client information confidential 
+whether either of lawyer or client ever sets foot in a courtroom.
+
+The ethical duty of confidentiality embraces: ALL information relating to the representation, WHATEVER ITS SOURCE.
+
+Did I make that up?
+
+No. Straight from Rule 1.6 Comment 3, found in BOTH the Nebraska and the ABA Model Rules.
+
+“The confidentiality rule applies NOT ONLY TO MATTERS COMMUNICATED IN CONFIDENCE but also to ALL INFORMATION relating to the representation WHATEVER ITS SOURCE!"
+
+The client’s brother mentions to the lawyer that the client once did time in prison, 
+the client was married twice before, or the client is deeply in debt. CONFIDENTIAL!
+
+Other people may know these things about the lawyer's client. 
+There may be public records, court filings, or old news items 
+about the client's personal or business affairs, 
+but if the lawyer learned about these matters during representation, the information is confidential.
+
+YOU SHOULD NOT BE THE SOURCE OF INFORMATION ABOUT YOUR CLIENT 
+THAT YOUR CLIENT MIGHT CONSIDER CONFIDENTIAL.
+
+## Confidentiality
+
+Clients hate it when lawyers blab. 
+If that is hard for any lawyer to understand, 
+then the lawyer should imagine his infectious disease doctor at a crowded party, 
+where the doctor overhears someone mention the lawyer's name. 
+The doctor joins the conversation and tells everyone that she knows the lawyer quite well, 
+because the lawyer is one of her patients. 
+
+"And what kind of doctor are you again?" someone asks.
+
+“I’m an infectious disease specialist.”
+
+It’s the same with you and your client’s information. In many settings, just knowing that your client needs the services of a divorce lawyer, a criminal lawyer, or a water rights lawyer is enough to violate this duty. 
+
+Model Rule 1.6’s prohibits revealing “information relating to the representation of a client,” and it makes no exception for information that has been previously disclosed or is publicly available. The lawyer's ethical duty of confidentiality 
+applies even to [prospective clients][aba1.18] even when no client relationship ensues.
+
+### Confidentiality and Prospective Clients
+
+[Rule 1.18][aba1.18] Duties To Prospective Client
+
+* A person who discusses with a lawyer the possibility of forming a client-lawyer relationship with respect to a matter is a prospective client.
+* Even when no client-lawyer relationship ensues, a lawyer who has had discussions with a prospective client shall not use or reveal information learned in the consultation
+
+### Dead Clients & Confidentiality
+
+And if the United States Supreme Court’s opinion in *Swidler v. Berlin* is any indication, Rule 1.6 protects confidential information even after the death of the client.
+
+
 ## Confidentiality
 
 Confidentiality? 
