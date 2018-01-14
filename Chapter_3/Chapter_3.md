@@ -13,7 +13,7 @@ abstract: Notes, Slide Text, Links, Optional Readings.
 It’s like getting married. Be careful. Pick and choose.
 Is this the kind of person who likes to sue people?
 
-> For certain people, after fifty, litigation takes the place of sex. --Gore Vidal
+> "For certain people, after fifty, litigation takes the place of sex." --Gore Vidal
 
 Once representation begins, a lawyer assumes duties not easily shed and cases sometimes assume a life of their own.
 
@@ -24,28 +24,29 @@ The lawyer-client relationship is complicated because of fees and various duties
 ## Access To Justice 
 
 Access to justice in America remains elusive for most of the poor and much of the middle class. 
-
 This concern is not new. In 1919, Reginald Heber Smith wrote that without equal access to the law: 
 
 > The system not only robs the poor of their only protection, but it places in the hands of their oppressors the most powerful and ruthless weapon ever invented.
 
-> A man's respect for law and order exists in precise relationship to the size of his pay check. --Adam Clayton Powell
+Maybe Adam Clayton Powell said it better: 
+"A man's respect for law and order exists in precise relationship to the size of his pay check." 
 
-> Laws were made for the exploitation of those who don't understand them or are prevented by naked misery from obeying them. --Clarence Darrow
-
-> The men who own the earth make the laws to protect what they have.  Laws were never organized or enforced to do justice. Only you, the jury, can give us justice. --Clarence Darrow
+Without access to justice, the poor have no incentive to respect the law. 
+Clarene Darrow, for one, said, "Laws were made for the exploitation of those who don't understand them or are prevented by naked misery from obeying them."
+He harangued juries with this notion of the law: 
+"The men who own the earth make the laws to protect what they have. Laws were never organized or enforced to do justice. Only you, the jury, can give us justice."
 
 ## Court Appointments
 
-Courts have the power to APPOINT counsel for indigent or unpopular litigants.
+Courts have the power to *appoint* counsel for indigent or unpopular litigants.
 
-No constitutional provision compels an attorney to represent a client in a civil matter.  Congress has not codified compulsory service of attorneys to represent indigent litigants.  Service to the indigent is an essential characteristic of any ethical attorney because 
+No constitutional provision compels an attorney to represent a client in a civil matter.  Congress has not codified compulsory service of attorneys to represent indigent litigants.  Service to the indigent is an essential characteristic of any ethical attorney because:
 
 ### Model Rule 6.1
 
 ###### Voluntary Pro Bono Publico Service
 
-Every lawyer has a professional responsibility to provide legal services to those unable to pay. A lawyer SHOULD aspire to render at least (50) hours of pro bono publico legal services per year. In fulfilling this responsibility, the lawyer should:
+Every lawyer has a professional responsibility to provide legal services to those unable to pay. A lawyer *should* aspire to render at least (50) hours of pro bono publico legal services per year. In fulfilling this responsibility, the lawyer should:
 
 * Provide a substantial majority of the (50) hours of legal services without fee or expectation of fee to:
     * persons of limited means or
@@ -60,7 +61,6 @@ Every lawyer has a professional responsibility to provide legal services to thos
     * Representing client is likely to result in ethics violation;
     * Unreasonable financial burden on lawyer;
     * Client is so repugnant to lawyer that lawyer probably won't be able to do a good job or get along with the client.
-
 
 #### Accidental Clients
 
@@ -152,7 +152,7 @@ Watson Group and funded it with $1 billion and 2,000 employees.
 
 * [IBM's Watson Supercomputer Destroys Humans in Jeopardy | Engadget]( https://www.youtube.com/watch?v=WFR3lOm_xhE)
 
-If you missed this, you should find it online and watch it. For some reason this went relatively under the radar compared to, say,IBM’s DEEP BLUE beating chess champion Garry Kasparov in chess in 1997, which by comparison was child’s play. 
+If you missed this, you should find it online and watch it. For some reason this went relatively under the radar compared to, say, IBM's DEEP BLUE beating chess champion Garry Kasparov in chess in 1997, which by comparison was child’s play. 
 
 Watson is an artificial intelligence computer system capable of answering questions posed in natural language. Watson is a free standing computer network. The humans who built and programmed the machine were sitting in the audience WATCHING, helpless to assist their creation. And Watson had to speak and understand natural human language and did so with elan.
 
@@ -224,7 +224,8 @@ An ADVOCATE deals with past conduct and takes the facts as he or she finds them.
 
 THE PAST - I killed my wife and I buried her body out on Cemetery Road.
 
-Different that the role of COUNSELLOR or ADVISOR, where we are usually dealing with the present and future
+Different than the role of *counselor* or *advisor*, 
+where we are usually dealing with the present and future.
 
 ### Advisor
 
