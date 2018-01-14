@@ -338,3 +338,5 @@ The lawyer-client relationship arises when a person wants the lawyer to provide 
 [RLGL-14]: https://a.next.westlaw.com/Document/Ieee17e7ddc6111e28a48c0d45341c37f/View/FullText.html?originationContext=documenttoc&transitionType=CategoryPageItem&contextData=(sc.Default)	"RLGL &sect; 14: Formation of the Client-Lawyer Relationship"
 
 [aba1.18]: http://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_1_18_duties_of_prospective_client.html	"Model Rule 1.18: Duties To A Prospective Client"
+
+[flynt]: https://en.wikipedia.org/wiki/The_People_vs._Larry_Flynt "The People Versus Larry Flynt"
