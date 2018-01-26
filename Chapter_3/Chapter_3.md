@@ -311,7 +311,7 @@ The lawyer-client relationship arises when a person wants the lawyer to provide 
 
 ### Totally Optional Reading & Viewing
 
-* [A Mockery of Justice for the Poor,] (http://www.nytimes.com/2016/04/30/opinion/a-mockery-of-justice-for-the-poor.html) *The New York Times*, 29 April 2016, by John Pfaff.
+* [A Mockery of Justice for the Poor,](http://www.nytimes.com/2016/04/30/opinion/a-mockery-of-justice-for-the-poor.html) *The New York Times*, 29 April 2016, by John Pfaff.
 
 > In Fresno, Calif., for instance, 
 > public defenders have caseloads 

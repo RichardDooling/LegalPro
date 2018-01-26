@@ -1,367 +1,322 @@
 ---
 author: Richard Dooling
-course title: Legal Profession
-document: Chapter_5.md
+title: M&F 3rd, Chapter 4
+abstract: Notes, Slide Text, Links, Optional Readings. 
 ---
 
-# M&F3rd Chapter 5
+# M&F4th Chapter 4
 
-## Notes, Slide Text, Optional Readings 
+###### Control & Communication 
 
-###### Competence
+### Rule 1.1 Competence
 
-## Competence & Technology 
+A lawyer shall provide competent representation to a client. 
+Competent representation requires the legal knowledge, skill, thoroughness and preparation reasonably necessary for the representation.
 
-### Ethics 20/20 Commission 
+After the Ethics 20/20 commission changes in August of 2012, 
+the duty of competence now requires technical competence in using computer technology 
 
-###### On Globalization & Technology
+To maintain the requisite knowledge and skill, a lawyer should:
 
-In 2009, then ABA President Carolyn B. Lamm 
-created the [ABA Commission on Ethics 20/20][aba-2020] 
-to perform a thorough review 
-of the ABA Model Rules of Professional Conduct 
-and the U.S. system of lawyer regulation 
-in the context of advances in technology 
-and global legal practice developments.
+* keep abreast of changes in the law and its practice,  including the benefits and risks associated with relevant technology, 
+* engage in continuing study and education and 
+* comply with all continuing legal education requirements to which the lawyer is subject. 
 
-Why is technology going so fast? 
-Why is it so hard to keep up with Westlaw, Lexis, Linked-In, Facebook, Twitter, presentation software and technologies, litigation support software, docketing programs, conflict of interest software?
+Changes to Model Rule 1.1 Comment 8 because of technology and outsourcing of technology. Again the language added by the Ethics 20/20 Commission the comments 
+simply makes the reference to technology explicit.
 
-Answer: [Moore's Law][moore]. 
-At bottom Moore's Law is Gordon Moore's insight 
-that technology grows at an EXPONENTIAL rate. 
-We lawyer/humans do NOT grow exponentially, 
-so we have to work extra hard to keep up with technology.
+Nothing controversial.
 
-### Model Rule 1.1
+But this definition of competence is incorporated by reference (implicitly or by explicitly)
+throughout. It reverberates throughout. 
+The other Rules call for competently protecting client confidentiality, competently acting with diligence, and competently avoiding conflicts of interest. 
+ABA is sending up a flare, really. No new rule or modification of a rule can deal with that pervasive and relentless and exponential technological change.
+But lawyers must be competent in technological know-how.
 
-Model Rule 1.1 is deceptively straightforward: 
+The Ethics 20/20 Commission intends to establish a site resource where lawyers can go to learn about cloud computing, secure WIFI communications, laptop encryption, biometric fingerprint readers instead of passwords and so on.
 
-"A lawyer shall provide competent representation to a client." 
+Clients too are demanding that their lawyers are technologically competent, because the alternatives are too risky.
 
-Easy, right? But Model Rule 1.1 is a master rule of sorts. 
-If you are a Tolkien fan, there is one ring to rule them all, 
-and Model Rule 1.1 requiring COMPETENCE is one rule to rule them all, 
-because we must COMPETENTLY protect client confidentiality, 
-COMPETENTLY avoid client conflicts, 
-COMPETENTLY avoid waiving the attorney-client privilege. 
-And to do all of those things, 
-including COMPETENTLY communicate with our clients, 
-we must COMPETENTLY use technology.
+> Being a Luddite can be expensive, embarrassing, and potentially disastrous for lawyers and clients. Technological incompetence can result in wasted time (and therefore increased cost to the client), loss of money and identity, ethical sanctions, and embarrassment or worse in the courtroom. Those are high prices to pay for being too proud (or lazy) to learn how the Internet, social media, and that box on your desk work.
 
-As of August 2012, 
-the Ethics 20/20 Commission added a new comment 8 to Rule 1.1 "Competence".
+[The Consequences of Technological Incompetence](https://lawyerist.com/89959/consequences-of-technological-incompetence/?utm_source), by Sam Glover on October 14th, 2015.
 
-#### Comment 8: Maintaining Competence
+###  Model Rule 1.3 
 
-> To maintain the requisite knowledge and skill, 
-> a lawyer should keep abreast of changes in the law and its practice, 
-> *including the benefits and risks associated 
-> with relevant technology*, 
-> engage in continuing study and education 
-> and comply with all continuing legal education requirements 
-> to which the lawyer is subject.
+###### Diligence
 
-So the command to keep abreast of changing technologies is now explicit. Just one of many changes wrought by the new [Ethics 20/20 Commission][aba-2020].
+A lawyer shall act with reasonable diligence and promptness in representing a client.
+Often a lawyer can simply get a great result for a client by outworking opposing counsel, by knowing more about the case and the law then anybody else in the room. 
 
-#### Metadata
+<!-- No matter how smart they are who how many resources they have you can always OUTWORK them.  Somebody has to be the person in the room who knows the MOST about the case. That person is you. -->
+## Model Rule 1.2 
 
-* [ABA Formal Opinion 11-460 (4 August 2011): Duty when Lawyer Receives Copies of a Third Party's E-mail Communications with Counsel.](http://tinyurl.com/q8xrtms)
-* [ABA Formal Opinion 06-442 (August 5, 2006): Review and Use of Metadata.][06-442]
+###### Scope of Representation
 
-#### Leveraging Your Tech Skills
+In civil cases, client decides whether to settle and for how much. (Other civil decisions are probably “means” to achieve those objectives. See Comment 1.)
 
-An ABA Ethics tip [Competence: Acquire it or Hire it!]( http://www.americanbar.org/groups/professional_responsibility/services/ethicsearch/ethicstipofthemonthmay2014.html), published in May of 2014 propose that lawyers must be competent in legal tech, or must hire or associate with lawyers who are. 
+In criminal cases, client decides:
 
-[California Proposed Opinion NO. 11-0004 (2014)](http://www.americanbar.org/groups/professional_responsibility/services/ethicsearch/ethicstipofthemonthmay2014.html) says that if e-discovery is likely, then a California lawyer must:
+* The plea;
+* Whether to waive a jury trial;
+* Whether client will testify.	
 
-> assess his or her own e-discovery skills and resources 
-> as part of the attorney’s duty 
-> to provide the client with competent representation. 
-> If an attorney lacks such skills and/or resources, 
-> the attorney must take steps to acquire sufficient learning and skill, 
-> or associate or consult with someone 
-> with appropriate expertise to assist. Rule 3-110(C).&hellip; 
+In general, abide by client’s decisions about GOALS; 
+consult with client about the MEANS.
 
-> Attorneys handling e-discovery 
-> should have the requisite level of familiarity and skill to, 
-> among other things, be able to perform 
-> (either by themselves or in association 
-> with competent co-counsel or expert consultants) the following:
+### Allocation of authority
 
-> 1. initially assess e-discovery needs and issues, if any;
-> 2. implement appropriate ESI preservation procedures, including the obligation to advise a client of the legal requirement to take actions to preserve evidence, like electronic information, potentially relevant to the issues raised in the litigation;
-> 3. analyze and understand a client’s ESI systems and storage;
-> 4. identify custodians of relevant ESI;
-> 5. perform appropriate searches;
-> 6. collect responsive ESI in a manner that preserves the integrity of that ESI;
-> 7. advise the client as to available options for collection and preservation of ESI;
-> 8. engage in competent and meaningful meet and confer with opposing counsel concerning an e-discovery plan; and produce responsive ESI in a recognized and appropriate manner.
+Chapter 4 begins with references to the 
+[Restatement (Third) Of Agency § 1.01 (2006)](http://tinyurl.com/mhaqbe8) 
+and the 
+[RLGL: § 16 A Lawyer's Duties to a Client—In General](http://tinyurl.com/n5blksw).
 
-In short, acquire tech knowledge and expertise, or hire it, better yet, pursue both alternatives and educate yourself along the way. 
-Nowadays tech skills are indispensable to the practice of law. 
-If you intend to pursue a career in litigation, 
-then you must learn about [Electronically stored information](http://en.wikipedia.org/wiki/Electronically_stored_information_(Federal_Rules_of_Civil_Procedure)).
+Review the table at M&F3rd (p. 86) on allocation of authority. 
+This is the ethical rule, but it has deep roots in the common law of ageny. 
+It attempts to answer a question as old as the human race: 
+Who's in charge? Who's the boss? 
+Answer: Usually the client. 
+The client is the principal; the lawyer is the agent.
 
-#### Recommended Tech Reading & Viewing
+The agent (the lawyer) agrees to act on behalf of a principal (the client) 
+subject to the client/principal’s control. 
+The highest standard of care! Super fiduciaries! 
+The authority to *ACT* on behalf of the client/principal 
+imposes on the lawyer/agent fiduciary duties to ensure 
+that the lawyer/agent acts on the client/principal’s behalf 
+and under the client/principal’s control.
 
-- [Ray Kurzweil: The accelerating power of technology][accelerating_returns]
-- [Did You Know? 3.0][didyouknow]
-- [Infographic: A Supercomputer In Your Pocket](http://www.charliewhite.net/wp-content/uploads/2013/09/A-Supercomputer-In-Your-Pocket.jpg)
+Under agency law and the law governling lawyers, 
+the lawyer/agent's authority to act 
+for the client/principal may be *actual* or *apparent*:
 
-## Legal Malpractice
+## Agency
 
-###### When Bad Things Happen 
+Actual authority:
 
-#### Legal Malpractice
+* Implied authority (actual authority circumstantially proved)
 
-1. Client-Lawyer Relationship (foreseeable plaintiff) (Togstad);
-2. Duty – Expert Testimony or Common Knowledge
-3. Breach;
-4. Causation (actual = but for = case within a case) (proximate = foreseeable consequences)
-5. Damages (emotional distress or punitive dePape)
+Apparent authority:
 
-#### Legal Malpractice Criminal Defense
+* Principal ACTS like agent has authority
+* Party REASONABLY BELIEVES agent has authority
 
-In a legal malpractice action brought by a criminal defendant: 
+### When Representation Goes Awry
 
-* Majority rule – D must prove actual innocence.
-* But see [RLGL § 53  Comment d][RLGL-53]: "Although most jurisdictions addressing the issue have stricter rules, under this Section it is not necessary to prove that the convicted defendant was in fact innocent."
+A finding of bad faith or corrupt motive is NOT necessary to constitute a professional misconduct violation &hellip; 
 
-[RLGL § 53 Causation and Damages][RLGL-53]
+### Advise & Consent
 
-#### Causation?
+#### Communications to Clients:
 
-What if client would have lost the case 
-no matter what the lawyer had done?
-Only way to prove otherwise is to have retry the original action within the context of the legal malpractice suit. The so-called suit-within-a-suit remedy, which we first saw in the *Togstadt* case (very difficult to do). 
-Some states shift the burden of proof in these suits (Louisiana).
+M&F3rd (p. 98) describes eight events that trigger a lawyer's duty to communicate with clients. Here is an abbreviated summary.
 
-#### Remedies To Redress Malpractice?
+[Rule 1.4 (Communications):][aba1.4] Lawyer must communicate and sometimes obtain client consent before acting on client's behalf, especially to establish the following:
 
-* Out of pocket damages.
-* Lost opportunities.
-* Punitive damages.
+* Fees, scope of representation, client objectives or change of objectives (see engagement letters).
+* Waiver of any fiduciary obligations.
+* To explain any matter to the extent reasonably necessary to obtain the client's informed consent. 
+* To make decisions about means to accomplish objectives.
+* Updates (e.g. lawyer took money out of trust account).
+* When lawyer can't give assistance (because doing so would violate one or more Model Rules or other law)
+* When lawyer makes a mistake!
+* When client requests information.
 
-#### Duty to Inform Client of Lawyer’s Own Malpractice?
+#### Multiple Clients/Dual Representation:
 
-*Matter of Talon* (NY.App.Div. 1982) - Lawyer must inform the client, withdraw, and advise the client to get independent legal advice.
+* Appropriate conflict of interest waivers must be in place to represent two or more clients.
+* Lawyer owes same duties to BOTH clients regardless of who pays the bill.
+* Lawyer must COMMUNICATE with BOTH clients, owes all super fiduciary duties to BOTH.
 
-*In re Blackwelder* (Ind. 1993) - Lawyer missed filing and default judgment taken. Lawyer agrees to handle bankruptcy for free in exchange for release from malpractice. Clients not advised to get independent counsel.
+## Representing Entities
 
-## Breach of Fiduciary Duty
+###### Corporations, Organizations
 
-### Professional Negligence and Breach of Fiduciary Duty
+### Corporations, Entities, Organizations as Clients
 
-[RLGL § 53 Causation and Damages][RLGL-53]
+[Rule 1.13 (Organization as Client)][aba1.13] A L-O-N-G rule and the comments are a big help. When the organization itself is the client, the entity constitutes a distinct legal person apart from any individual constituent or aggregate of individual constituents as a whole. 
 
-Breach of fiduciary vs. professional negligence? 
+Who is the corporation? What does the corporation want?
 
-RLGL describes the difference this way:
+### Model Rule 1.13(f)
 
-> Many claims brought by clients against lawyers can reasonably be classified either as for breach of fiduciary-duty or for negligence without any difference in result. For example, the duty of care enforced in a negligence action is also a fiduciary duty; likewise, the specific duties of lawyers help define both their fiduciary obligations and the contents of their duty of care. Most rules applicable to negligence actions also apply to actions for breach of fiduciary duty. Pleaders typically add a fiduciary-duty claim to a negligence count for reasons of rhetoric or completeness. Whether classifying a claim as one for breach of fiduciary duty affects the applicable limitations period depends on the language, structure, and policies of a jurisdiction's statute of limitations and is beyond the scope of this Restatement.
+* In dealing with an organization’s [constituents] &hellip; 
+a lawyer shall explain the identity of the client when the lawyer knows &hellip;  that the organization’s interests are adverse to those of the constitutents. 
 
-[RLGL § 53 Causation and Damages][RLGL-53]
-#### Lawyers'Fees Affected by Breach of Fiduciary Duty?
+### Model Rule 1.13(g)
 
-Hot area!
+A lawyer representing an organization may also represent any of its [constituents]  subject to the provisions of Rule 1.7. 
 
-Fee forfeiture now one of the favorite remedies, 
-because it does not require a showing of actual damages, 
-or suit within a suit.
+If the organization's consent 
+to the dual representation is required by Rule 1.7, 
+the consent shall be given by an appropriate official 
+of the organization **other than the individual who is to be represented, or by the shareholders.**
 
-Theory is that the lawyer who breaches fiduciary duty to the client has in effect breached the actual or implied contract that required payment of fees.
+### WHO IS THE CLIENT?
 
-## Inneffective Assistance of Counsel
+This should be flashing orange before your eyes 
+every time there is more than one person or more than one entity or both in the room and at least one of them is your client.
 
-Counsel’s representation 
-fell below an objective standard of reasonableness, 
-measured by prevailing norms of practice reflected in:
+One client? More than one client? Is everyone clear about that?
 
-* ABA standards
-* Expert testimony
-* Per se rules; nonstrategic choices (breach of fiduciary duty of obedience or loyalty)
+### Penn State
 
-M&F3rd p. 120
+Consider the Penn State/Jerry Sandusky scandal which, 
+aside from the major players, 
+also swept other Penn State officials into legal proceedings.
 
-Counsel’s deficient performance prejudiced the defendant (causation):
-Actual prejudice: But for Counsel’s unprofessional errors, the result of the proceeding would have been different, i.e., not harmless error (proceeding presumptively reliable).
-Per se rules: Denial of counsel during a critical state of the proceeding led to a forfeiture of the proceeding itself (proceeding presumptively unreliable or totally nonexistent)
+When several Penn State officials were subpoenaed to testify before the grand jury in the Jerry Sandusky case, they believed they were being represented by the University's General Counsel, Cynthia Baldwin, an ex-State Supreme Court Justice. 
 
-## Liability To Third Parties
+[But Baldwin maintained that she was present only on behalf of the University](
+http://www.pennlive.com/midstate/index.ssf/2012/02/penn_state_legal_counsel_cynth.html).
 
-### Professional Malpractice Commited Against Others?
+Penn State University's general counsel during the grand jury investigation of Jerry Sandusky was singled out repeatedly in the [report issued by Louis Freeh last week] (http://www.post-gazette.com/stories/local/state/penn-states-general-counsel-cited-for-missteps-644744/) for possible missteps in her handling of the matter.
 
-* Controversial and evolving area of law.
-* Privity? Prospective clients?
-* Third-party beneficiary?
-* Intended beneficiary?
-* Negligent representation? Lawyer as evaluator problems (*Greycas, Inc. v. Proud*).
+According to the Freeh report, Ms. Baldwin never sought an expert to lead the university through the criminal investigation or its own internal investigation, and she, along with former President Graham Spanier, appeared to downplay to the university board of trustees the significance of the grand jury investigation.
 
-> For a nonclient to succeed in a negligence action against an attorney, he must prove that the primary purpose and intent of the attorney-client relationship itself was to benefit or influence the third party.
+The biggest question &hellip; was who Ms. Baldwin was representing before the grand jury that was investigating Mr. Sandusky and ultimately recommended charges against him, and former Senior Vice President Gary Schultz and athletic director Tim Curley.
 
-*Pelham v. Grieheimer* (Ill. Sct. 1982)
+"Baldwin told the Special Investigative Counsel that she went to the grand jury appearances as the attorney for Penn State, and that she told both Curley and Schultz that she represented the university and that they could hire their own counsel if they wished."
 
-#### Model Rule 4.1(a)
+However, according to the transcript from the grand jury, both men said they believed Ms. Baldwin was representing them.
 
-###### Truthfulness In Statements To Others
+"You have counsel with you?" the prosecutor asked Mr. Curley.
 
-* [*ABA/BNA Lawyers' Manual On Professional Conduct, Truthfulness In Statements To Others*](http://lawyersmanual.bna.com/mopw2/3300/split_display.adp?fedfid=29758452&vname=mopcref71&fcn=1&wsn=500023789&fn=29758452&split=0)
+"Yes, I do," he answered.
 
-> Rule 4.1(a) prohibits a lawyer 
-> from knowingly making a false statement of material fact or law 
-> to a third person in the course of representing a client. 
-> A comment to the rule defines “false” statements to include 
-> not only affirmative misstatements 
-> but also “partially true but misleading statements,” 
-> as well as “omissions that are the equivalent of affirmative false statements.”
+"Would you introduce her, please?" the prosecutor continued.
 
-> Rule 4.1(b) requires a lawyer to disclose information 
-> if silence on the lawyer's part 
-> would amount to assisting a client in a crime or fraud, 
-> but only if the information comes within one of the exceptions 
-> to the rule on confidentiality.
+"My counsel is Cynthia Baldwin."
 
-> A lawyer's duty of truthfulness to others is also addressed by:
+Mr. Schultz said the same when he was questioned.
 
->   - Rule 3.3 (candor toward tribunals), 
->   - Rule 3.5(c)(3) (misrepresentation to jurors), 
->   - Rule 7.1 (false communications in advertising), 
->   - Rule 8.1 (statements to bar and disciplinary authorities), 
->   - Rule 8.2(a) (statements about judicial and legal officials), 
->   - 8.4(c) (misrepresentation generally).
+"You are accompanied today by counsel, Cynthia Baldwin, is that correct?" the prosecutor asked.
 
-> Tort law, especially the law of negligent misrepresentation, also imposes disclosure duties on lawyers.
+"That is correct," Mr. Schultz answered.
 
-### Misrepresentation
+Ms. Baldwin, who was appointed to the Supreme Court in 2005 and served until elections filled the seat in 2008, also attended Mr. Spanier's grand jury testimony, again explaining that she represented the university.
 
-###### Rest. 2nd Torts: §§ 525-552C
+Legal experts, though, question Ms. Baldwin's attendance, saying that as a representative of the university, she had no business at the grand jury, since Penn State, at the time, was not a party to the criminal investigation.
 
-* A false representation;
-* Concerning a presently existing material fact;
-* Which the representor KNEW to be false or was made recklessly (fraud), or which was made negligently;
-* For the purpose of inducing another to act;
-* The other party reasonably relied on it;
-* To his injury or damage.
+"The most significant matter in terms of ethics is what happened in the grand jury room," Mr. Ledewitz said. "The first thing you learn in legal ethics is to **know who the client is**."
 
-See [Liability For Fraudulent Misrepresentation](https://a.next.westlaw.com/Document/I82cb030ddc1611e2ac56d4437d510c12/View/FullText.html)
+If Ms. Baldwin's intent was to attend as a representative of the university, Mr. Ledewitz said, it was her obligation to correct both Mr. Schultz and Mr. Curley when they said she represented them.
 
-### Negligent Misrepresentation 
+###  Accidental Clients
 
-###### Restatement Torts 2nd § 552
+10 different kinds! (pages 80-81)
 
-> One who, in the course of his business, 
-> profession or employment &hellip; 
-> supplies false information for the guidance of others 
-> in their business transactions, 
-> is subject to liability for pecuniary loss 
-> caused to them by their justifiable reliance 
-> upon the information, 
-> if he fails to exercise reasonable care 
-> or competence in obtaining or communicating the information.
+Prospective clients by far the largest category of “accidental” representation.
 
-#### Ye Olde Privity Rule
+### Legal Malpractice v. Ethics Violation:
 
-> No liability in an indeterminate amount for an indeterminate time to an indeterminate class. --Benjamin Cardozo
+Ethics violations are not independently actionable, but the ethics rules provide guidance in determining the fiduciary duty owed to client.
 
-*Ultramares Corp v. Touche,* (NY 1931)
+[RLGL &sect; 49: Breach of Fiduciary Duty](http://tinyurl.com/kx8rh8s)
 
-Touche Niven accountants audited rubber importer, Fred Stern & Co, 
-and failed to discover that the company had overstated accounts receivable. 
+#### Legal Malpractice 
 
-Touche Niven supplied 32 copies of its audits, which Touche knew would be used to raise money from banks and other creditors for the operation of Fred Stern & Co.
+1. Existence of an atty-client relationship;
+2. Atty, by acting or failing to act, breaches that duty;
+3. Atty’s breach proximately causes the injury to the client;
+4. Client sustains actual injury, loss or damage.
 
-Ultramares Corp. received a copy and lent money on the strength of Touche Niven's opinion. Stern declared bankruptcy, and Ultramares sued for the amount of the Stern debt, declaring that a careful audit would have shown Stern to be insolvent. 
+#### Model Rules & Malpractice
 
-The audit was found to be negligent, but not fraudulent, but the judge set this finding aside based on the doctrine of privity, which protects auditors from third party suits. The appellate court reinstated the negligence verdict. 
+Although violations of [the Rules of Professional Conduct] 
+do not create a private cause of action for a client, 
+the rules provide guidance in determining the fiduciary duty owed to a client by an attorney. 
 
-The case then went to the New York Court of Appeals, Judge Benjamin Cardozo presiding.
+Model Rules Scope - paragraph 20:
 
-Cardozo held that the claim in negligence failed on the ground that the auditors owed the plaintiff no duty of care, there being no sufficiently proximate relationship. He said no "to a liability in an indeterminate amount for an indeterminate time to an indeterminate class."
+> Violation of a Rule should not itself give rise to a cause of action against a lawyer nor should it create any presumption in such a case that a legal duty has been breached &hellip; 
 
-A requirement of privity, not of contract but of relationship, was laid down.
+> Nevertheless, since the Rules do establish standards of conduct by lawyers, a lawyer’s violation of a Rule may be evidence of breach of the applicable standard of conduct.
 
-#### Privity Rule In Nebraska
+So a Model Rule violation is not proof of a breach of legal duty, but it is EVIDENCE of a breach.
 
-Nebraska relaxes the privity requirement in estate planning actions.
+Before 2002 amendments, the Rules flat out DENIED any relation between the Rules and civil liability.
 
-Privity not required when mother of decedent’s children (as next friend) sued lawyer who allowed the statute of limitations to run on a wrongful death claim brought on behalf of children for their father’s death. 
+### RLGL §49
 
-The court held that the attorney had an independent duty to the children, as decedent’s next of kin, to timely prosecute the wrongful death claim.
+In addition to the other possible bases of civil liability . . . a lawyer is civilly liable to a client if the lawyer breaches a fiduciary duty to the client . . . and if that failure is a legal cause of injury . . .
 
-[*Perez v. Stern*][perez] (NE 2010)
+### Model Rule 2.1 
 
-[NE: Attorneys Owe A Duty to Direct Beneficiaries.](http://www.legalmalpracticelawreview.com/2011/05/articles/jurisdictions/nebraska/ne-attorneys-owe-a-duty-to-direct-beneficiaries/)
+###### Comment 5
 
-### Lawyer Tort Liability to Nonclients
+> When a matter is likely to involve litigation, it MAY be necessary under Rule 1.4 to inform the client of forms of dispute resolution that might constitute reasonable alternatives to litigation &hellip; 
 
-* Malpractice
-* Misrepresentation
-* Aiding & Abetting a Client’s Breach of Fiduciary Duty
+### Model Rule 1.4 
 
-- [Attorney Representing Closely Held Entity Owed Duty to Protect Company's Two Owners](http://www.bna.com/attorney-representing-closely-n12884904452/)
+###### Communication
 
-#### Lawyer Tort Liability to Nonclients: Malpractice
+A lawyer shall:
 
-* Third-party beneficiaries of clients, RLGL §51(3);
-* Those invited to rely by the lawyer (prospective clients, Togstadt) RLGL §51(1), Rule 1.18;
-* Those invited by lawyer or client to rely, if not too remote from the lawyer to be entitled to such protection RLGL § 51(2), Greycas.
+* promptly tell the client about anything requiring informed consent under these rules . . . 
+* consult with the client about the means . . .
+* keep client  informed about the status of the matter;
+* promptly comply with requests for information; and 
+* tell the client that the lawyer cannot offer assistance not permitted by the Rules or other law.
 
-#### Lawyer Tort Liability to Nonclients: Misrepresentation
+SEE THE NICE LIST of WHEN lawyers must initiate information and consent process on PAGE 98 (M&F 3rd)
 
-* Intentional or reckless misstatements = fraud. Lawyer is liable to all those who reasonably relied on the false information. 
+### Model Rule 1.4(b) 
 
-Rest. 2nd Torts §531, RLGL §51, comment f and §56;
+###### Communication
 
-Negligent misstatements: Lawyer is liable to those in a limited class of persons “for whose benefit and guidance he intends to supply the information or knows the recipient intends to supply it.” 
+A lawyer shall explain a matter to the extent reasonably necessary to permit the client to make informed decisions regarding the representation.
 
-Rest. 2nd of Torts §552(2), RLGL §56 and Greycas.
+#### Model Rule 1.0(e)
 
-#### Lawyer Tort Liability to Nonclients: Aiding & Abetting Client’s Breach
+###### Terminology
 
-* Lawyer knows client breached a fiduciary duty;
-* Lawyer provided substantial assistance to breach, not just assistance to the client;
-* Lawyer knows client’s conduct constitutes a breach of fiduciary duty;
-* Breach causes harm to 3rd parties.
+> "Informed consent" denotes the agreement by a person to a proposed course of conduct after the lawyer has communicated adequate information and explanation about the material risks of and reasonably available alternatives to the proposed course of conduct.
 
-#### Optional Readings
+### Ineffective Assistance of Counsel
 
-[You’re All Out! A defense attorney uncovers a brazen scheme to manipulate evidence, and prosecutors and police finally get caught. By Dahlia Lithwick, Slate Magazine MAY 28 2015 1:38 PM.](http://www.slate.com/articles/news_and_politics/jurisprudence/2015/05/orange_county_prosecutor_misconduct_judge_goethals_takes_district_attorney.single.html)
+* Different than legal malpractice!
 
+###### Strickland v. Washington (Sct. 1984)
 
-<!-- BEGIN COMMENT -->
+#### Ineffective Assistance of Counsel
 
-<!--
+Elements ([*Strickland v. Washington* (Sct. 1984)](http://en.wikipedia.org/wiki/Strickland_v._Washington))
 
+To justify reversal in a criminal case, the defendant must show:
 
+1. Lawyer's acts or omissions were outside the wide range of professional competence;
+2. Actual prejudice (I would have won or gotten a lighter sentence or some other meaningful disposition BUT FOR the lawyer's incompetence). 
 
--->
+*Strickland* the leading case on “ineffective assistance of counsel.” 
 
-<!-- END COMMENT -->
+“It is not enough for the defendant to show that the errors had some conceivable effect on the outcome &hellip; ”
 
-[06-442]: http://lawyersmanual.bna.com/mopw2/3300/split_display.adp?fedfid=3737403&vname=mopcopinaba&jd=aba_ethics_opinion_06_442&split=0	"ABA Formal Opinion 06-442 (5 August 2006): Review and Use of Metadata" 
+“Defendant must show that &hellip; But for counsel’s unprofessional errors, the result of the proceeding would have been different.”
 
-[RLGL-53]: http://tinyurl.com/n6fumpl "RLGL 53: Liability for Professional Negligence and Breach of Fiduciary Duty § 53 Causation and Damages"
+*Stickland* makes prejudice difficult to show. D must show “actual prejudice.”
 
-[perez]: https://scholar.google.com/scholar_case?case=17572674639943952765&q=perez+v.+stern+nebraska&hl=en&as_sdt=6,28 "Perez v. Stern"
+First, the defendant must show that counsel's performance was "deficient," such that counsel's errors were "so serious that counsel was not functioning as the 'counsel' guaranteed the defendant by the Sixth Amendment." 
 
-[aba-2020]: http://www.americanbar.org/groups/professional_responsibility/aba_commission_on_ethics_20_20.html	"ABA Commission on Ethics 20/20"
+Second, this deficient performance must be so serious as to deprive the defendant of a fair trial. 
 
-[moore]: http://en.wikipedia.org/wiki/Moore's_law "Moore's Law"
+Without these two showings, "it cannot be said that the conviction or death sentence resulted from a breakdown in the adversary process that renders the result unreliable."
 
-[didyouknow]: http://www.youtube.com/watch?v=YmwwrGV_aiE	"Did You Know 3.0"
+#### Some examples
 
-[accelerating_returns]:	http://www.ted.com/talks/ray_kurzweil_on_how_technology_will_transform_us.html "Kurzweil on Moore's Law & Exponential Growth of Technology"
+* *Cottle* - Ineffective assistance of counsel to fail to tell a criminal client about a plea offer from the prosecutor.
+* *Burdine*  – ineffective assistance of counsel where the lawyers slept through large parts of a capital murder trial.
+* *Glover* – Failure to “group” charges results in 6-21 months extra sentence.
 
-<!--Need section on Metadata and 1.6(c) technology; get CLE memos from tech presentations 
+*Burdine* – The court distinguished an unconscious attorney, who is essentially absent from the proceedings, from a drunk or impaired attorney, who may be capable of giving some assistance. Thus, the court was willing to presume prejudice and overturn the original conviction.
 
-[Why Lawyers Should Stop Worrying About Using Public Wi-Fi
-SEPTEMBER 11, 2013 BY DANE S. CIOLINO](http://lalegalethics.org/lawyers-stop-worrying-using-public-wi-fi-networks/)
+### Recommended Reading & Viewing
 
-including "Reasonable Efforts"
+* [Proposed Opinion on E-Discovery and Ethics Cautions Lawyers Not to Be Overly Confident](http://lawyersmanual.bna.com/mopw2/3300/split_display.adp?fedfid=44415111&vname=mopcnotallissues&jd=a0e8d6n4f5&split=0)
+* *The Verdict* directed by Sidney Lumet, starring Paul Newman. On reserve. 
+* *Margin Call* starring Zachary Quinto ("Spock!"), Kevin Spacey, Demi Moore, Jeremy Irons, Paul Bettany. Great cast and no better movie about how hard it is sometimes to serve the CORPORATE CLIENT instead of its powerful individual constituents. On reserve.
 
-and with an every expanding definition of what is "reasonable" 
+[aba1.13]:		http://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_1_13_organization_as_client.html	"Model Rule 1.13: Organization As Client"
 
-For instance, the California Bar has proposed that lawyers represening clients needing ediscovery services who are likely to engage in for instance now California proposes that if e-discovery is likely you must acquire or hire some very demanding expertise.
+[aba1.4]: http://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_1_4_communications.html "ABA Model Rule 1.4: Communication"
 
--->
