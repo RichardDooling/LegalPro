@@ -1,10 +1,10 @@
 ---
 author: Richard Dooling
-title: M&F 3rd, Chapter 4
+title: M&F 4th, Chapter 5
 abstract: Notes, Slide Text, Links, Optional Readings. 
 ---
 
-# M&F4th Chapter 4
+# M&F4th Chapter 5
 
 ###### Control & Communication 
 
