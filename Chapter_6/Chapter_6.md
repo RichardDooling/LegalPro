@@ -5,7 +5,7 @@ subtitle: Chapter 6
 document: slide notes
 ---
 
-# M&F3rd Chapter 6
+# M&F 4th Chapter 6
 
 ## Notes, Slide Text, Optional Readings 
 
@@ -58,7 +58,7 @@ No. Straight from Rule 1.6 Comment 3, found in BOTH the Nebraska and the ABA Mod
 
 “The confidentiality rule applies NOT ONLY TO MATTERS COMMUNICATED IN CONFIDENCE but also to ALL INFORMATION relating to the representation WHATEVER ITS SOURCE!"
 
-The client’s brother mentions to the lawyer that the client once did time in prison, 
+The client's brother mentions to the lawyer that the client once did time in prison, 
 the client was married twice before, or the client is deeply in debt. CONFIDENTIAL!
 
 Other people may know these things about the lawyer's client. 
