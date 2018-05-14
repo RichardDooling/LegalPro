@@ -145,6 +145,10 @@ Dooling: The time to have a moral dilemma is when the lawyer is deciding whether
 -   Collaborator/Translator – Client is best able to make decisions for herself, but needs the perspective of lawyers to know both her own interests and the effect of her decisions on others
 -   Obey your own conscience, not your client's? 
 
+[movie reel]: movie.gif
+
+![Lawyer_Roles](images/Lawyer_Roles.png "Lawyer Roles")
+
 ## Recommended Reading & Viewing
 
 * [RLGL "Professional Discipline" &sect; 5][RLGL-5]
