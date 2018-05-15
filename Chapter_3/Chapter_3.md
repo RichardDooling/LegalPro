@@ -330,7 +330,7 @@ The lawyer-client relationship arises when a person wants the lawyer to provide 
     * This is a love song to the First Amendment directed by Czech director Milos Forman telling the tale of Jerry Falwell's landmark Supreme Court case against Larry Flynt. But it's also really good on lawyer-client relationships (DVD on reserve in Schmid Law Library).
 * [California Supreme Court Says Journalist and Serial Liar Can't Be Lawyer](http://www.cnn.com/2014/01/27/justice/stephen-glass-court-ruling/index.html?hpt=hp_t2)
 * [Stephen Glass, Dishonest Journalist Not Admitted to Bar](http://en.wikipedia.org/wiki/Shattered_Glass_(film))
-* [Iowa Toys With Abolishing Bar Exam Requirment](http://www.omaha.com/article/20140209/MONEY/140208899/1707#iowa-raises-legal-issue-abolish-the-bar-exam)
+* [Iowa Toys With Abolishing Bar Exam Requirment](http://www.omaha.com/money/iowa-raises-legal-issue-abolish-the-bar-exam/article_6b3fb6a7-a9b7-5565-ba66-2e9f162dc80e.html)
 
 [Preamble & Scope]: http://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/model_rules_of_professional_conduct_preamble_scope.html	"Model Rules: Preamble & Scope"
 
