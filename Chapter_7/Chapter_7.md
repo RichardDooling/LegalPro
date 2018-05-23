@@ -295,6 +295,31 @@ when once you have kindled it you may easily preserve it, but if you once exting
 
 A lawyer must disclose a material fact to a third person when disclosure is necessary to avoid assisting a criminal or fraudulent act by a client, unless disclosure is prohibited by Rule 1.6.
 
+#### Mandatory Disclosure?
+
+Rule 4.1(b) opens a can of worms, because it purports be mandatory. 
+Unlike the exceptions to Rule 1.6 ("a lawyer *may* disclose"),
+Rule 4.1(b) says "*must disclose* &hellip; "unless disclosure is prohibited by Rule 1.6."
+
+Why so complicated? The Rule is a two-headed beast. 
+What Rule 4.1(b) seems to do is turn certain of the *may* exceptions into *must* disclose.
+
+A *BNA Practice Guide excerpt* highlights the sheer complexity of manipulating these both Rules at once.
+
+> There is some slippage between the requirements of Model Rule 4.1(b) and Model Rule 1.6(b)(2). Rule 1.6(b)(2) *permits* disclosure if the lawyer "reasonably believes" disclosure is necessary to prevent a crime or fraud in which the client is using or has used the lawyer's services. Rule 4.1(b), however, REQUIRES disclosure if the lawyer knows that disclosure is in fact "necessary" to avoid assisting a client's crime or fraud (with the exemption for information protected by Model Rule 1.6). If disclosure is in fact necessary to avoid assisting in a client's crime or fraud, but the lawyer reasonably does not believe that the client is using his services to further a crime or fraud, would the disclosure be prohibited under Model Rule 1.6(b)?
+
+> Does "avoid assisting" a client's criminal or fraudulent act denote a level of participation different from "prevent the client from committing a crime or fraud &hellip; in furtherance of which the client has used or is using the lawyer's services"? 
+
+> The answer in the black letter of the rule itself is that Model Rule 4.1(b) does not require any disclosure that would violate the confidentiality rule. But if a disclosure would be permitted by Rule 1.6(b) (the “crime/fraud exception” to the confidentiality rule), then the disclosure is probably going to be required by Rule 4.1(b).
+
+> The net effect of Rule 4.1(b), therefore, is that it takes a subset of the disclosures permitted by Rule 1.6(b) and makes them mandatory. 
+
+![Rule 4.1(b) a subset of Rule 6.1(b)](subset.png "Rule 4.1(b)")
+
+Ethical rules should be simple. Easy to understand and apply. Not an exercise in set theory.
+
+### More Fraud
+
 Under the Model Rules, "Fraud" or "fraudulent" denotes conduct that is fraudulent under the substantive or procedural law of the applicable jurisdiction and has a purpose to deceive. Rule 1.0(d)
 
 #### Rest. 2nd Torts § 551(2)(c)

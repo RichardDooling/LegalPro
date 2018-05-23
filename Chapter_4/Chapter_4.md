@@ -29,8 +29,8 @@ Why is it so hard to keep up with Westlaw, Lexis, Linked-In, Facebook, Twitter, 
 
 Answer: [Moore's Law][moore]. 
 At bottom Moore's Law is Gordon Moore's insight 
-that technology grows at an EXPONENTIAL rate. 
-We lawyer/humans do NOT grow exponentially, 
+that technology grows at an *exponential* rate. 
+We lawyer/humans do *not* grow exponentially, 
 so we have to work extra hard to keep up with technology.
 
 ### Model Rule 1.1
@@ -41,13 +41,13 @@ Model Rule 1.1 is deceptively straightforward:
 
 Easy, right? But Model Rule 1.1 is a master rule of sorts. 
 If you are a Tolkien fan, there is one ring to rule them all, 
-and Model Rule 1.1 requiring COMPETENCE is one rule to rule them all, 
-because we must COMPETENTLY protect client confidentiality, 
-COMPETENTLY avoid client conflicts, 
-COMPETENTLY avoid waiving the attorney-client privilege. 
+and Model Rule 1.1 requiring competence is one rule to rule them all, 
+because we must competently protect client confidentiality, 
+competently avoid client conflicts, 
+competently avoid waiving the attorney-client privilege. 
 And to do all of those things, 
-including COMPETENTLY communicate with our clients, 
-we must COMPETENTLY use technology.
+including competently communicate with our clients, 
+we must competently use technology.
 
 As of August 2012, 
 the Ethics 20/20 Commission added a new comment 8 to Rule 1.1 "Competence".
@@ -240,7 +240,7 @@ Per se rules: Denial of counsel during a critical state of the proceeding led to
 
 * A false representation;
 * Concerning a presently existing material fact;
-* Which the representor KNEW to be false or was made recklessly (fraud), or which was made negligently;
+* Which the representor knew to be false or was made recklessly (fraud), or which was made negligently;
 * For the purpose of inducing another to act;
 * The other party reasonably relied on it;
 * To his injury or damage.
