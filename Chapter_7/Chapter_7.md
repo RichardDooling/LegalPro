@@ -314,7 +314,7 @@ A *BNA Practice Guide excerpt* highlights the sheer complexity of manipulating t
 
 > The net effect of Rule 4.1(b), therefore, is that it takes a subset of the disclosures permitted by Rule 1.6(b) and makes them mandatory. 
 
-![Rule 4.1(b) a subset of Rule 6.1(b)](subset.png "Rule 4.1(b)"){ width=500px }
+![Rule 4.1(b) a subset of Rule 6.1(b)](subset.png "Rule 4.1(b)")
 
 Ethical rules should be simple. Easy to understand and apply. Not an exercise in set theory.
 
