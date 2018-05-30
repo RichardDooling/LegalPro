@@ -6,7 +6,7 @@ main rules: 1.9, 1.10, 1.11, 1.18
 doc: slide notes
 ---
 
-# M&F3rd, Chapter 11
+# M&F4th, Chapter 11
 
 ###### Conflicts of Interest: Former, Prospective, Imputed, and Government Clients
 

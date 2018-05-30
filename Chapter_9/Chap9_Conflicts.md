@@ -6,7 +6,7 @@ main rules: 1.7
 doc: slide notes
 ---
 
-# M&F3rd, CHAPTER 9
+# M&F4th, CHAPTER 9
 
 ###### Conflicts of Interest: Loyalty and Independent Judgment
 
