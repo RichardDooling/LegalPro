@@ -14,7 +14,7 @@ Fox's rant about hourly fees can lead to a good discussion about the conflicts a
 
 Model Rule 1.5(a) applies the reasonableness standard to fees as well as expenses. 
 
-Both ABA Formal Opinion 94-389 teaches that lawyers may not always rely on an initial contract bargain, 
+ABA Formal Opinion 94-389 teaches that lawyers may not always rely on an initial contract bargain, 
 especially if the lawyer did a poor job of explaining the fee up front. 
 However, the ABA Opinion also concludes that, 
 even where liability is clear and some recovery is certain, 
@@ -255,21 +255,9 @@ In engagement letter, give client examples of recovery and contingency and expen
 
 #### Expenses Deducted Before
 
->   $900K recovery
->\-  $300K expenses
->---------------------------
->   $600K * 1/3 = $200k
-
 ![Expenses Deducted Before](expenses_deducted_before.png "Expenses Deducted Before Fee Calculated")
 
 #### Expenses Deducted After
-
->   $900K recovery * 1/3
->   $300K for lawyer
->   $600K for Client
->\-  $300K expenses
->---------------------------
->   $300K for P
 
 ![Expenses Deducted After](expenses_deducted_after.png "Expenses Deducted After Fee Calculated")
 
