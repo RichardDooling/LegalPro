@@ -140,10 +140,10 @@ Dooling: The time to have a moral dilemma is when the lawyer is deciding whether
 
 ## Types/Roles of Lawyers
 
--   Instrument – “Hired Guns” Tool for the clients; lawyer is limited only by law and legal system.
--   Director – “Moral Actors” Legal expert capable of determining how to handle client’s affairs with little client input. Also often "Lawyer to the Situation," instead of Lawyer to the Client.
--   Collaborator/Translator – Client is best able to make decisions for herself, but needs the perspective of lawyers to know both her own interests and the effect of her decisions on others
--   Obey your own conscience, not your client's? 
+- Instrument – “Hired Guns” Tool for the clients; lawyer is limited only by law and legal system.
+- Director – “Moral Actors” Legal expert capable of determining how to handle client’s affairs with little client input. Also often "Lawyer to the Situation," instead of Lawyer to the Client.
+- Collaborator/Translator – Client is best able to make decisions for herself, but needs the perspective of lawyers to know both her own interests and the effect of her decisions on others
+- Obey your own conscience, not your client's? 
 
 [movie reel]: movie.gif
 

@@ -204,7 +204,7 @@ If Randy Real Estate Agent sells your Harry Homeowner's house in one day for 200
 
 If the agent instead works hard for three months, holding open houses, advertising, and doing showings, and then sells Harry's house for $250k at 7% commission, the agent gets $17.5k, only about $3k more for all of that work.
 
-![Real Estate Scenarios](real_estate_agents.png "Real Estate Commissions")
+![Real Estate Scenarios](images/real_estate_agents.png "Real Estate Commissions")
 
 Everybody in the business should be alert to these conflicts, but sometimes they aren't, and it's the lawyer's job to watch out for them, and if necessary explain them to unsophisticated client.
 
@@ -224,7 +224,7 @@ ABA Standing Committee has said, “contingent fees for defense counsel in civil
 
 The total fee is reasonable, and the client’s consent is “fully informed.”
 
-![Reverse Contingency Fee](reverse_contingency.png "Reverse Contingency Fee")
+![Reverse Contingency Fee](images/reverse_contingency.png "Reverse Contingency Fee")
 
 
 ### Creative Fee Idea
@@ -255,11 +255,11 @@ In engagement letter, give client examples of recovery and contingency and expen
 
 #### Expenses Deducted Before
 
-![Expenses Deducted Before](expenses_deducted_before.png "Expenses Deducted Before Fee Calculated")
+![Expenses Deducted Before](images/expenses_deducted_before.png "Expenses Deducted Before Fee Calculated")
 
 #### Expenses Deducted After
 
-![Expenses Deducted After](expenses_deducted_after.png "Expenses Deducted After Fee Calculated")
+![Expenses Deducted After](images/expenses_deducted_after.png "Expenses Deducted After Fee Calculated")
 
 In engagement letter, give client examples of recovery and contingency and expenses.
 
@@ -340,5 +340,9 @@ someone or something that serves as a guiding star or as a focus of hope or atte
 lodestar plus enhancements?
 
 Lodestar = number of hours worked x prevailing market rates.
+
+## Totally Optional Readings and Viewings
+
+* [*The Lawyerist* Podcast #177: Billing Flat Fees for Unpredictable Cases, with Gabriel Cheong](https://lawyerist.com/podcast-177-gabriel-cheong/), by Lindsey Calhoon on June 20th, 2018.
 
 

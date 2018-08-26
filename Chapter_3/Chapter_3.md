@@ -10,14 +10,16 @@ abstract: Notes, Slide Text, Links, Optional Readings.
 
 ## In The Beginning . . . 
 
-It’s like getting married. Be careful. Pick and choose.
-Is this the kind of person who likes to sue people?
+It's a little like dating. Be careful. Pick and choose.
+What if the client is a spiteful grump who likes to sue people?
 
 > "For certain people, after fifty, litigation takes the place of sex." --Gore Vidal
 
 Once representation begins, a lawyer assumes duties not easily shed and cases sometimes assume a life of their own.
 
-Lawyers are like other service providers. Rights and obligations governed by torts, contract, agency. But they have other obligations governed by court rules.
+Lawyers are like other service providers. 
+Rights and obligations governed by torts, contract, agency. 
+But they have other obligations governed by court rules.
 
 The lawyer-client relationship is complicated because of fees and various duties, especially the duties of loyalty and confidentiality.
 
@@ -28,19 +30,26 @@ This concern is not new. In 1919, Reginald Heber Smith wrote that without equal 
 
 > The system not only robs the poor of their only protection, but it places in the hands of their oppressors the most powerful and ruthless weapon ever invented.
 
-Maybe Adam Clayton Powell said it better: 
-"A man's respect for law and order exists in precise relationship to the size of his pay check." 
+Maybe [Adam Clayton Powell](https://en.wikipedia.org/wiki/Adam_Clayton_Powell_Jr.) said it better: 
+
+> A man's respect for law and order exists in precise relationship to the size of his pay check. 
 
 Without access to justice, the poor have no incentive to respect the law. 
-Clarene Darrow, for one, said, "Laws were made for the exploitation of those who don't understand them or are prevented by naked misery from obeying them."
-He harangued juries with this notion of the law: 
-"The men who own the earth make the laws to protect what they have. Laws were never organized or enforced to do justice. Only you, the jury, can give us justice."
+
+[Clarence Darrow](https://en.wikipedia.org/wiki/Clarence_Darrow), 
+not just a mighty defense lawyer, but also an accomplished orator, said:
+
+> Laws were made for the exploitation of those who don't understand them or are prevented by naked misery from obeying them.
+
+Darrow harangued juries with radical notions of the law and justice: 
+
+> The men who own the earth make the laws to protect what they have. Laws were never organized or enforced to do justice. Only you, the jury, can give us justice.
 
 ## Court Appointments
 
 Courts have the power to *appoint* counsel for indigent or unpopular litigants.
 
-No constitutional provision compels an attorney to represent a client in a civil matter.  Congress has not codified compulsory service of attorneys to represent indigent litigants.  Service to the indigent is an essential characteristic of any ethical attorney because:
+No constitutional provision compels an attorney to represent a client in a civil matter. Congress has not codified compulsory service of attorneys to represent indigent litigants. Service to the indigent is an essential characteristic of any ethical attorney because:
 
 ### Model Rule 6.1
 
@@ -108,6 +117,7 @@ A lawyer may limit the scope of the representation if the limitation is reasonab
 Thus, things like Brief Ghostwriting, etc. are often permissible unless your jurisdiction requires you to enter appearance on behalf of litigant.
 
 [Nebraska's version of this Rule](http://tinyurl.com/ouu6hkd) explicitly permits limited scope representations.
+
 #### Comment 6
 
 Agreements Limiting Scope of Representation: 
@@ -118,56 +128,9 @@ Agreements Limiting Scope of Representation:
 
 ### Online Legal Services
 
-* [Disruptive Innovation Conference - The Nature of Disruptive Innovation in Professional Services]( https://www.youtube.com/watch?v=RBtAMcrbFXg). Long to watch but the gist is this:
+Sometimes I discuss these matters here, under Access to Justice, 
+and sometimes I address them in the next chapter dealing with Competence.
 
-Moore's Law, Artificial Intelligence (AI), and the
-future of tech innovation in legal ethics and/or legal services.
-
-Instead of calling it Artificial Intelligence these days they call it
-"Legal Analytics" and the like, but the idea is the same. Every
-programmer learns DRY (Don't Repeat Yourself). If you are doing
-something more than once, write some code to handle the task. Now
-think about that concept applied to the practice of law or medicine?
-
-Well that idea is behind what this panel calls the 3rd Age of
-Computing and they have law and medicine as their foremost candidates
-for disruption.
-
-It's a bit long, but you can skip the keynote speaker Clayton
-Christensen (hugely famous author of the Innovator's Dilemma, named by
-the Economist as one of the 6 most important books every written),
-because he speaks of innovation in general.
-
-I would skip to: 
-
-* Mike Rhodin, Senior Vice President, IBM Watson at the 47 minute mark.
-* John Suh, CEO of LegalZoom at the 1:05 and
-* Sarah Reed, General Counsel, Charles River Ventures (who speaks right
-after Suh) at the 1:17 mark. She invests in these legal tech
-companies.
-
-Lest you have any doubts about IBM's commitment to Watson as Lawyer
-and Watson as Doctor, they have formed a separate unit called the IBM
-Watson Group and funded it with $1 billion and 2,000 employees.
-
-* [IBM's Watson Supercomputer Destroys Humans in Jeopardy | Engadget]( https://www.youtube.com/watch?v=WFR3lOm_xhE)
-
-If you missed this, you should find it online and watch it. For some reason this went relatively under the radar compared to, say, IBM's DEEP BLUE beating chess champion Garry Kasparov in chess in 1997, which by comparison was child’s play. 
-
-Watson is an artificial intelligence computer system capable of answering questions posed in natural language. Watson is a free standing computer network. The humans who built and programmed the machine were sitting in the audience WATCHING, helpless to assist their creation. And Watson had to speak and understand natural human language and did so with elan.
-
-Ken Jennings, famous for winning 74 games in a row on the TV quiz show, acknowledged the obvious. “I, for one, welcome our new computer overlords,” he wrote on his video screen, borrowing a line from a “Simpsons” episode.
-That was 2011, based on what we’ve seen, what happens in 2013?
-
-IBM Watson is now being developed to provide medical and, ulp, legal services.
-
-Scott Ferrauiola is the lead lawyer for IBM's Watson project and Stephen Gold is the company's vice president of marketing and sales operations for Watson Solutions.  In a discussion about Watson, they point out that the technology has made huge advances since it was displayed on "Jeopardy" in 2011. 
-
-"On 'Jeopardy' it read 200 million pages of data in three seconds," says Gold. "Now [the machine] is 90 percent smaller and 24 times faster." Ferrauiola adds, "One way to think about it is that the machine used on 'Jeopardy' filled a room. Now it would fill three pizza boxes."
-
-Compare to the 90s when Intuit and Quicken and companies came out with Tax Software. The accountants are long gone who said: "You don’t want to use that, you should just use me."
-
-As opposed to another way to do it. Instead of perceiving it as a threat, explore it, because what might happen is you find a way to BOTH use software together. 
 
 ### Lawyer Autonomy 
 
@@ -212,6 +175,7 @@ the client's political, economic, social or moral views or activities.
 * Consider the difference between "testing" the constitutional validity of the segregation laws under *Brown v. Board of Education* versus answering the client's detailed questions about how client might go about concealing assets from a bankruptcy judge.
 
 For an excellent example of how hard (or easy) it is to know when the client is looking for help to break the law, watch this 60 Minutes Episode on money-laundering: [Anonymous, Inc. - See what happens when hidden cameras capture New York lawyers being asked to move highly questionable funds into the U.S.](http://www.cbsnews.com/news/anonymous-inc-60-minutes-steve-kroft-investigation/)
+
 ### Model Rule 1.2(b): 
 
 > representation . . . Does not constitute an endorsement of the client’s political, economic, social or moral views or activities.” 
@@ -331,6 +295,59 @@ The lawyer-client relationship arises when a person wants the lawyer to provide 
 * [California Supreme Court Says Journalist and Serial Liar Can't Be Lawyer](http://www.cnn.com/2014/01/27/justice/stephen-glass-court-ruling/index.html?hpt=hp_t2)
 * [Stephen Glass, Dishonest Journalist Not Admitted to Bar](http://en.wikipedia.org/wiki/Shattered_Glass_(film))
 * [Iowa Toys With Abolishing Bar Exam Requirment](http://www.omaha.com/money/iowa-raises-legal-issue-abolish-the-bar-exam/article_6b3fb6a7-a9b7-5565-ba66-2e9f162dc80e.html)
+
+#### Disruptive Innovation Conference
+
+* [Disruptive Innovation Conference - The Nature of Disruptive Innovation in Professional Services]( https://www.youtube.com/watch?v=RBtAMcrbFXg). Long to watch but the gist is this:
+
+Moore's Law, Artificial Intelligence (AI), and the
+future of tech innovation in legal ethics and/or legal services.
+
+Instead of calling it Artificial Intelligence these days they call it
+"Legal Analytics" and the like, but the idea is the same. Every
+programmer learns DRY (Don't Repeat Yourself). If you are doing
+something more than once, write some code to handle the task. Now
+think about that concept applied to the practice of law or medicine?
+
+Well that idea is behind what this panel calls the 3rd Age of
+Computing and they have law and medicine as their foremost candidates
+for disruption.
+
+It's a bit long, but you can skip the keynote speaker Clayton
+Christensen (hugely famous author of the Innovator's Dilemma, named by
+the Economist as one of the 6 most important books every written),
+because he speaks of innovation in general.
+
+I would skip to: 
+
+* Mike Rhodin, Senior Vice President, IBM Watson at the 47 minute mark.
+* John Suh, CEO of LegalZoom at the 1:05 and
+* Sarah Reed, General Counsel, Charles River Ventures (who speaks right
+after Suh) at the 1:17 mark. She invests in these legal tech
+companies.
+
+Lest you have any doubts about IBM's commitment to Watson as Lawyer
+and Watson as Doctor, they have formed a separate unit called the IBM
+Watson Group and funded it with $1 billion and 2,000 employees.
+
+* [IBM's Watson Supercomputer Destroys Humans in Jeopardy | Engadget]( https://www.youtube.com/watch?v=WFR3lOm_xhE)
+
+If you missed this, you should find it online and watch it. For some reason this went relatively under the radar compared to, say, IBM's DEEP BLUE beating chess champion Garry Kasparov in chess in 1997, which by comparison was child’s play. 
+
+Watson is an artificial intelligence computer system capable of answering questions posed in natural language. Watson is a free standing computer network. The humans who built and programmed the machine were sitting in the audience WATCHING, helpless to assist their creation. And Watson had to speak and understand natural human language and did so with elan.
+
+Ken Jennings, famous for winning 74 games in a row on the TV quiz show, acknowledged the obvious. “I, for one, welcome our new computer overlords,” he wrote on his video screen, borrowing a line from a “Simpsons” episode.
+That was 2011, based on what we’ve seen, what happens in 2013?
+
+IBM Watson is now being developed to provide medical and, ulp, legal services.
+
+Scott Ferrauiola is the lead lawyer for IBM's Watson project and Stephen Gold is the company's vice president of marketing and sales operations for Watson Solutions.  In a discussion about Watson, they point out that the technology has made huge advances since it was displayed on "Jeopardy" in 2011. 
+
+"On 'Jeopardy' it read 200 million pages of data in three seconds," says Gold. "Now [the machine] is 90 percent smaller and 24 times faster." Ferrauiola adds, "One way to think about it is that the machine used on 'Jeopardy' filled a room. Now it would fill three pizza boxes."
+
+Compare to the 90s when Intuit and Quicken and companies came out with Tax Software. The accountants are long gone who said: "You don’t want to use that, you should just use me."
+
+As opposed to another way to do it. Instead of perceiving it as a threat, explore it, because what might happen is you find a way to BOTH use software together. 
 
 [Preamble & Scope]: http://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/model_rules_of_professional_conduct_preamble_scope.html	"Model Rules: Preamble & Scope"
 

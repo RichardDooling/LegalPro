@@ -168,7 +168,7 @@ Too many lawyers were involved in the Enron and Tyco and other corporate scandal
 and the ABA decided to get serious about regulating lawyers, 
 because they were afraid Congress might do it instead. 
 
-It’s usually a CRISIS that prompts change, especially Watergate and the Enron debacles, lawyers intimately involved in both scandals. 
+It’s usually a *crisis* that prompts change, especially Watergate and the Enron debacles, lawyers intimately involved in both scandals. 
 
 ### The Model Rules and Technology
 
@@ -183,7 +183,7 @@ Overall the Model Rules have held up pretty well.
 A Rule that began by prohibiting "in-person" and "live telephone solicitation" 
 now also covers "real-time electronic contact" in what used to be called a chatroom.
 
-Friending a person on Facebook can be an "improper communication with a person represented by counsel," every bit as much as a lawyer calling them on the phone. 
+"Friending" a person on Facebook can be an "improper communication with a person represented by counsel," every bit as much as a lawyer calling them on the phone. 
 
 ### Model Rule 8.1
 
@@ -247,7 +247,7 @@ not conflict, but a harmonious hierarchy of duties:
 
 ## Bar Admission & Discipline
 
-When it comes to MISCONDUCT, is the standard for ADMISSION to the bar the same as DISCIPLINE of the bar?
+When it comes to misconduct is the standard for admission to the bar the same as discipline of the bar?
 
 In other words, if Lawyer Dooling would not be disbarred for possession of marijuana, does that mean that Law Student Dooling should be admitted to the bar for doing the same thing?
 
@@ -280,7 +280,7 @@ Should the latter concern the bar admission authorities?
 A recent survey by the New York City bar association found that 50 percent of lawyers seeking counseling from its lawyer-outreach program 
 list mental health as their primary concern, up from 40 percent in 2005.
 
-We are often a prescription drug society? Pain killers?  Xanax?
+We are often a prescription drug society? Pain killers? Xanax?
 
 #### NLAP: Nebraska Lawyers Assistance Program
 
@@ -319,9 +319,10 @@ The lawyer is opposite an unethical lawyer in negotiations (report to firm, or r
 
 Model Rule 1.0 Terminology: "Knowingly," "known," or "knows" denotes actual knowledge of the fact in question.  A person's knowledge may be inferred from circumstances.
 
-“Most cases and ethics opinions conclude that 'knowledge' is determined by an objective standard.” 
+"Most cases and ethics opinions conclude that 'knowledge' is determined by an objective standard." 
 
-Evidence must be such that a REASONABLE LAWYER UNDER THE CIRCUMSTANCES would have formed a FIRM OPINION that it was more likely than not that the conduct occurred.
+Evidence must be such that a reasonable lawyer in the same circumstances would have formed a firm opinion 
+that it was more likely than not that the conduct occurred.
 
 ### Model Rule 5.1 
 
@@ -363,7 +364,7 @@ That is a violation of 8.4
 
 If you induce, order, or ratify another LAWYER’S violation of the model rules you violate Rule 5.1 (Responsibilities of Partners, Managers, and Supervisory Lawyers).
 
-If you induce, order, or ratify a NONLAWER's violations of the model rules then you violate Rule 5.3 (below)
+If you induce, order, or ratify a *nonlawyer's* violations of the Model Rules then you violate Rule 5.3 (below)
 
 ### Model Rule 5.2 
 

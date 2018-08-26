@@ -106,8 +106,11 @@ then you must learn about [Electronically stored information](http://en.wikipedi
 #### Recommended Tech Reading & Viewing
 
 - [Ray Kurzweil: The accelerating power of technology][accelerating_returns]
-- [Did You Know? 3.0][didyouknow]
 - [Infographic: A Supercomputer In Your Pocket](http://www.charliewhite.net/wp-content/uploads/2013/09/A-Supercomputer-In-Your-Pocket.jpg)
+- [The Sedona Conference](https://thesedonaconference.org/node/981)
+- [Maura Grossman](http://grossman.uwaterloo.ca/)
+- [Craig Ball](http://craigball.com/), a plaintiff's-eye-view of the e-discovery process.
+
 
 ## Legal Malpractice
 
@@ -329,11 +332,9 @@ Rest. 2nd of Torts §552(2), RLGL §56 and Greycas.
 
 [You’re All Out! A defense attorney uncovers a brazen scheme to manipulate evidence, and prosecutors and police finally get caught. By Dahlia Lithwick, Slate Magazine MAY 28 2015 1:38 PM.](http://www.slate.com/articles/news_and_politics/jurisprudence/2015/05/orange_county_prosecutor_misconduct_judge_goethals_takes_district_attorney.single.html)
 
-
 <!-- BEGIN COMMENT -->
 
 <!--
-
 
 
 -->
