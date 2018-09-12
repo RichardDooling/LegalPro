@@ -343,6 +343,6 @@ Lodestar = number of hours worked x prevailing market rates.
 
 ## Totally Optional Readings and Viewings
 
+* [Nebraska Supreme Court Disbars Lawyer For Commingling Funds](https://www.omaha.com/news/courts/nebraska-supreme-court-disbars-omaha-lawyer-for-mixing-personal-client/article_d9168890-0204-5732-91ea-79158ef79712.html?utm_medium=social&utm_source=email&utm_campaign=user-share), Omaha World Herald, 1 September 1018.
 * [*The Lawyerist* Podcast #177: Billing Flat Fees for Unpredictable Cases, with Gabriel Cheong](https://lawyerist.com/podcast-177-gabriel-cheong/), by Lindsey Calhoon on June 20th, 2018.
-
 
