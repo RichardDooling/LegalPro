@@ -5,7 +5,7 @@ subtitle: MF Chapter 7
 document: slide notes
 ---
 
-# M&F3rd Chapter 7
+# M&F 4th Chapter 7
 
 ###### Confidentiality Exceptions
 
@@ -17,7 +17,7 @@ document: slide notes
 
 Model Rule 1.6(a) says:
 
-A lawyer SHALL NOT reveal information relating to the representation &hellip; UNLESS:
+A lawyer shall *not* reveal information relating to the representation &hellip; unless:
 
 * the client gives informed consent,
 * the disclosure is impliedly authorized OR
@@ -29,7 +29,7 @@ A lawyer acting in her official lawyer capacity
 and representing her client in court or in a transaction 
 is impliedly authorized to disclose confidential information.
 And the client may consent to disclosure in other situations 
-in which the lawyer is NOT impliedly authorized to disclose.
+in which the lawyer is *not* impliedly authorized to disclose.
 But lawyer must obtain informed consent to the disclosure. 
 
 A lawyer shall not reveal information relating to the representation of a client unless the client gives informed consent, the disclosure is impliedly authorized in order to carry out the representation or the disclosure is permitted by paragraph (b).
@@ -38,7 +38,7 @@ A lawyer shall not reveal information relating to the representation of a client
 
 Part (b) of the same rule lists seven exceptions to the overarching command of thou shalt not disclose confidential information. 
 
-A lawyer MAY reveal confidential information &hellip; if necessary:
+A lawyer *may* reveal confidential information &hellip; if necessary:
 
 1. to prevent reasonably certain death or substantial bodily harm; 
 2. to prevent the client from committing a crime or fraud that &hellip; [will] cause substantial injury &hellip; [$ or property].
@@ -48,16 +48,17 @@ A lawyer MAY reveal confidential information &hellip; if necessary:
 6. to comply with other law or a court order.
 7. to detect and resolve conflicts of interest arising from the lawyer’s change of employment. 
 
-Notice these are only EDITED reminders of the exceptions. 
+Notice these are only *edited* reminders of the exceptions. 
 For instance, note how the full text of exceptions (b)(2) and (b)(3) 
 specify that they apply only if 
-THE CLIENT is committing or has committed a crime or fraud, 
-and even then only when the client IS USING or HAS USED the lawyer's services.
+*the client* is committing or has committed a crime or fraud, 
+and even then only when the client *is using* or *has used* the lawyer's services.
 
 Those are two big qualifications to a rule that, on first reading, 
 seems to deputize lawyers in the fight against financial fraud. 
-This is not a IF YOU SEE SOMETHING, SAY SOMETHING rule. 
-The lawyer must be sure that all the ingredients of the exceptions apply before deciding to disclose under Rule 1.6(b) 
+This is not a *if you see something, say something* rule. 
+The lawyer must be sure that all the ingredients of the exceptions apply 
+before deciding to disclose under Rule 1.6(b) 
 
 Note also that new exception (b)(7) 
 allowing lawyers to disclose confidential information 
@@ -69,9 +70,11 @@ or otherwise prejudice the client."
 ### To Prevent Death or Bodily Harm
 
 Old Rule 1.6(b)(1) required IMMINENT death or serious bodily harm. 
-The new rule requires REASONABLY CERTAIN death or serious bodily harm. 
+The new rule requires *reasonably certain* death or serious bodily harm. 
 
-Note, so far, this exception has NOT been interpreted to cover the prevention of serious mental anguish or psychological trauma. Consider an example from [RLGL &sect; 60:][RLGL-60]
+Note, so far, this exception has *not* been interpreted 
+to cover the prevention of serious mental anguish or psychological trauma. 
+Consider an example from [RLGL &sect; 60:][RLGL-60]
 
 > Lawyer is appointed to represent Client, 
 > a person who has been accused of murder. 
@@ -91,8 +94,7 @@ Note, so far, this exception has NOT been interpreted to cover the prevention of
 > Unless Client consents to disclosure (see § 62), 
 > Lawyer must respond that Lawyer has no information to give them.	
 
-* [§ 60 A Lawyer's Duty to Safeguard Confidential Client Information][RLGL-60].
-
+* [RLGL § 60: A Lawyer's Duty to Safeguard Confidential Client Information][RLGL-60].
 * [RLGL § 66: Using or Disclosing Information to Prevent Death or Serious Bodily Harm][RLGL-66]
 
 #### The client who is likely to endanger others
@@ -102,12 +104,12 @@ Model Rule 1.6(b)(1) and Comment 6.
 No longer a requirement that the harm must be imminent!
 
 As for child abusers, under Rule 1.6(b)(1) 
-the lawyer may disclose the client’s intent to commit FUTURE ABUSE, 
+the lawyer may disclose the client’s intent to commit *future abuse* 
 but a client's confession to a lawyer 
-about past conduct is CONFIDENTIAL AND PRIVILEGED 
+about past conduct is *confidential and privileged* 
 and may not be disclosed.
 
-These are TOUGH issues. 
+These are *tough* issues. 
 What about when the client suspects his or her spouse 
 of ongoing child sexual abuse, 
 but the client instructs the lawyer not to disclose to anyone?
@@ -120,7 +122,7 @@ Certainly the lawyer needs to seek advice about how to proceed.
 
 > When any physician, any medical institution, any nurse, 
 > any school employee, any social worker, the Inspector General &hellip; 
-> **or any other person** has reasonable cause 
+> *or any other person* has reasonable cause 
 > to believe that a child has been subjected to child abuse or neglect &hellip; 
 > he or she shall report such incident 
 > or cause a report of child abuse or neglect to be made 
@@ -152,30 +154,35 @@ I doubt that this reporting statute
 silently overrules both your duty to keep your client's confidences 
 and the attorney-client privilege at once. 
 
-It's one thing to say a lawyer MAY report child abuse, 
-and presumably lawyers with hard evidence WOULD report. 
-
-Quite another thing to say lawyers MUST report, 
-because then the law will sweep up a lot of edge cases 
+It's one thing to say a lawyer *may* report child abuse, 
+and presumably lawyers with hard evidence would find a way to report.
+Quite another thing to say lawyers *must* report.
+The profession does not like the *obligation* to report.
+The exceptions to confidentiality found in Model Rule 1.6(b) 
+are permissive: "A lawyer *may* reveal information. 
+A mandatory reporting rule would sweep up a lot of edge cases 
 reported by lawyers who fear prosecution. 
 
-Also by commanding lawyers to report, 
-a LOT of child abuse will be driven even further underground 
-and out of sight.
-If speaking to a lawyer about child abuse
-means your lawyer will report you, 
-sex offenders won't seek legal advice or medical help 
+I mandatory reporting requirement would also 
+drive child abuse even further underground and out of sight. 
+Lawyers would have a duty to warn their clients 
+that the law requires the lawyers to report any evidence of child abuse. 
+With severe penalties in place for sex offenders, 
+clients would be afraid to 
+seek legal advice or medical help 
 for fear of being arrested and indicted. 
-Speaking to a lawyer 
-means having the whole world know 
-about a mere allegation of child abuse and your husband thrown in jail 
-while an investigation takes place. 
+Even a victim or a frightened spouse would be afraid to 
+mention any allegation of child abuse, because then the whole world must know. 
 
-That said, the trend in many jurisdictions 
+That said, the trend in some jurisdictions 
 is to have attorneys covered 
 by these child abuse reporting statutes, 
 so this would be an excellent problem to address 
 by calling Disciplinary Counsel and asking for advice.
+
+As least one state, Indiana, has addressed the situation.
+Duty to report cases of child abuse involving clients is not absolute, 
+says [state ethics opinion](http://www.abajournal.com/magazine/article/duty_to_report_cases_of_child_abuse_involving_clients_is_not_absolute_says).
 
 ##### Priests?
 
@@ -187,7 +194,7 @@ The U.S. Supreme Court denied cert.
 when presented with that question recently,
 so a [Baton Rouge trial judge will decide the question](http://theadvocate.com/news/11384032-123/us-supreme-court-allows-lawsuit).
 
-#### How About Toxic Waste
+#### How About Toxic Waste?
 
 ###### Rule 1.6 comment 6
 
@@ -213,7 +220,8 @@ These rules were added to Model Rule 1.6 in 2003
 in the wake of Enron, Tyco, Worldcom.
 Delaware and Louisiana have adopted the ABA's 2003 version of 1.6 verbatim. 
 
-There is as yet no [*Tarasoff*][tarasoff] rule for lawyers. In other words, these exceptions provide that the lawyer MAY, not MUST, disclose.
+There is as yet no [*Tarasoff*][tarasoff] rule for lawyers. 
+In other words, these exceptions provide that the lawyer *may*, not *must*, disclose.
 
 * [RLGL § 67: Using or Disclosing Information to Prevent, Rectify, or Mitigate Substantial Financial Loss.][RLGL-67]
 
@@ -240,14 +248,14 @@ or otherwise participating in the illegal conduct of her clients.
 
 ## Confidentiality vs. Candor
 
-### Model Rule 4.1(a)
+### Model Rule 4.1
 
 ###### Confidentiality & Lawyers Duty To Be Truthful
 
 In the course of representing a client a lawyer shall not knowingly:
 
-(a) make a false statement of material fact or law to a third person; 
-(b) or fail to disclose a material fact to a third person when disclosure is necessary to avoid assisting a criminal or fraudulent act by a client, unless disclosure is prohibited by Rule 1.6.
+a. make a false statement of material fact or law to a third person; 
+b. or fail to disclose a material fact to a third person when disclosure is necessary to avoid assisting a criminal or fraudulent act by a client, unless disclosure is prohibited by Rule 1.6.
 
 Comment [2] clarifies an exception to that rule’s prohibition on false statements, to wit: 
 
@@ -255,7 +263,7 @@ Comment [2] clarifies an exception to that rule’s prohibition on false stateme
 
 [ABA Formal Opinion 06-439][06-439] agrees that such statements do not normally count as false statements of material fact and instead constitute “puffing.”
 
-However, FACTUAL STATEMENTS, like 
+However, *factual statements*, like 
 "My client sent me an email and told me just yesterday 
 that she would never settle this case 
 for less than $100,000." 
@@ -551,7 +559,7 @@ the client has not somehow cloaked the document in the attorney-client privilege
 
 ### Recommended Reading & Viewing
 
-Some vivid real-life examples of the innocent-person-on-death-row dilemma (see M&F3rd Problem 7-4 on page 212).
+Some vivid real-life examples of the innocent-person-on-death-row dilemma (see M&F4th, Problem 7-4 on page 167).
 
 * [NYTimes: Lawyer Reveals Secret, Toppling Death Sentence](http://www.nytimes.com/2008/01/19/us/19death.html?_r=1&scp=1&sq=Leslie+P.+Smith&st=nyt&oref=slogin)
 * [Inmate's Freedom May Hinge on Secret Kept For 26 Years](http://www.chicagotribune.com/news/local/chi-secretjan19,0,6475630,print.story?coll=chi_tab01_layout)
