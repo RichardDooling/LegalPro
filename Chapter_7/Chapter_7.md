@@ -20,7 +20,7 @@ Model Rule 1.6(a) says:
 A lawyer shall *not* reveal information relating to the representation &hellip; unless:
 
 * the client gives informed consent,
-* the disclosure is impliedly authorized OR
+* the disclosure is impliedly authorized *or*
 * the disclosure is permitted by some exception to this rule.
 
 This command is not absolute, but many lawyers of a certain age think it is. 
@@ -32,7 +32,11 @@ And the client may consent to disclosure in other situations
 in which the lawyer is *not* impliedly authorized to disclose.
 But lawyer must obtain informed consent to the disclosure. 
 
-A lawyer shall not reveal information relating to the representation of a client unless the client gives informed consent, the disclosure is impliedly authorized in order to carry out the representation or the disclosure is permitted by paragraph (b).
+A lawyer shall not reveal information relating to the representation of a client unless:
+
+* the client gives informed consent, 
+* the disclosure is impliedly authorized in order to carry out the representation 
+* or the disclosure is permitted by paragraph (b).
 
 #### Exceptions
 
@@ -69,7 +73,7 @@ or otherwise prejudice the client."
 
 ### To Prevent Death or Bodily Harm
 
-Old Rule 1.6(b)(1) required IMMINENT death or serious bodily harm. 
+Old Rule 1.6(b)(1) required *imminent* death or serious bodily harm. 
 The new rule requires *reasonably certain* death or serious bodily harm. 
 
 Note, so far, this exception has *not* been interpreted 
@@ -104,7 +108,7 @@ Model Rule 1.6(b)(1) and Comment 6.
 No longer a requirement that the harm must be imminent!
 
 As for child abusers, under Rule 1.6(b)(1) 
-the lawyer may disclose the client’s intent to commit *future abuse* 
+the lawyer may disclose the client's intent to commit *future abuse,* 
 but a client's confession to a lawyer 
 about past conduct is *confidential and privileged* 
 and may not be disclosed.
@@ -143,13 +147,13 @@ silently trump the lawyer's duty of confidentiality?
 Nebraska's reporting statute contains another quirk. 
 It lists those who must report: 
 physician, medical institution, nurse, etc. and then adds 
-OR ANY OTHER PERSON? 
+*or any other person?* 
 
 Huh? It's like an animal cruelty statute that says: 
 Geese, giraffes, wolverines or any other animal. 
 I mean, why do that? 
 If I'm a lawyer with a client who says, 
-"Don't you DARE tell anybody about the child abuse I committed," 
+"Don't you dare tell anybody about the child abuse I committed," 
 I doubt that this reporting statute 
 silently overrules both your duty to keep your client's confidences 
 and the attorney-client privilege at once. 
@@ -159,11 +163,11 @@ and presumably lawyers with hard evidence would find a way to report.
 Quite another thing to say lawyers *must* report.
 The profession does not like the *obligation* to report.
 The exceptions to confidentiality found in Model Rule 1.6(b) 
-are permissive: "A lawyer *may* reveal information. 
+are permissive: "A lawyer *may* reveal information &hellip; " 
 A mandatory reporting rule would sweep up a lot of edge cases 
-reported by lawyers who fear prosecution. 
+reported by lawyers who fear public reprimands or worse. 
 
-I mandatory reporting requirement would also 
+A mandatory reporting requirement would also 
 drive child abuse even further underground and out of sight. 
 Lawyers would have a duty to warn their clients 
 that the law requires the lawyers to report any evidence of child abuse. 
@@ -190,7 +194,7 @@ Should we read the mandatory reporting statutes
 to require that a priest who hears about child abuse 
 in the confessional should be required to report? 
 
-The U.S. Supreme Court denied cert. 
+The United States Supreme Court denied cert. 
 when presented with that question recently,
 so a [Baton Rouge trial judge will decide the question](http://theadvocate.com/news/11384032-123/us-supreme-court-allows-lawsuit).
 
@@ -202,7 +206,7 @@ so a [Baton Rouge trial judge will decide the question](http://theadvocate.com/n
 
 ### Financial Harm
 
-As we saw above, the (b)(2) and (b)(3) financial harm exceptions above are complicated. These rules came out [Ethics 2000][2000] and the Enron, Worldcom, Tyco financial frauds. 
+As we saw above, the (b)(2) and (b)(3) financial harm exceptions above are complicated. These rules came out of [Ethics 2000][2000] and the Enron, Worldcom, Tyco financial frauds. 
 
 These exceptions are convoluted. 
 Sometimes it helps to disassemble the components into bullets, 
@@ -217,11 +221,12 @@ in which case we have a rule exception that reads:
 * in furtherance of which the client has used the lawyer's services
 
 These rules were added to Model Rule 1.6 in 2003 
-in the wake of Enron, Tyco, Worldcom.
+in the wake of the Enron, Tyco, and Worldcom scandals.
 Delaware and Louisiana have adopted the ABA's 2003 version of 1.6 verbatim. 
 
 There is as yet no [*Tarasoff*][tarasoff] rule for lawyers. 
-In other words, these exceptions provide that the lawyer *may*, not *must*, disclose.
+In other words, these Model Rule 1.6(b) 
+exceptions provide that the lawyer *may*, not *must*, disclose.
 
 * [RLGL § 67: Using or Disclosing Information to Prevent, Rectify, or Mitigate Substantial Financial Loss.][RLGL-67]
 
@@ -254,8 +259,8 @@ or otherwise participating in the illegal conduct of her clients.
 
 In the course of representing a client a lawyer shall not knowingly:
 
-a. make a false statement of material fact or law to a third person; 
-b. or fail to disclose a material fact to a third person when disclosure is necessary to avoid assisting a criminal or fraudulent act by a client, unless disclosure is prohibited by Rule 1.6.
+(a) make a false statement of material fact or law to a third person; 
+(b) or fail to disclose a material fact to a third person when disclosure is necessary to avoid assisting a criminal or fraudulent act by a client, unless disclosure is prohibited by Rule 1.6.
 
 Comment [2] clarifies an exception to that rule’s prohibition on false statements, to wit: 
 
@@ -294,7 +299,7 @@ Many great lawyers never lie or even fudge the truth. Why?
 Why not instead develop a reputation for speaking the truth 
 and being a person of your word?
 
-Your CREDIBILITY!
+Credibility and honesty are the coins of the legal realm. 
 
 > Regard your good name as the richest jewel. For credit is like fire;
 when once you have kindled it you may easily preserve it, but if you once extinguish it, you will find it an arduous task to rekindle it again. ---Socrates
@@ -305,20 +310,20 @@ A lawyer must disclose a material fact to a third person when disclosure is nece
 
 #### Mandatory Disclosure?
 
-Rule 4.1(b) opens a can of worms, because it purports be mandatory. 
+Rule 4.1(b) opens a can of worms, because it purports to be mandatory. 
 Unlike the exceptions to Rule 1.6 ("a lawyer *may* disclose"),
 Rule 4.1(b) says "*must disclose* &hellip; "unless disclosure is prohibited by Rule 1.6."
 
 Why so complicated? The Rule is a two-headed beast. 
-What Rule 4.1(b) seems to do is turn certain of the *may* exceptions into *must* disclose.
+What Rule 4.1(b) seems to do is turn certain of the Model Rule 1.6(b) *may* exceptions into *must* disclose.
 
 A *BNA Practice Guide excerpt* highlights the sheer complexity of manipulating these both Rules at once.
 
-> There is some slippage between the requirements of Model Rule 4.1(b) and Model Rule 1.6(b)(2). Rule 1.6(b)(2) *permits* disclosure if the lawyer "reasonably believes" disclosure is necessary to prevent a crime or fraud in which the client is using or has used the lawyer's services. Rule 4.1(b), however, REQUIRES disclosure if the lawyer knows that disclosure is in fact "necessary" to avoid assisting a client's crime or fraud (with the exemption for information protected by Model Rule 1.6). If disclosure is in fact necessary to avoid assisting in a client's crime or fraud, but the lawyer reasonably does not believe that the client is using his services to further a crime or fraud, would the disclosure be prohibited under Model Rule 1.6(b)?
+> There is some slippage between the requirements of Model Rule 4.1(b) and Model Rule 1.6(b)(2). Rule 1.6(b)(2) *permits* disclosure if the lawyer "reasonably believes" disclosure is necessary to prevent a crime or fraud in which the client is using or has used the lawyer's services. Rule 4.1(b), however, *requires* disclosure if the lawyer knows that disclosure is in fact "necessary" to avoid assisting a client's crime or fraud (with the exemption for information protected by Model Rule 1.6). If disclosure is in fact necessary to avoid assisting in a client's crime or fraud, but the lawyer reasonably does not believe that the client is using his services to further a crime or fraud, would the disclosure be prohibited under Model Rule 1.6(b)?
 
 > Does "avoid assisting" a client's criminal or fraudulent act denote a level of participation different from "prevent the client from committing a crime or fraud &hellip; in furtherance of which the client has used or is using the lawyer's services"? 
 
-> The answer in the black letter of the rule itself is that Model Rule 4.1(b) does not require any disclosure that would violate the confidentiality rule. But if a disclosure would be permitted by Rule 1.6(b) (the “crime/fraud exception” to the confidentiality rule), then the disclosure is probably going to be required by Rule 4.1(b).
+> The answer in the black letter of the rule itself is that Model Rule 4.1(b) does not require any disclosure that would violate the confidentiality rule. But if a disclosure would be permitted by Rule 1.6(b) (the "crime/fraud exception" to the confidentiality rule), then the disclosure is probably going to be required by Rule 4.1(b).
 
 > The net effect of Rule 4.1(b), therefore, is that it takes a subset of the disclosures permitted by Rule 1.6(b) and makes them mandatory. 
 
@@ -342,7 +347,7 @@ that the actor “knows will make untrue or misleading a previous representation
 
 * A false representation;
 * Concerning a presently existing material fact;
-* Which the representor KNEW to be false or was made recklessly (fraud), or 
+* Which the representor knew to be false or was made recklessly (fraud), or 
 * which was made negligently;
 * For the purpose of inducing another to act;
 * The other party reasonably relied on it;
@@ -359,21 +364,21 @@ as long as they reasonably relied on a misrepresentation of material fact.
 
 What does the company want?
 
-* How to determine what the incorporeal entity of a corporation “wants” in a given situation?
+* How to determine what the incorporeal entity of a corporation "wants" in a given situation?
 * Think of [Model Rule 1.13][aba1.13] as an exhaustion of internal remedies within the company to determine what IT wants.
 
 ### Model Rule 1.13(b)
 
 “If a lawyer for an organization knows that an officer &hellip; is engaged in action &hellip; that is a violation of law &hellip; likely to result in substantial injury to the organization &hellip; the lawyer shall refer the matter to higher authority in the organization &hellip; including &hellip; the highest authority &hellip;" 
 
-We call this “going up the ladder” within the entity. 
+We call this "going up the ladder" within the entity. 
 The rungs on the ladder are described in Model Rule 1.13(b),(c), and (d) 
 and the lawyer must proceed in the interests of the corporation 
 until the entity acts to redress the violations of law. 
 
 If the corporation refuses to comply with the lawyer's advice, 
-then of course the lawyer must withdraw from represenation.
-The lawyer may also "reveal information relating to the representation **whether or not Rule 1.6 permits such disclosure**, 
+then of course the lawyer must withdraw from representation.
+The lawyer may also "reveal information relating to the representation *whether or not Rule 1.6 permits such disclosure*, 
 but only if and to the extent the lawyer 
 reasonably believes necessary to prevent 
 substantial injury to the organization.
@@ -387,7 +392,7 @@ Rule 1.13 Comment 3:
 > even if their utility or prudence is doubtful.
 
 Don't second guess business decisions, 
-but vigorously second guess LEGAL decisions.
+but vigorously second guess *legal* decisions.
 
 #### Test Question
 
@@ -422,7 +427,7 @@ Rule 3.4(c): "a lawyer shall not &hellip; knowingly disobey an obligation under 
 Following the [Ethics 20/20 Commission's recommendations][2020], 
 the ABA has added new Rule 1.6(c):
 
-> A lawyer shall make REASONABLE EFFORTS 
+> A lawyer shall make *reasonable efforts* 
 > to prevent the inadvertent or unauthorized disclosure of, 
 > or unauthorized access to, 
 > information relating to the representation of a client.
@@ -441,7 +446,7 @@ a lawyer may consider:
 
 The unauthorized access to, or the inadvertent or unauthorized disclosure of, confidential information does not constitute a violation of paragraph (c) if the lawyer has made reasonable efforts to prevent the access or disclosure.
 
-> Whether a lawyer may be required to take additional steps to safeguard a client’s information in order to comply with other law, such as state and federal laws that govern data privacy or that impose notification requirements upon the loss of, or unauthorized access to, electronic information, is beyond the scope of these Rules. For a lawyer’s duties when sharing information with nonlawyers outside the lawyer’s own firm, see Rule 5.3, Comments [3]-[4]. 
+> Whether a lawyer may be required to take additional steps to safeguard a client’s information in order to comply with other law, such as state and federal laws that govern data privacy or that impose notification requirements upon the loss of, or unauthorized access to, electronic information, is beyond the scope of these Rules. For a lawyer’s duties when sharing information with nonlawyers outside the lawyer’s own firm, see [Model Rule 5.3, Comments 3-4](https://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_5_3_responsibilities_regarding_nonlawyer_assistant/comment_on_rule_5_3.html).
 
 ###  Nebraska's Rule 1.6 
 
@@ -451,11 +456,11 @@ The unauthorized access to, or the inadvertent or unauthorized disclosure of, co
 
 ## Exceptions To Attorney-Client Privilege
 
-Unlike the broad duty of confidentiality which covers ALL information related to the representation whatever its source, the attorney-client privilege is NARROW and specific. As comment 3 to Rule 1.6 puts it:
+Unlike the broad duty of confidentiality which covers *all* information related to the representation whatever its source, the attorney-client privilege is *narrow* and specific. As comment 3 to Rule 1.6 puts it:
 
 > The attorney-client privilege and work product doctrine apply in judicial and other proceedings in which a lawyer may be called as a witness or otherwise required to produce evidence concerning a client. 
 
-The privilege comes with its own exceptions. Wikipedia does a good job with [a SHORT fair summary of the privilege and its exceptions](http://en.wikipedia.org/wiki/Attorney%E2%80%93client_privilege).
+The privilege comes with its own exceptions. Wikipedia does a good job with [a short fair summary of the privilege and its exceptions](http://en.wikipedia.org/wiki/Attorney%E2%80%93client_privilege).
 
 Courts permit exceptions to the attorney-client privilege when the harm caused by protecting the information is so great that public policy demands it. 
 Certainly the privilige will not protect the communications of a client who is seeking advice about how to commit a fraud or crime.
@@ -472,28 +477,35 @@ These exceptions vary by jurisdiction but usually include the following:
 
 ### Crime-Fraud Exception
 
-> The attorney-client privilege &hellip; cannot be used to shield ONGOING 
-or intended FUTURE criminal conduct. --*United States v. Zolin* (Sct. 1989) 
+> The attorney-client privilege &hellip; cannot be used to shield *ongoing*
+or intended *future* criminal conduct. --*United States v. Zolin* (US 1989) 
 
 By far the biggest and most important exception 
 is the crime-fraud exception. 
 It applies when the client is engaged in ongoing criminal activity, 
 or intends to seek advice about committing some future crime.
 
-Note crime-fraud is PROSPECTIVE. 
+Note crime-fraud is prospective. 
 Is there really a crime-fraud exception? 
-Isn’t it redundant or superfluous? Courts define the privilege as: "A communication for the purpose of obtaining or providing legal assistance?"
+Isn't it redundant or superfluous? 
+Courts define the privilege as: 
+"A communication for the purpose of obtaining or providing legal assistance?"
 Doesn't this by its own terms exclude communications seeking advice how to break the law.
 
-“Excuse me can you help me set up a money-laundering operation?”
+"Excuse me can you help me set up a money-laundering operation?"
 
-“Can you help me set up an illegal tax shelter?”
+"Can you help me set up an illegal tax shelter?"
 
-“Yes, I murdered the victim.  And I am going to take the stand and say that at the time of the murder I was eating dinner with my Mom.”
+"Yes, I murdered the victim. 
+And I am going to take the stand 
+and say that at the time of the murder 
+I was eating dinner with my mom."
 
-To best promote the purposes of the attorney-client privilege, the crime fraud exception should apply ONLY if the communication seeks assistance in or furtherance of future criminal conduct.
+To best promote the purposes of the attorney-client privilege, 
+the crime fraud exception should apply *only* if 
+the communication seeks assistance in or furtherance of future criminal conduct.
 
-#### United States v. Zolin (Sct.1989)
+#### United States v. Zolin (US 1989)
 
 If prosecutors suspect the crime-fraud exception applies, 
 they must follow a two-step process:
@@ -501,23 +513,29 @@ they must follow a two-step process:
 1. First, show facts &hellip; that in camera review of the materials may reveal evidence that the crime-fraud exception applies.
 2. Then, if judge decides this question in favor of the government, the otherwise privileged material may be submitted for in camera inspection.
 
-Is there “reasonable cause to believe that the atty’s services were used to further an ongoing unlawful scheme?”
+Is there "reasonable cause to believe 
+that the atty's services were used to further an ongoing unlawful scheme?"
 
-The lawyer's innocence does NOT preserve the attorney-client privilege against the crime-fraud exception. The attorney's lack of any guilty knowledge did not matter because the privilege was the client’s and the client’s misconduct sufficed to lose it. 
+The lawyer's innocence does *not* preserve 
+the attorney-client privilege against the crime-fraud exception. 
+The attorney's lack of any guilty knowledge did not matter 
+because the privilege was the client's and the client's misconduct sufficed to lose it. 
 
-Crime-fraud exception turns on client’s intent rather that the lawyer’s knowledge of the client’s goal.
+Crime-fraud exception turns on client's intent 
+rather that the lawyer's knowledge of the client's goal.
 
-Lawyers learn to look at their emails and their advice the way a judge or jury might look at it after the fact.
+Lawyers learn to look at their emails and their advice 
+the way a judge or jury might look at it after the fact.
 
 ### Claimants Through Same Deceased Client
 
-Some Probate lawyers argue that you can resist this if the client wanted it resisted.
+Some probate lawyers argue that you can resist this if the client wanted it resisted.
 
-Better course is if the testator says, “And you better make sure that no good dirty rotten son-in-law of mine does NOT get his hands on my gun collection”
+Better course is if the testator says, “And you better make sure that no good dirty rotten son-in-law of mine does *not* get his hands on my gun collection”
 
 Then you can put the waiver right in the Will.
 
-### Breach of Duty (Lawyer OR Client) 
+### Breach of Duty (Lawyer or Client) 
 
 * Malpractice Action.
 * Criminal Proceeding.
@@ -535,7 +553,7 @@ Then you can put the waiver right in the Will.
 Joints clients may assert the attorney-client privilege 
 when it’s The World vs. Them.
 
-But any ONE of the joint clients may waive the privilege 
+But any *one* of the joint clients may waive the privilege 
 when all were present for the conference 
 or helped create the document.
 
@@ -544,18 +562,25 @@ something relevant to the joint representation,
 the lawyer must tell the others.
 
 When joint clients fall out, 
-their communications are NOT protected 
+their communications are *not* protected 
 by the attorney-client privilege.
 
 ### Underlying Information Not Protected
 
-"The privilege protects communication with counsel, but does not protect the underlying information. --Stephen Gillers
+"The privilege protects communication with counsel, 
+but does not protect the underlying information." --Stephen Gillers
 
-Client emails lawyer a problematic Word document that client wrote and transmitted a few years ago and in which client arguably committed fraud. 
-Client's communications in the body of the email and the possibly even the fact that client emailed lawyer are protected by the attorney-client privilege.
+Client emails lawyer a problematic Word document 
+that client wrote and transmitted a few years ago 
+and in which client arguably committed fraud. 
+Client's communications in the body of the email 
+and possibly even the fact that client emailed lawyer 
+are protected by the attorney-client privilege.
 
-However the document remains evidence. And if the other side seeks discovery, 
-the client has not somehow cloaked the document in the attorney-client privilege by mailing it to the lawyer.
+However the document remains evidence. 
+And if the other side seeks discovery, 
+the client has not somehow cloaked the document 
+in the attorney-client privilege by mailing it to the lawyer.
 
 ### Recommended Reading & Viewing
 
@@ -567,7 +592,7 @@ Some vivid real-life examples of the innocent-person-on-death-row dilemma (see M
 
 #### Corporate Counsel
 
-###### Confidentiality
+###### Confidentiality, Optional Reading
 
 Three ABA/BNA articles on the corporate attorney-client privilege:
 
