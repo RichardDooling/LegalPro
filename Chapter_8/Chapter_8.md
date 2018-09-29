@@ -5,7 +5,7 @@ subtitle: Chapter 8
 document: slide notes
 ---
 
-# M&F3rd Chapter 8
+# M&F4th Chapter 8
 
 ###### Lawyer Interests and Compliance with other law
 
@@ -358,10 +358,10 @@ MAKE SURE YOUR COURT REPORTER KEEPS TYPING what the idiot lawyer is saying. Don'
 
 
 
-
-
 [98-411]: http://www.americanbar.org/content/dam/aba/publishing/litigation_news/top_stories/docs/ethics-98-411.authcheckdam.pdf "ABA Formal Opinion 98-411"
 
 [RLGL-119]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=Restatement+(Third)+of+Law+Governing+Law+%c2%a7+119+(2000)&appflag=67.12 "RLGL § 119 Physical Evidence of a Client Crime"
 
 [RLGL-63]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=Restatement+(Third)+of+Law+Governing+Law+%c2%a7+63+(2000)&appflag=67.12 "RLGL 63"
+
+[RLGL-83]: https://www.westlaw.com/Document/Ieee1cccbdc6111e28a48c0d45341c37f/View/FullText.html?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0 "Lawyer Self-Protection"
