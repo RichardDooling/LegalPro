@@ -14,29 +14,32 @@ Yes, thanks! RD 22-Feb-2017
 
 -->
 
-# M&F3rd, CHAPTER 10
+# M&F 4th, Chapter 10
 
 ###### Conflicts of Interest: Specific Rules
 
 ## Introduction
 
 As our authors point out, 
-the conflicts discussed in this chapter have several things in common. 
-First, they occur so often 
-that special rules have evolved from general conflicts of interest provisions. 
-Second, lawyers confronted by these issues cannot rely on their instincts, 
+the conflicts discussed in this chapter are so common 
+that each gets its own special subsection under [Model Rule 1.8][aba1.8].
+Second, lawyers confronted by these issues cannot rely on their instincts alone, 
 because personal interests color their view of the fairness of the transaction. 
-For both these reasons, 
-MR 1.8 has developed an almost *per se* approach 
-that either prohibits or heavily regulates the conflict, 
-which is designed both to protect clients and remind lawyers of their obligations.
+The lawyer is like the barber in one of Warren Buffett's favorite sayings, namely: 
+Don't ask your barber if you need a haircut. 
+
+For these reasons, 
+Model Rule 1.8 has developed an almost *per se* approach 
+that either prohibits or specifically regulates the conflict 
+to remind lawyers of their primary obligation, 
+which is to serve their clients. 
 
 ## Model Rule 1.8
 
 ###### Current Clients: Specific Rules
 
-Model Rule 1.7 is the *general* conflicts rule. 
-Model Rule 1.8 is the *specific* conflicts rule, 
+[Model Rule 1.7][aba1.7] is the *general* conflicts rule. 
+[Model Rule 1.8][aba1.8] is the *specific* conflicts rule, 
 specifically the conflicts that give the profession a bad name.
 Formerly known as the "prohibited transactions" rule, 
 it's as if the ABA said, 
@@ -67,24 +70,19 @@ Lawyers must be scrupulously loyal.
 The lawyer's instincts, 
 no matter how good, are usually not enough. 
 
-Of course, lawyers also form friendships with clients, 
-either before or after the lawyer commences representation. 
-But when a court, or a client’s relative, or a client’s business associate 
-comes in and examines a lawyer’s transactions with her clients, 
-the lawyer is not a friend, the lawyer is a *fiduciary* 
-and the presumption is that the lawyers transactions with the client
-were the product of *undue influence*.
-
 The fear, especially in these specifically regulated transactions is that:
 
 * The lawyer's judgment may be affected by greed or self-interest;
 * The client may think that the lawyer is more objective about the transaction than she really is;
-* Lawyer may use confidential information to take advantage of the client.
+* The lawyer may use confidential information to take advantage of the client.
 
 ### The Iceberg Analogy
 
 Modern neuroscience teaches that our consciousness is a bit like an iceberg. 
-About 10% of brain activity is conscious, meaning, the lawyer is *aware* of about ten per cent of brain activity. But that means, lawyers are *unaware* of the other 90% of brain activity. The scary part: Lawyers make unconscious decisions all day long, 
+About 10% of brain activity is conscious, meaning, 
+the lawyer is *aware* of about ten per cent of brain activity. 
+But that means, lawyers are *unaware* of the other 90% of brain activity. 
+The scary part: Lawyers make unconscious decisions all day long, 
 and may place their own interests ahead of the interests of their clients 
 without even realizing it.
 
@@ -130,8 +128,18 @@ May a lawyer eat at his client's restaurant,
 or open a checking account at the client's bank? 
 Of course.
 
-May a lawyer purchase that Picasso her client is trying to sell? DANGER.
-May she purchase property from the estate she represents? DOUBLE DANGER.
+Lawyers also form friendships with clients, 
+either before or after the lawyer commences representation.
+The lawyer may feel she is simply helping a client out with a loan, 
+or taking a piece of land off the client's hands. 
+But when a court, or a client’s relative, or a client’s business associate 
+comes in and examines the terms of the transaction between lawyer and client, 
+the lawyer is judged not as a friend, but as a lawyer and *fiduciary* to the client.
+The presumption is that any unfavorable terms in the lawyer's transactions with the client
+were the product of *undue influence*.
+
+May a lawyer purchase that Picasso her client is trying to sell? Danger.
+May she purchase property from the estate she represents? Double Danger.
 With these kind of transactions, 
 the Model Rules step in and say, essentially: 
 It's impossible for a lawyer to get a great deal from his client, 
@@ -140,10 +148,11 @@ and the client's informed consent must be obtained, all in a writing.
 
 #### Informed Consent
 
-Under Model Rule 1.7 (the general conflicts of interest rule), 
+Under the general conflicts of interest rule, [Model Rule 1.7][aba1.7], 
 the client's informed consent must be "confirmed in writing."
-Under Model Rule 1.8, the standard is higher,
-because doing with a client calls for the highest formalities of the Model Rules: disclosure, advice *and* consent, all in writing. 
+[Model Rule 1.8(a)][aba1.8] calls for more duties and formalities to enforce them.
+When the lawyer purports to do business with his client, 
+he must disclose, advise, *and* obtain consent, all in writing. 
 The lawyer must disclose "fair and reasonable" terms 
 that are "easily understood" (no legalese). 
 
@@ -152,11 +161,17 @@ fair and reasonable?
 If it’s the Picasso or some land or anything else of uncertain value, 
 get an appraisal or an estimate.
 
-The lawyer must *advise* the client to seek the advice of independent counsel (and the client must be given the opportunity to consult) to review the terms of the deal.
+The lawyer must *advise* the client to seek the advice of independent counsel, 
+and the client must be given the opportunity to do so and to review the terms of the deal.
 The client must give *informed consent* in a writing *signed by the client*, 
-and the consent must be to the essential terms of the deal, and to the *lawyer's role*, i.e. is the lawyer representing the client in this transaction, or not. 
+and the consent must be to the essential terms of the deal, 
+and to the *lawyer's role*, namely, 
+is the lawyer representing the client in this transaction, or not. 
 
-Applies to lawyers engaged in the sale of goods or services related to the practice of law, for example, the sale of title insurance or investment services to existing clients of the lawyer’s legal practice. 
+Model Rule 1.8(a) applies to lawyers engaged in the sale of goods or services 
+related to the practice of law, for example, 
+the sale of title insurance or investment services 
+to existing clients of the lawyer's legal practice. 
 
 <!-- The following were extra notes -->
 
@@ -190,19 +205,20 @@ What happens when lawyers take all or part of their fee
 in the form of stock in the client’s business, 
 or some other property of uncertain valuation?
 
-See Model Rule 1.8, Comment [1]: 
 Model Rule 1.8 does not *normally* apply to fee arrangements; 
-fees are governed by Rule 1.5. 
+fees are governed by [Model Rule 1.5][aba1.5]. 
 But look what happens if the lawyer accepts 
-an interest in the client’s business 
+an interest in the client's business 
 or property (not money) 
 as payment of all or part of a fee. 
-Now the lawyer must comply with both rule 1.5 
+Now the lawyer must comply with both [Model Rule 1.5][aba1.5] 
 (the fee must be reasonable) 
-and rule 1.8(a)
+and [Model Rule 1.8(a)][aba1.8]
 (the terms must be fair and reasonable, 
 must be disclosed in writing, 
 client must be encouraged to seek independent representation).
+
+See [Model Rule 1.8, Comment 1](https://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_1_8_current_clients_specific_rules/comment_on_rule_1_8.html)
 
 ### Model Rule 1.8(b) 
 
@@ -212,11 +228,11 @@ unless the client gives informed consent,
 except as permitted or required by these Rules.
 
 Notice this rule forbids *using* information to the client's disadvantage, 
-in the same way Model Rule 1.6 forbids *disclosing* information.
+in the same way Model Rule 1.6, the confidentiality rule, forbids *disclosing* information.
 
 Earlier versions of this Rule were inspired by agency law.
 Under the common law, 
-the agent (e.g., the lawyer) 
+the agent (for example, the lawyer) 
 may not use secret information of the principal (client) 
 without consent. Period. 
 Remedy is disgorgement of the agent's profits.
@@ -239,9 +255,9 @@ whether Lily's real estate purchase harmed Eureka, or not.
 
 But under Model Rule 1.8(b), 
 Lily's purchase based on information she gleaned 
-by representing Eureka is unethical 
+from representing Eureka is unethical, 
 only if buying the real estate 
-was using information to the disadvantage of Eureka.
+was using information to the *disadvantage* of Eureka.
 For example, 
 if it could be shown that Eureka wanted the land for itself 
 and would have purchased it if Lily had not gotten there first.
@@ -262,7 +278,7 @@ Under Model Rule 1.8,
 the lawyer may not use confidential information 
 to the client's disadvantage."
 
-Easiest to remember it this way: DON'T USE OR DISCLOSE CONFIDENTIAL INFORMATION. 
+Easiest to remember it this way: Don't use or disclose confidential information. 
 What's confidential? Almost everything.
 
 <!-- Do you want to use the above statement to segue into the next section? -->
@@ -324,9 +340,10 @@ or ask to be written into their client's wills,
 or prepare "an instrument" giving the lawyer any substantial gift, 
 *unless* the client is a close relative.
 
-The Restatement of the Law Governing Lawyers says unless the lawyer is a “relative or other natural object of the client’s generosity.” so the key blanket prohibitions go like this: 
-Unless you are a relative or other natural object of the client’s generosity, 
-do not solicit gifts or prepare instruments giving the lawyer 
+The Restatement of the Law Governing Lawyers says that 
+unless the lawyer is a “relative or other natural object of the client’s generosity,” 
+the lawyer may not 
+solicit gifts or prepare instruments giving the lawyer 
 a substantial gift. 
 
 Bit of a paradox here, at least under the Model Rules. 
@@ -365,7 +382,7 @@ and doesn't prepare any instrument
 giving herself a substantial gift, 
 then Model Rule 1.8 would permit the client to give Rick a gift, 
 even a substantial one, 
-with the big caveat contained in rule 1.8, comment 6. 
+with the big caveat contained in Model Rule 1.8, comment 6. 
 Namely, that the gift “may be voidable by the client 
 under the doctrine of undue influence, 
 which treats client gifts as presumptively fraudulent.”
@@ -383,9 +400,9 @@ the Restatement (RLGL) warns that substantial gifts from clients are suspect.
 Years later, the client's heirs will ask: 
 “What happened to Dad’s Rolex?” 
 
-"Oh," someone screams, "the LAWYER GOT IT."
+"Oh," someone screams, "the lawyer got it!"
 The lawyer may be okay under the Model Rules 
-but the client's family may sue him in equity for exercising undue influence on Dad. 
+but the client's family may sue him in equity for exercising undue influence on dear old grandpa. 
 
 #### RLGL 3rd § 127(1)  
 
@@ -451,7 +468,7 @@ Model Rule 1.8, Comment [8]: “does not prohibit a lawyer
 from seeking to have the lawyer &hellip; 
 named as executor of the client’s estate” 
 or other lucrative position. 
-But see Rule 1.7 conflict of interest!
+But see Model Rule 1.7 conflict of interest!
 
 Comment [8] requires the lawyer to secure the client’s “informed consent” 
 when the lawyer’s personal interest would itself create a conflict. 
@@ -470,17 +487,24 @@ a lawyer can't make a deal for a story based on the representation.
 
 What is the real problem here? 
 A possible conflict, of course. 
-In this case a conflict between what makes the best book or movie deal versus what is the best outcome for the client. 
-The best entertainment properties tend to be about guilty people who get off (O.J.) or innocent people who go to jail (*Making A Murderer*. 
-So the ABA does not want a trial lawyer who may see herself as the hero of this trial-based with a pretty good settlement offer? Or faced with the knowledge that good trial movies don’t typically end in confidential settlement agreements.
+In this case, a conflict between what makes the best book or movie deal 
+versus what is the best outcome for the client. 
+The best entertainment properties tend to be about guilty people who get off (O.J.) 
+or innocent people who go to jail (*Making A Murderer?*). 
+So the ABA does not want a trial lawyer, who may see herself 
+as the hero of this trial, deciding on what makes for a good settlement offer? 
+TV courtroom dramas and legal thrillers don't typically end in confidential settlement agreements.
 
 #### Reversal of Fortune
 
 Many find the media spectacle of a lawyer profiting by telling tales about their clients to be unseemly, even if the lawyer manages to secure the necessary confidentiality waivers.
 
-One example, Alan Dershowitz. Dershowitz represented Claus von Bülow, a British socialite, who had been found guilty for attempted murder of his wife, Sunny von Bülow, who went into a coma in Newport, Rhode Island, in 1980 (and later died in 2008). 
+One example, Alan Dershowitz. Dershowitz represented [Claus von Bülow](https://en.wikipedia.org/wiki/Claus_von_B%C3%BClow), a British socialite, who had been found guilty for attempted murder of his wife, Sunny von Bülow, who went into a coma in Newport, Rhode Island, in 1980 (and later died in 2008). 
 
-Dershowitz had the conviction overturned, and von Bülow was acquitted in a retrial. Dershowitz told the story of the case in his book, *Reversal of Fortune: Inside the von Bülow case* (1985), which was turned into a movie in 1990. 
+Dershowitz had the conviction overturned, 
+and von Bülow was acquitted in a retrial. 
+Dershowitz told the story of the case in his book, 
+[*Reversal of Fortune: Inside the von Bülow case*](https://en.wikipedia.org/wiki/Reversal_of_Fortune) (1985), which was turned into a movie in 1990. 
 
 Critics of Dershowitz claim that he routinely violates legal ethics 
 (by using and disclosing confidential information), 
@@ -523,8 +547,12 @@ In plain English, the lawyer shall not be paid by somebody other than the client
 * The person paying for representation does not interfere; 
 * Client info is kept confidential and not shared with person who pays. 
 
-Comment 11 describes how lawyers are frequently asked to represent a client under circumstances in which a third person will compensate the lawyer, in whole or in part. 
-The third person might be a relative or friend, an indemnitor (such as a liability insurance company) or a co-client (such as a corporation sued along with one or more of its employees). 
+Comment 11 describes how lawyers are frequently asked 
+to represent a client under circumstances 
+in which a third person will compensate the lawyer, in whole or in part. 
+The third person might be a relative or friend, 
+an indemnitor (such as a liability insurance company) 
+or a co-client (such as a corporation sued along with one or more of its employees). 
 
 Because third-party payers frequently have interests 
 that differ from those of the client, 
@@ -536,7 +564,7 @@ unless the lawyer determines
 that there will be no interference 
 with the lawyer's independent professional judgment 
 and there is informed consent from the client. 
-See also Rule 5.4(c) (prohibiting interference with a lawyer's professional judgment by one who recommends, employs or pays the lawyer to render legal services for another).
+See also [Model Rule 5.4(c)](https://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_5_4_professional_independence_of_a_lawyer.html) (prohibiting interference with a lawyer's professional judgment by one who recommends, employs or pays the lawyer to render legal services for another).
 
 This Rule comes up often in the insurance business, 
 because people with insurance are defended by lawyers hired by the insurance companies.
@@ -604,20 +632,28 @@ and that a third party, Mutual, is paying Dan's legal bills.
 
 <!-- Right to sue for malpractice. Some states say only a client may sue, whereas probably only the insurer really suffers the financial loss. -->
 
-#### Insurer Retains Lawyer  to Represent Insured
+#### Insurer Retains Lawyer to Represent Insured
 
 Model Rule 1.8 Comment 11 says the insured is the client 
 and the liability insurer will be the party compensating the lawyer.
 
-Restatement Third says whether the lawyer has one client or two is a matter of insurance law, not the law governing lawyers.
+Restatement Third says whether the lawyer has one client or two 
+is a matter of insurance law, not the law governing lawyers.
 
 Still in dispute. Insurance companies like to argue that they too are clients.
 
-Old way to treat the problem was to make it a multiple client problem, but makes the analysis confusing.
+The old way to treat the problem was to make it a multiple client problem, 
+but that makes the analysis confusing.
 
-May lawyer write a report to the insurer if the insured objects under Rule 1.6 (confidentiality)? Normally only the client may tell the lawyer to settle. The insurer may say, “Settle!” The insured may say, “No way!”
+May lawyer write a report to the insurer 
+if the insured objects under Model Rule 1.6 (confidentiality)? 
+Normally only the client may tell the lawyer to settle. 
+The insurer may say, “Settle!” The insured may say, “No way!”
 
-Right to sue for malpractice. Some states say only a client may sue, whereas probably only the insurer really suffers the financial loss. Either way 1.8(f) (compensation from one other than the client) and 1.7(a)(current conflicts) apply.
+Right to sue for malpractice. 
+Some states say only a client may sue, 
+whereas probably only the insurer really suffers the financial loss. 
+Either way 1.8(f) (compensation from one other than the client) and 1.7(a) (current conflicts) apply.
 
 The lawyer representing the insured 
 may owe enforceable duties to the insurance company 
@@ -681,8 +717,8 @@ A lawyer shall not:
 
 In plain English, a lawyer *shall not*:
 
-1. A lawyers can't make a deal limiting her client's ability to sue for malpractice, unless the client is represented by his own independent lawyer. 
-2. A lawyer can't settle a malpractice claim with an unrepresented client or former client *unless* the client is advised in writing to seek advice of independent legal counsel and is given the opportunity to do so. 
+1. make a deal limiting her client's ability to sue for malpractice, unless the client is represented by his own independent lawyer. 
+2. settle a malpractice claim with an unrepresented client or former client *unless* the client is advised in writing to seek advice of independent legal counsel and is given the opportunity to do so. 
 
 ### Model Rule 1.8(i)
 
@@ -763,7 +799,8 @@ Typical of the specific prohibitions under 1.8. The ABA doesn’t care if there�
 
 For a vivid illustration of how bad an idea it is 
 for a lawyer to have sex with his client, 
-see *Body Heat*, starring William Hurt, Kathleen Turner, 
+see [*Body Heat*](https://en.wikipedia.org/wiki/Body_Heat), 
+starring William Hurt, Kathleen Turner, 
 Ted Danson and Mickey Rourke.
 How wrong can things go for this gullible lawyer? 
 One of only two movies using the Rule Against Perpetuities 
@@ -836,4 +873,8 @@ A lawyer shall not practice with or in the form of a professional corporation or
 (2) a nonlawyer is a corporate director or officer &hellip; or position similar 
 (3) a nonlawyer has the right to direct or control the professional judgment of a lawyer.
 
+[aba1.8]: http://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_1_8_current_clients_specific_rules.html "ABA Model Rule 1.8: Current Clients: Specific Rules" 
 
+[aba1.7]: http://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_1_7_conflict_of_interest_current_clients.html	"ABA Model Rule 1.7: Conflict of Interest: Current Client"
+
+[aba1.5]: https://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_1_5_fees.html "Fees"
