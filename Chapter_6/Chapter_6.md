@@ -257,7 +257,9 @@ As for what circumstances may justify a departure from the general rule, the com
 * “sending an email if the lawyer knows that the email recipient is accessing the email on devices that are potentially accessible to third persons or are not protected by a password”; or
 * “sending an email if the lawyer is concerned that the NSA or other law enforcement agency may read the communication, with or without a warrant.”
 
-[Bloomberg BNA on Confidentiality: Lawyers May Need to Encrypt E-Mail In Especially Risky or Sensitive Scenarios.](http://lawyersmanual.bna.com/mopw2/3300/split_display.adp?fedfid=68911229&vname=mopcnotallissues&jd=a0g6d0j1v6&split=0)
+See also, [The Key to Being Safer Online Is Actually a Key](https://www.wsj.com/articles/the-key-to-being-safer-online-is-actually-a-key-1540126800): The best way to protect yourself against hackers and phishers is to turn on two-factor authentication—then get a YubiKey or Google Titan Key.
+
+To encrypt or not to encrypt: [Bloomberg BNA on Confidentiality: Lawyers May Need to Encrypt E-Mail In Especially Risky or Sensitive Scenarios.](http://lawyersmanual.bna.com/mopw2/3300/split_display.adp?fedfid=68911229&vname=mopcnotallissues&jd=a0g6d0j1v6&split=0)
 
 ##### JPMorgan's Lawyers Interview Employees About Madoff Fraud
 
