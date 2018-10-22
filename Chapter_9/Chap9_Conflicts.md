@@ -22,9 +22,11 @@ more than any other Model Rule, by far.
 
 Model Rule 1.7 contains three parts: 
 
-- (a)(1) we’ll call *“directly adverse”* conflicts;
-- (a)(2) we’ll call “materially limited” conflicts;
-- (b), as in "except as provided in paragraph (b)," we’ll call: *“Eek! I have a conflict! Now what?”*
+> (a)(1) we’ll call *“directly adverse”* conflicts;
+
+> (a)(2) we’ll call “materially limited” conflicts;
+
+> (b), as in "except as provided in paragraph (b)," we’ll call: *“Eek! I have a conflict! Now what?”*
 
 ### Model Rule 1.7(a)
 
@@ -41,7 +43,7 @@ A concurrent conflict of interest exists if:
 
 Like so many Model Rules, it begins with a proviso that doesn’t make sense yet.
 
-    Except as provided in paragraph (b) . . . .
+> Except as provided in paragraph (b) . . . .
 
 Imagine Charles Dickens starting the *Tale Of Two Cities* by writing: &hellip; 
 “Except as provided in Chapter 27, 
