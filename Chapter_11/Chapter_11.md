@@ -765,9 +765,9 @@ Why is the PUBLIC FACE important if they in fact protect client confidences from
 
 > Similar questions can also arise with respect to lawyers in legal aid and legal services organizations. Depending upon the structure of the organization, the entire organization or different components of it may constitute a firm or firms for purposes of these Rules.
 
-## uberrima fides
+### uberrima fides
 
-what does it mean?  page 395 (M&F3rd)
+what does it mean? 
 
 "utmost good faith" (literally, "most abundant faith"). 
 It is the name of a legal doctrine 
