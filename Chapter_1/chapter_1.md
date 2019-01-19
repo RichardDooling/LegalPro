@@ -149,6 +149,19 @@ Dooling: The time to have a moral dilemma is when the lawyer is deciding whether
 
 ![Lawyer_Roles](images/Lawyer_Roles.png "Lawyer Roles")
 
+### Analyze Problems by Asking
+
+* Does the conduct violate the ABA Model Rules? If so, what should the penalty be?
+* If no Rule violation, what moral standard are you using to judge or criticize the conduct?
+* Should the lawyer ACT, even though failure to act would not cause discipline?
+* How could the lawyer have served the client AND still have been professionally responsible? 
+
+### Not Very Helpful Answers
+
+* “I would tell the client to get another lawyer.”
+* “I will always be ethical.”
+* “I will always obey the law.”
+
 ## Recommended Reading & Viewing
 
 * [RLGL "Professional Discipline" &sect; 5][RLGL-5]

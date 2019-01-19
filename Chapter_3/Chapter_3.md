@@ -358,3 +358,7 @@ As opposed to another way to do it. Instead of perceiving it as a threat, explor
 [aba1.18]: http://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_1_18_duties_of_prospective_client.html	"Model Rule 1.18: Duties To A Prospective Client"
 
 [flynt]: https://en.wikipedia.org/wiki/The_People_vs._Larry_Flynt "The People Versus Larry Flynt"
+
+[aba1.4]: https://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_1_4_communications/
+
+[aba1.14]: https://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_1_14_client_with_diminished_capacity/

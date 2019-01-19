@@ -257,6 +257,19 @@ As for what circumstances may justify a departure from the general rule, the com
 * “sending an email if the lawyer knows that the email recipient is accessing the email on devices that are potentially accessible to third persons or are not protected by a password”; or
 * “sending an email if the lawyer is concerned that the NSA or other law enforcement agency may read the communication, with or without a warrant.”
 
+#### Two Factor Authentication
+
+At a minimum, a lawyer using cloud services should employ some form of [two-factor authentication](https://medium.com/@mshelton/two-factor-authentication-for-beginners-b29b0eec07d7).
+
+I use the [Google Titan key](https://store.google.com/us/product/titan_security_key_kit?hl=en-US
+), but the [Yubico]( https://www.yubico.com/) is probably more widespread at the moment
+
+If you intend to purchase one, first check and see what services you are most concerned about protecting. 
+Titan obviously works with Google accounts, Dropbox, Github and others. 
+Yubikey may work with others that Titan doesn't work for yet.
+
+But for a smaller firm or solo practitioner this would be a cheap way to lock down cloud services and possibly even the local network, if it was set up correctly.
+
 See also, [The Key to Being Safer Online Is Actually a Key](https://www.wsj.com/articles/the-key-to-being-safer-online-is-actually-a-key-1540126800): The best way to protect yourself against hackers and phishers is to turn on two-factor authentication—then get a YubiKey or Google Titan Key.
 
 To encrypt or not to encrypt: [Bloomberg BNA on Confidentiality: Lawyers May Need to Encrypt E-Mail In Especially Risky or Sensitive Scenarios.](http://lawyersmanual.bna.com/mopw2/3300/split_display.adp?fedfid=68911229&vname=mopcnotallissues&jd=a0g6d0j1v6&split=0)
@@ -315,7 +328,7 @@ The work-product doctrine protects materials prepared in anticipation of litigat
 * Documents and Tangible Things. 
 * Ordinarily, a party may not discover documents and tangible things that are prepared in anticipation of litigation or for trial by or for another party or its representative &hellip; 
 
-##### Ordinary vs. Opinon Work Product
+#### Ordinary vs. Opinon Work Product
 
 - *Hickman v. Taylor* – “ordinary work” work product may be obtained in discovery upon a showing of “substantial need.”
 - [RLGL &sect;89](http://tinyurl.com/kq6nkqj): "Opinion work product is immune from discovery &hellip; unless &hellip; extraordinary circumstances justify disclosure.
