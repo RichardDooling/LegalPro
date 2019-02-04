@@ -150,7 +150,7 @@ and sometimes I address them in the next chapter dealing with Competence.
 * Lawyer Controls:
     * The means to achieve the client's goals.
     * But lawyer must consult with the client about the MEANS or HOW TO achieve those goals. [Model Rule 1.4][aba1.4]: Duty To Consult/Communicate with Client.
-* Lawyer may be impliedly authorized to take action on behalf of client even without client's informed consent [Model Rule 1.14][aba1.14]: Client With Diminished Capacity), but this is unusual.
+* Lawyer may be impliedly authorized to take action on behalf of client even without client's informed consent [Model Rule 1.14][aba1.14] (Client With Diminished Capacity), but this is unusual.
 * A lawyer may take such action on behalf of the client as she is impliedly authorized to carry out. 
 
 #### Model Rule 1.2(b)

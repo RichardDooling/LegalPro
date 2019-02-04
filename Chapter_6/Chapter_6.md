@@ -31,24 +31,35 @@ document: slide notes
 
 Confidentiality? 
 Leave it to lawyers to come up with a seven-syllable abstraction 
-for ancient words like trust and loyalty that come to us from the Middle Ages. 
+to describe simple ancient duties like trust, loyalty, and vows of silence. 
 Client's pay good money for trust and loyalty, 
 and they expect good judgment and absolute discretion 
 about their legal and business affairs. 
-Patients don't like it when their doctors 
-blab to others about their diseases. See the [Health Information Privacy Rules](https://www.hhs.gov/hipaa/for-professionals/privacy/index.html).
-And clients don't like it 
-when their lawyers blab to others, 
-*including other lawyers*,
-about the clients' business and legal affairs. 
+If a lawyer gossips about his client's affairs 
+and the client is harmed in any way, 
+the client may sue for malpractice, breach of fiduciary duty, or invasion of privacy. 
+A complaint to disciplinary counsel of the state's bar association 
+would likely lead to charges that the lawyer violated the state's version of [Model Rule 1.6 (Confidentiality)][aba1.6].
+
+Doctors owe the same duty of confidentiality to patients, 
+a duty not to disclose the patient's private medical information 
+without the patient's consent. 
+A doctor who violates that trust can be sued for malpractice or invasion of privacy under state law, 
+along with violations of federal law 
+under the Health Insurance Portability and Accountability Act of 1996, "[HIPAA](https://www.hhs.gov/hipaa/for-professionals/privacy/index.html)".
+
+No patient wants his doctor discussing the patient's medical condition with others, 
+and clients don't like it 
+when lawyers blab about the client's legal and business affairs to others, 
+*including other lawyers*.
 
 ###  Model Rule 1.6 - Confidentiality
 
-Note the imperative language here. 
+Please note the imperative. 
 
 > A lawyer *shall not* reveal information relating to the representation of a client unless &hellip; 
 
-What kind of information is confidential under [Model Rule 1.6][aba1.6]? 
+What information is confidential under [Model Rule 1.6][aba1.6]? 
 I will make it easy for you: 
 Everything is confidential. Think big and broad.
 
@@ -56,13 +67,13 @@ Many lawyers assume that the duty of confidentiality
 protects only client secrets. 
 That it means don't blab about anything the client asked the lawyer to keep secret 
 and don't disclose privileged information. 
-These lawyers confuse [Model Rule 1.6][aba1.6] (an *ethical rule*) with the [attorney-client privilege](https://en.wikipedia.org/wiki/Attorney%E2%80%93client_privilege) (a rule of *evidence*), 
+These lawyers also confuse [Model Rule 1.6][aba1.6] (an *ethical rule*) with the [attorney-client privilege](https://en.wikipedia.org/wiki/Attorney%E2%80%93client_privilege) (a rule of *evidence*), 
 which by comparison *is* small and narrow, 
 because it applies only when a court or an adverse party 
 is trying to compel the lawyer or the lawyer's client to testify 
 about "a privileged communication made in confidence to obtain or provide legal assistance for the client."
 
-The duty of confidentiality is much broader. 
+The duty of confidentiality is much broader than the attorney-client privilege. 
 The Model Rules put it this way:
 
 > The confidentiality rule, for example, 
@@ -75,7 +86,8 @@ The Model Rules put it this way:
 Confidentiality is a 24/7 open all night *broad* duty to keep the lawyer's mouth shut about client affairs. 
 
 Other lawyers confuse Rule 1.6 (an *ethical* rule) with the attorney work product doctrine (a *discovery* rule), Rule 26(b)(3) in the Federal Rule of Civil Procedure. 
-Somebody wants documents or other tangible things. The lawyer objects and says, 
+Somebody wants documents or other tangible things. 
+The lawyer objects and says, 
 "No. That is work product prepared by me in the course of legal representation, 
 or in anticipation of litigation." 
 
@@ -84,11 +96,11 @@ are both *narrow specific* defensive tactics
 the lawyer asserts in proceedings connected with litigation. 
 It is a mistake to think of them as similar 
 to the comparatively huge ethical duty of confidentiality. 
-Lawyers must keep client information confidential 
-whether either lawyer or client ever sets foot in a courtroom.
+Lawyers must keep client information confidential, 
+even if neither lawyer nor client ever sets foot in a courtroom.
 
-The ethical duty of confidentiality includes *all* information relating to the representation, 
-*whatever its source.*"
+Say it out loud: The ethical duty of confidentiality includes 
+*all* information relating to the representation, *whatever its source.*"
 
 This comes straight from the ABA's 
 [Model Rule 1.6 Comment 3][aba1.6-3],
@@ -129,6 +141,8 @@ about your client's affairs is gauche and unprofessional.
 The lawyer should *not* be the source of information about the lawyer's client, again, 
 except as authorized or required by the Model Rules or other law. 
 
+Be a professional. Don't tell people about your clients. Let your clients tell people about you.
+
 ## Confidentiality
 
 Clients hate it when lawyers blab. 
@@ -160,13 +174,24 @@ applies even to [prospective clients][aba1.18] even when no client relationship 
 
 > But there are some duties, such as that of confidentiality under Rule 1.6, that attach when the lawyer agrees to consider whether a client-lawyer relationship shall be established. Whether a client-lawyer relationship exists for any specific purpose can depend on the circumstances and may be a question of fact.
 
-### Dead Clients & Confidentiality
+### Beyond The Grave
 
-And if the United States Supreme Court’s opinion in *Swidler v. Berlin* is any indication, Rule 1.6 protects confidential information even after the death of the client.
+How long are the lawyer's lips sealed? 
+In *Swidler & Berlin v. United States*, the United States Supreme Court 
+held that the attorney-client privilege survives the death of the client.
+No blabbing, even after the client is dead.
+
+As for the much broader ethical duty of confidentiality:
+
+> A number of state bar opinions indicate that the ethical obligation to client confidentiality survives the death of the client. The purposes of the ethical rules on confidentiality overlap with goals of the attorney-client privilege and of work-product protection but also are said to be broader, in that they support the reputation of the legal profession. 
+
+[Is Confidentiality Really Forever: Even if the Client Dies or Ceases to Exist?](https://www.americanbar.org/groups/litigation/publications/litigation_journal/2013-14/spring/is_confidentiality_really_forever_even_if_client_dies_or_ceases_exist/)
 
 ### Exception for "generally known" information?
 
-Many lawyers think that client information is NOT confidential if it is part of a public record somewhere. The Model Rules contain *no* such exception.
+Many lawyers think that client information is *not* confidential 
+if it is part of a public record somewhere. 
+The Model Rules contain *no* such exception.
 Model Rule 1.6's prohibits revealing "information relating to the representation of a client," 
 and it makes no exception for information that has been previously disclosed or is publicly available. 
 
@@ -176,7 +201,7 @@ but it's quite narrow:
 > *d. Generally known information.* 
 
 > Confidential client information 
-> does not include information that is generally known &hellip; 
+> does not include information that is *generally known* &hellip; 
 > At the same time, the fact that information 
 > has become known to some others 
 > does not deprive it of protection 
@@ -187,7 +212,7 @@ but it's quite narrow:
 > depends on all circumstances 
 > relevant in obtaining the information. 
 > Information contained in books or records in public libraries, 
-> public-record depositaries such as government offices, 
+> public-record depositories such as government offices, 
 > or in publicly accessible electronic-data storage is generally known 
 > if the particular information is obtainable 
 > through publicly available indexes and similar methods of access. 
@@ -220,7 +245,7 @@ The LTRC defines metadata this way:
 
 > Metadata is loosely defined as "data about data." More specifically, the term refers to the embedded stratum of data in electronics file that may include such information as who authored a document, when it was created, what software was used, any comments embedded within the content, and even a record of changes made to the document.
 
-> While metadata is often harmless, it can potentially include sensitive, confidential, or privileged information. As such, it presents a serious concern for attorneys charged with maintaining confidentiality -- both their own and their clients. Professional responsibility committees at several bar associations around the country have weighed in on attorneys' ethical responsibilities regarding metadata, but the opinions vary significantly. 
+> While metadata is often harmless, it can potentially include sensitive, confidential, or privileged information. As such, it presents a serious concern for attorneys charged with maintaining confidentiality---both their own and their clients. Professional responsibility committees at several bar associations around the country have weighed in on attorneys' ethical responsibilities regarding metadata, but the opinions vary significantly. 
 
 Under [Model Rule 4.4(b)][aba4.4] (Respect For Rights Of Third Persons):
 
@@ -347,7 +372,7 @@ The work-product doctrine protects materials prepared in anticipation of litigat
 * JK Rowling's [lawyer opens big mouth][rowling] to reveal that she is the author of a pseudonymous book.
 * [Jointly Represented Clients Can't Stop Another From Seeing What Lawyer Told Them](http://lawyersmanual.bna.com/mopw2/3300/split_display.adp?fedfid=62647428&vname=mopcnotallissues&jd=a0g1z7z4c7&split=0) (A client suing a former lawyer for malpractice is entitled to discover communications between the lawyer and jointly represented co-clients who chose not to sue).
 * John T. Noonan, Jr., [*The Lawyer Who Overindentifies With His Client,*][noonan] 76 Notre Dame L. Rev. 827 (2001).
-* [The Professional Ethics Committee For The State Bar Of Texas Opinion No. 648 April 2015.](http://www.legalethicstexas.com/getattachment/9936985b-f798-41c6-bc9f-97d4e0bff9de/Opinion-648.aspx)
+* [The Professional Ethics Committee For The State Bar Of Texas Opinion No. 648 April 2015.](http://www.legalethicstexas.com/getattachment/9936985b-f798-41c6-bc9f-97d4e0bff9de/Opinion-648.aspx) (lawyer may have a duty to advise client about risks of sending or receiving of emails and consider whether it is prudent to use encrypted email or another form of communication). 
 
 #### Lawyer To The Client, Not The Situation
 

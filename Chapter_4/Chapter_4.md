@@ -8,9 +8,7 @@ document: Chapter_4.md
 
 ## Notes, Slide Text, Optional Readings 
 
-###### Competence
-
-## Competence & Technology 
+###### Competence & Technology 
 
 ### Ethics 20/20 Commission 
 
@@ -71,9 +69,17 @@ So the command to keep abreast of changing technologies is now explicit. Just on
 
 #### Leveraging Your Tech Skills
 
-An ABA Ethics tip [Competence: Acquire it or Hire it!]( http://www.americanbar.org/groups/professional_responsibility/services/ethicsearch/ethicstipofthemonthmay2014.html), published in May of 2014 propose that lawyers must be competent in legal tech, or must hire or associate with lawyers who are. 
+An ABA Ethics tip [Competence: Acquire it or Hire it!](https://www.americanbar.org/news/abanews/publications/youraba/2014/november-2014/competence--acquire-it-or-hire-it--/), published in May of 2014 proposes that lawyers must be competent in legal tech, or must hire or associate with lawyers who are.
 
-[California Proposed Opinion NO. 11-0004 (2014)](http://www.americanbar.org/groups/professional_responsibility/services/ethicsearch/ethicstipofthemonthmay2014.html) says that if e-discovery is likely, then a California lawyer must:
+Other jurisdictions are chiming in, even for matters as mundane as storing client information in the cloud.
+
+> A lawyer may use an online data storage system to store and back up client confidential information provided that the lawyer takes reasonable care to ensure that confidentiality will be maintained in a manner consistent with the lawyer’s obligations under Rule 1.6. In addition, the lawyer should stay abreast of technological advances to ensure that the storage system remains sufficiently advanced to protect the client’s information, and should monitor the changing law of privilege to ensure that storing the information online will not cause loss or waiver of any privilege.
+
+[NYSBA \| Ethics Opinion 842](http://old.nysba.org/AM/Template.cfm?Section=Ethics_Opinions&ContentID=140010&template=/CM/ContentDisplay.cfm)
+
+California has also spoken on the issue.
+According to [California Proposed Opinion NO. 11-0004 (2014)](http://www.calbar.ca.gov/Portals/0/documents/publicComment/2014/2014_11-0004ESI03-21-14.pdf), 
+a lawyer must:
 
 > assess his or her own e-discovery skills and resources 
 > as part of the attorney’s duty 
@@ -166,6 +172,8 @@ RLGL describes the difference this way:
 > Many claims brought by clients against lawyers can reasonably be classified either as for breach of fiduciary-duty or for negligence without any difference in result. For example, the duty of care enforced in a negligence action is also a fiduciary duty; likewise, the specific duties of lawyers help define both their fiduciary obligations and the contents of their duty of care. Most rules applicable to negligence actions also apply to actions for breach of fiduciary duty. Pleaders typically add a fiduciary-duty claim to a negligence count for reasons of rhetoric or completeness. Whether classifying a claim as one for breach of fiduciary duty affects the applicable limitations period depends on the language, structure, and policies of a jurisdiction's statute of limitations and is beyond the scope of this Restatement.
 
 [RLGL § 53 Causation and Damages][RLGL-53]
+
+
 #### Lawyers'Fees Affected by Breach of Fiduciary Duty?
 
 Hot area!
@@ -302,10 +310,9 @@ The court held that the attorney had an independent duty to the children, as dec
 * Malpractice
 * Misrepresentation
 * Aiding & Abetting a Client’s Breach of Fiduciary Duty
-
 - [Attorney Representing Closely Held Entity Owed Duty to Protect Company's Two Owners](http://www.bna.com/attorney-representing-closely-n12884904452/)
 
-#### Lawyer Tort Liability to Nonclients: Malpractice
+#### Lawyer Tort Liability to Nonclients: Malpractice
 
 * Third-party beneficiaries of clients, RLGL §51(3);
 * Those invited to rely by the lawyer (prospective clients, Togstadt) RLGL §51(1), Rule 1.18;
@@ -330,7 +337,11 @@ Rest. 2nd of Torts §552(2), RLGL §56 and Greycas.
 
 #### Optional Readings
 
-[You’re All Out! A defense attorney uncovers a brazen scheme to manipulate evidence, and prosecutors and police finally get caught. By Dahlia Lithwick, Slate Magazine MAY 28 2015 1:38 PM.](http://www.slate.com/articles/news_and_politics/jurisprudence/2015/05/orange_county_prosecutor_misconduct_judge_goethals_takes_district_attorney.single.html)
+["You're All Out!":](http://www.slate.com/articles/news_and_politics/jurisprudence/2015/05/orange_county_prosecutor_misconduct_judge_goethals_takes_district_attorney.single.html)
+A defense attorney uncovers a brazen scheme to manipulate evidence, 
+and prosecutors and police finally get caught. 
+By Dahlia Lithwick, [*Slate Magazine*](http://www.slate.com/articles/news_and_politics/jurisprudence/2015/05/orange_county_prosecutor_misconduct_judge_goethals_takes_district_attorney.single.html), 28 May 2015.
+
 
 <!-- BEGIN COMMENT -->
 
