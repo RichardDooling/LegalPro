@@ -32,7 +32,7 @@ document: slide notes
 Confidentiality? 
 Leave it to lawyers to come up with a seven-syllable abstraction 
 to describe simple ancient duties like trust, loyalty, and vows of silence. 
-Client's pay good money for trust and loyalty, 
+Clients pay good money for trust and loyalty, 
 and they expect good judgment and absolute discretion 
 about their legal and business affairs. 
 If a lawyer gossips about his client's affairs 
@@ -51,7 +51,7 @@ under the Health Insurance Portability and Accountability Act of 1996, "[HIPAA](
 No patient wants his doctor discussing the patient's medical condition with others, 
 and clients don't like it 
 when lawyers blab about the client's legal and business affairs to others, 
-*including other lawyers*.
+*including to other lawyers*.
 
 ###  Model Rule 1.6 - Confidentiality
 
