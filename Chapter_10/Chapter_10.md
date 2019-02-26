@@ -30,7 +30,8 @@ The lawyer is like the barber in one of Warren Buffett's favorite sayings, namel
 Don't ask your barber if you need a haircut. Litigation is good business for lawyers, 
 but often not good for clients. A wise lawyer thinks of Voltaire's famous maxim: 
 "I was never ruined but twice: once when I lost a lawsuit, and once when I won one."
-It takes a conscious effort to keep your client's interests ahead of your own.
+Lawyers must make a constant effort to keep their clients' interest ahead of their own, 
+the very definition of a fiduciary. 
 
 For these reasons, 
 Model Rule 1.8 prohibits or regulates certain specific transactions between lawyers and their clients. 
