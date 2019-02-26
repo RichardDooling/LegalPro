@@ -23,16 +23,17 @@ Yes, thanks! RD 22-Feb-2017
 As our authors point out, 
 the conflicts discussed in this chapter are so common 
 that each gets its own special subsection under [Model Rule 1.8][aba1.8].
-Second, lawyers confronted by these issues cannot rely on their instincts alone, 
-because personal interests color their view of the fairness of the transaction. 
+Second, lawyers confronted by these specific conflicts of interest 
+cannot rely on their instincts alone to guide them. 
+Personal interests color the lawyer's view of the fairness of the transaction. 
 The lawyer is like the barber in one of Warren Buffett's favorite sayings, namely: 
-Don't ask your barber if you need a haircut. 
+Don't ask your barber if you need a haircut. Litigation is good business for lawyers, 
+but often not good for clients. A wise lawyer thinks of Voltaire's famous maxim: 
+"I was never ruined but twice: once when I lost a lawsuit, and once when I won one."
+It takes a conscious effort to keep your client's interests ahead of your own.
 
 For these reasons, 
-Model Rule 1.8 has developed an almost *per se* approach 
-that either prohibits or specifically regulates the conflict 
-to remind lawyers of their primary obligation, 
-which is to serve their clients. 
+Model Rule 1.8 prohibits or regulates certain specific transactions between lawyers and their clients. 
 
 ## Model Rule 1.8
 
@@ -43,11 +44,12 @@ which is to serve their clients.
 specifically the conflicts that give the profession a bad name.
 Formerly known as the "prohibited transactions" rule, 
 it's as if the ABA said, 
-“Let’s make a separate Model Rule listing all of the transactions with clients that typically get lawyers in trouble:"
+"Let’s make a separate Model Rule listing all of the transactions with clients 
+that typically get lawyers in trouble:"
 
 * lawyers taking advantage of their clients in business transactions,
 * lawyers soliciting gifts, 
-* lawyers writing themselves into their client’s wills,
+* lawyers writing themselves into their client's wills,
 * lawyers trying to buy the literary or media rights to stories about their clients,
 * lawyers allowing third parties to interfere with the representation,
 * lawyers making "aggregate" settlements with clients, 
@@ -57,9 +59,15 @@ These specific transactions are fraught with peril for unwitting lawyers.
 That's why they are grouped together in one Model Rule and governed by strict rules 
 and client protections.
 The lawyer must abide by the specific requirements of each rule, 
-or risk discipline, even if both lawyer and client are happy, 
-and the lawyer's failure was inadvertent and unintended. 
-The standard approaches strict liability. No intent required.
+or risk discipline, even if both lawyer and client are happy.
+The lawyer who did business with her client and failed to advise her client in writing 
+to seek the advice of independent legal counsel may feel ethical.
+The client may have no complaints. 
+But the lawyer has violated the Model Rules.
+If the lawyer's lapse was inadvertent and unintended, 
+Disciplinary Counsel or the State Supreme Court may show him mercy, 
+but intent need not be shown. The Rules are the rules. 
+Lawyers are expected to know them and to follow them.
 
 ### Lawyers Are Super Fiduciaries!
 
@@ -111,7 +119,9 @@ or acquire an interest adverse to the client, *unless* (in writing):
 Model Rule 1.8(a) introduces a pattern in these mini-rules that will become familiar. 
 It begins with what sounds like a blanket prohibition: 
 
-A lawyer shall not enter into a business transaction with a client or knowingly acquire an ownership, possessory, security or pecuniary interest adverse to the client *UNLESS*--- the lawyer performs certain specific duties and required conditions. 
+> A lawyer shall not enter into a business transaction with a client or knowingly acquire an ownership, possessory, security or pecuniary interest adverse to the client. 
+
+Unless. Unless the lawyer meets all three of the requirements described above.
 
 #### When is a Lawyer "Doing Business" with a Client?
 
@@ -142,8 +152,9 @@ May a lawyer purchase that Picasso her client is trying to sell? Danger.
 May she purchase property from the estate she represents? Double Danger.
 With these kind of transactions, 
 the Model Rules step in and say, essentially: 
-It's impossible for a lawyer to get a great deal from his client, 
-because the terms must be "fair and reasonable," disclosed, 
+Let's make it impossible for a lawyer to get a great deal from his client. 
+Instead any business transactions between lawyer and client
+must be "fair and reasonable," disclosed, 
 and the client's informed consent must be obtained, all in a writing.
 
 #### Informed Consent
@@ -175,12 +186,12 @@ to existing clients of the lawyer's legal practice.
 
 <!-- The following were extra notes -->
 
-But the lawyer need not require 
+The lawyer need not require 
 that the client take advantage of the opportunity to seek counsel of another lawyer.
 
 The client signing requirement was added by 2002 revisions to the Model Rules.
 
-### Transactions with clients are suspect! 
+#### Transactions with clients are suspect! 
 
 A trap for the unwary lawyer.
 Client need *not* prove lawyer abuse.
@@ -188,7 +199,7 @@ Lawyer can get in trouble
 just because the lawyer did not jump through the Rule 1.8(a) hoops.
 A pure heart is no defense.
 
-### Undue Influence 
+#### Undue Influence 
 
 Are business contracts between attorney and client 
 presumptively invalid as the product of undue influence?
@@ -202,16 +213,19 @@ and the lawyer must rebut the presumption.
 #### Pay Legal Fees With Stock?
 
 What happens when lawyers take all or part of their fee 
-in the form of stock in the client’s business, 
+in the form of stock in the client’s business 
 or some other property of uncertain valuation?
 
 Model Rule 1.8 does not *normally* apply to fee arrangements; 
 fees are governed by [Model Rule 1.5][aba1.5]. 
-But look what happens if the lawyer accepts 
-an interest in the client's business 
-or property (not money) 
-as payment of all or part of a fee. 
-Now the lawyer must comply with both [Model Rule 1.5][aba1.5] 
+But if a lawyer accepts 
+property or an interest in the client's business 
+as payment for all or part of a fee, 
+the lawyer is both getting paid *and* 
+doing business with the client. 
+
+Because the lawyer takes stock or property in lieu of a fee,
+the lawyer must comply with both [Model Rule 1.5][aba1.5] 
 (the fee must be reasonable) 
 and [Model Rule 1.8(a)][aba1.8]
 (the terms must be fair and reasonable, 
@@ -220,10 +234,12 @@ client must be encouraged to seek independent representation).
 
 See [Model Rule 1.8, Comment 1](https://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_1_8_current_clients_specific_rules/comment_on_rule_1_8.html)
 
-### Model Rule 1.8(b) 
+> [Rule 1.8] does not apply to ordinary fee arrangements between client and lawyer, which are governed by Rule 1.5, although its requirements must be met when the lawyer accepts an interest in the client's business or other nonmonetary property as payment of all or part of a fee.
+
+### Model Rule 1.8(b)
 
 A lawyer shall not *use* information 
-relating to representation of a client *to the disadvantage* of the client 
+relating to representation of a client *to the disadvantage* of the client, 
 unless the client gives informed consent, 
 except as permitted or required by these Rules.
 
@@ -233,7 +249,7 @@ in the same way Model Rule 1.6, the confidentiality rule, forbids *disclosing* i
 Earlier versions of this Rule were inspired by agency law.
 Under the common law, 
 the agent (for example, the lawyer) 
-may not use secret information of the principal (client) 
+may not use confidential information of the principal (client) 
 without consent. Period. 
 Remedy is disgorgement of the agent's profits.
 
@@ -249,29 +265,28 @@ will cause land near the project to rapidly appreciate,
 so Lily *uses* that information 
 to invest in a few parcels of surrounding real estate.
 
-When Eureka learns of Lily's use, under the common law, 
+When Eureka learns of Lily's purchase, under the common law, 
 Lily must disgorge any and all profits derived from her investments, 
-whether Lily's real estate purchase harmed Eureka, or not.
+whether Lily's real estate purchase harmed or disadvantaged Eureka.
 
-But under Model Rule 1.8(b), 
-Lily's purchase based on information she gleaned 
-from representing Eureka is unethical, 
-only if buying the real estate 
-was using information to the *disadvantage* of Eureka.
-For example, 
-if it could be shown that Eureka wanted the land for itself 
-and would have purchased it if Lily had not gotten there first.
+But under Model Rule 1.8(b), an ethical rule, 
+Lily may use information that she learned from representing Eureka, 
+so long as Eureka is not disadvantaged by her use.
+If Eureka could show that it had plans to purchase those parcels itself 
+and would have done so if Lily had not gotten there first,
+then Lily's use of Eureka's information would violate *both* the common law of agency 
+and Model Rule 1.8(b).
 
 #### When In Doubt, Ask
 
 When in doubt, the lawyer should *ask* 
 the client/principal for permission, 
-and if client consents, lawyer is home free.
+and if client consents, the lawyer is home free.
 
 But if client refuses (or if lawyer never seeks consent), 
 then the lawyer is accountable to the  client for profits under:
 
-* Restatement Second Agency §388 (“restitutionary relief in the form of disgorgement of profit”);
+* Restatement Second Agency §388 ("restitutionary relief in the form of disgorgement of profit");
 * Restatement Third Law Governing Lawyers §60 (“lawyer who uses confidential information of a client for the lawyer’s pecuniary gain other than in the practice of law must account to the client for any profits made”)
 
 Under Model Rule 1.8, 
@@ -296,14 +311,16 @@ The following are other Rules
 that may require lawyers to disclose or use client information 
 despite the prohibitions of Model Rule 1.8: 
 
-##### Exceptions Found In Other Model Rules 
+#### Exceptions Found In Other Model Rules 
 
 * Model Rule 1.2(d) lawyer shall not counsel a client to commit criminal or fraudulent act.
 * Model Rule 1.6 confidentiality exceptions
 * Model Rule 4.1(b) failure to disclose material fact when necessary to avoid assisting a criminal or fraudulent act by a client.
 * Model Rule 3.3 Candor toward the tribunal
 * Model Rule 8.1 Bar Admission & Disciplinary matters
-* Model Rule 8.3 Reporting professional misconduct
+* Model Rule 8.3 Reporting professional misconduct.
+
+The prohibition has a long and storied history:
 
 * ABA Canons of Professional Ethics (1908): “The Lawyer should refrain from *any action* whereby for his personal benefit or gain he abuses or takes advantage of the confidence reposed in him by his client.”
 * Model Code DR 4-101(B)(3) (1981) (equally definitive) absent informed client consent, a lawyer may not “knowingly &hellip; use a confidence or secret of his client for the advantage of himself or of a third person.”
@@ -394,17 +411,17 @@ they look at either the client’s resources, or the lawyers, or both.
 
 #### The Rearview Mirror
 
-Model Rule 1.8(c) is an *ethical rule* 
-for the common law and other laws governing lawyers 
+Model Rule 1.8(c) is an *ethical rule*.
+For the common law and other laws governing lawyers 
 the Restatement (RLGL) warns that substantial gifts from clients are suspect. 
 Years later, the client's heirs will ask: 
 “What happened to Dad’s Rolex?” 
 
-"Oh," someone screams, "the lawyer got it!"
+"Oh," someone will say, "the lawyer got it!"
 The lawyer may be okay under the Model Rules 
 but the client's family may sue him in equity for exercising undue influence on dear old grandpa. 
 
-#### RLGL 3rd § 127(1)  
+#### RLGL 3rd § 127(1)
 
 A lawyer may not prepare any instrument effecting any gift from a client to the lawyer, including a testamentary gift, unless the lawyer is a relative or other natural object of the client's generosity *and* the gift is not significantly disproportionate to those given other donees similarly related to the donor.
 
@@ -419,7 +436,7 @@ in which the father leaves half of his estate to the lawyer,
 and a fourth of his estate to each of the lawyer's brothers. 
 The RLGL says you have a problem.
 
-#### RLGL 3rd § 127(2) 
+#### RLGL 3rd § 127(2)
 
 ###### Client Gift to a Lawyer
 
@@ -632,7 +649,7 @@ and that a third party, Mutual, is paying Dan's legal bills.
 
 <!-- Right to sue for malpractice. Some states say only a client may sue, whereas probably only the insurer really suffers the financial loss. -->
 
-#### Insurer Retains Lawyer to Represent Insured
+#### Insurer Retains Lawyer to Represent Insured
 
 Model Rule 1.8 Comment 11 says the insured is the client 
 and the liability insurer will be the party compensating the lawyer.
@@ -663,7 +680,7 @@ even if it is not a client.
 
 ### Model Rule 1.8(g) 
 
-A lawyer who represents two or more clients shall not participate in making an aggregate settlement of the claims of or against the clients, or in a criminal case an aggregated agreement as to guilty or nolo contendere pleas, unless each client gives informed consent, in a writing signed by the client. The lawyer's disclosure shall include the existence and nature of all the claims or pleas involved and of the participation of each person in the settlement.
+A lawyer who represents two or more clients shall not participate in making an aggregate settlement of the claims of or against the clients, or in a criminal case an aggregated agreement as to guilty or *nolo contendere* pleas, unless each client gives informed consent, in a writing signed by the client. The lawyer's disclosure shall include the existence and nature of all the claims or pleas involved and of the participation of each person in the settlement.
 
 In plain English: No Aggregate Settlements, unless:
 
@@ -673,13 +690,13 @@ In plain English: No Aggregate Settlements, unless:
 As in the *Burrow* case, 
 one of the remedies for violating the common law version of Rule 1.8(g) is fee forfeiture.
 
-#### Model Rule 1.8 Comment [13]
+#### Model Rule 1.8 Comment [13].
 
 ###### Aggregate Settlements
 
 Differences in willingness to make or accept an offer of settlement are among the risks of common representation of multiple clients by a single lawyer. Under Rule 1.7, this is one of the risks that should be discussed before undertaking the representation, as part of the process of obtaining the clients' informed consent. In addition, Rule 1.2(a) protects each client's right to have the final say in deciding whether to accept or reject an offer of settlement and in deciding whether to enter a guilty or nolo contendere plea in a criminal case. The rule stated in this paragraph is a corollary of both these Rules and provides that, before any settlement offer or plea bargain is made or accepted on behalf of multiple clients, the lawyer must inform each of them about all the material terms of the settlement, including what the other clients will receive or pay if the settlement or plea offer is accepted. 
 
-### RLGL § 37: Fee Forfeiture
+#### RLGL § 37: Fee Forfeiture
 
 A lawyer engaging in clear and serious violation of duty to a client may be required to forfeit some or all of the lawyer's compensation for the matter. Considerations relevant to the question of forfeiture include the gravity and timing of the violation, its willfulness, its effect on the value of the lawyer's work for the client, any other threatened or actual harm to the client, and the adequacy of other remedies.
 
@@ -708,7 +725,7 @@ It’s an equitable remedy similar to a constructive trust
 
 ### Model Rule 1.8(h) 
 
-###### Limitation of Liability to Client 
+###### Limitation of Liability to Client 
 
 A lawyer shall not: 
 
@@ -757,8 +774,7 @@ Alternative Litigation Finance (ALF) or Litigation Funding seems to be receiving
 
 From [Alternative Litigation Finance: Good or Bad?](http://www.legalinkmagazine.com/2014/10/alternative-litigation-finance-good-or-bad/) 
 
-As Silicon Valley investor Peter Thiel recently demonstrated it's possible and legally permissible to invest in lawsuits. But lawyers interested in Alternative Litigation Finance (ALF) need expert help to make sure they comply with a welter of ethical rules, 
-including the following. 
+As Silicon Valley investor Peter Thiel [recently demonstrated](https://www.forbes.com/sites/mattdrange/2016/06/21/peter-thiels-war-on-gawker-a-timeline/#7470d5e251c5) it's possible and legally permissible to invest in lawsuits. But lawyers interested in Alternative Litigation Finance (ALF) need expert help to make sure they comply with a welter of ethical rules, including the following. 
 
 * Model Rule 1.8(a) doing business with client . . .
 * Model Rule 1.8(e) providing financial assistance to a client . . .
