@@ -446,3 +446,8 @@ Although I discuss it here in class, see the much more thorough coverage in the 
 (a) A lawyer serves as a third-party neutral when the lawyer assists two or more persons who are not clients of the lawyer to reach a resolution of a dispute or other matter that has arisen between them.  Service as a third-party neutral may include service as an arbitrator, a mediator or in such other capacity as will enable the lawyer to assist the parties to resolve the matter.
 
 (b) A lawyer serving as a third-party neutral shall inform unrepresented parties that the lawyer is not representing them. When the lawyer knows or reasonably should know that a party does not understand the lawyer's role in the matter, the lawyer shall explain the difference between the lawyer's role as a third-party neutral and a lawyer's role as one who represents a client.
+
+### Conflicts Flowchart
+
+![Conflicts Flowchart](Conflicts_Flowchart.png "Conflicts Flowchart")
+
