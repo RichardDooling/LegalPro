@@ -48,7 +48,7 @@ No obligation here. Only for the curious, but if you get interested in how GitHu
 If you read or see something that belongs here, 
 please send me a link, 
 especially news stories or good articles 
-[IN PLAIN ENGLISH](http://www.scotusblog.com/category/plain-english/) 
+[*in plain English*](http://www.scotusblog.com/category/plain-english/) 
 on issues we discuss in class. 
 
 If you read or write an especially apt synopsis 
